@@ -1,0 +1,352 @@
+[
+    {
+        "question":  "What is a constitutional amendment? / آئینی ترمیم کیا ہوتی ہے؟",
+        "options":  [
+                        "Removal of government / حکومت کا خاتمہ",
+                        "Change in court decisions / عدالتی فیصلوں میں تبدیلی",
+                        "Change in any part of the constitution / آئین کے کسی حصے میں تبدیلی",
+                        "Change in laws only / صرف قوانین میں تبدیلی"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "Which amendment declared Qadianis as non-Muslims? / کون سی ترمیم نے قادیانیوں کو غیر مسلم قرار دیا؟",
+        "options":  [
+                        "5th Amendment / پانچویں ترمیم",
+                        "8th Amendment / آٹھویں ترمیم",
+                        "2nd Amendment / دوسری ترمیم",
+                        "18th Amendment / اٹھارھویں ترمیم"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "Which amendment gave more autonomy to provinces? / کس ترمیم نے صوبوں کو زیادہ خودمختاری دی؟",
+        "options":  [
+                        "17th Amendment / سترھویں ترمیم",
+                        "8th Amendment / آٹھویں ترمیم",
+                        "16th Amendment / سولھویں ترمیم",
+                        "18th Amendment / اٹھارھویں ترمیم"
+                    ],
+        "correctAnswer":  3
+    },
+    {
+        "question":  "How many total constitutional amendments have been made in Pakistan (as of 2023)? / 2023 تک پاکستان میں کل کتنی آئینی ترامیم ہو چکی ہیں؟",
+        "options":  [
+                        "15",
+                        "20",
+                        "25",
+                        "30"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "Who approves constitutional amendments in Pakistan? / پاکستان میں آئینی ترامیم کی منظوری کون دیتا ہے؟",
+        "options":  [
+                        "Supreme Court / سپریم کورٹ",
+                        "Prime Minister / وزیر اعظم",
+                        "Parliament with two-thirds majority / پارلیمنٹ دو تہائی اکثریت سے",
+                        "President alone / صرف صدر"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "Which of the following is the responsibility of every citizen according to Article 5 of the Constitution of Pakistan? / پاکستان کے آئین کے آرٹیکل 5 کے مطابق، مندرجہ ذیل میں سے کون سی ذمہ داری ہر شہری پر عائد ہوتی ہے؟",
+        "options":  [
+                        "To pay taxes / ٹیکس ادا کرنا",
+                        "To participate in political activities / سیاسی سرگرمیوں میں حصہ لینا",
+                        "To follow the law / قانون کی پیروی کرنا",
+                        "To protect public property / عوامی املاک کا تحفظ کرنا"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "Which of the following is required for the approval of a constitutional amendment in Pakistan? / پاکستان میں آئینی ترمیم کی منظوری کے لیے مندرجہ ذیل میں سے کیا ضروری ہے؟",
+        "options":  [
+                        "Majority of the National Assembly members / قومی اسمبلی کے ارکان کی اکثریت",
+                        "Approval from the Supreme Court / سپریم کورٹ کی منظوری",
+                        "A two-thirds majority in both houses of Parliament / پارلیمنٹ کے دونوں ایوانوں میں دو تہائی اکثریت",
+                        "The President’s approval / صدر کی منظوری"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "What was the effect of the 18th Amendment to the Constitution of Pakistan? / پاکستان کے آئین میں 18ویں ترمیم کا اثر کیا تھا؟",
+        "options":  [
+                        "Strengthened the powers of the President / صدر کے اختیارات کو مزید مضبوط کیا",
+                        "Increased the power of the Prime Minister / وزیر اعظم کے اختیارات میں اضافہ کیا",
+                        "Restored the powers of the Prime Minister and reduced the powers of the President / وزیر اعظم کے اختیارات کو بحال کیا اور صدر کے اختیارات کو کم کیا",
+                        "Abolished provincial autonomy / صوبائی خودمختاری کو ختم کیا"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "Which amendment to the Constitution of Pakistan introduced the concept of a caretaker government for transparent elections? / پاکستان کے آئین میں کس ترمیم نے شفاف انتخابات کے لیے نگران حکومت کا تصور متعارف کرایا؟",
+        "options":  [
+                        "19th Amendment / 19ویں ترمیم",
+                        "20th Amendment / 20ویں ترمیم",
+                        "21st Amendment / 21ویں ترمیم",
+                        "22nd Amendment / 22ویں ترمیم"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "What was the impact of the 21st Amendment to the Constitution of Pakistan? / پاکستان کے آئین میں 21ویں ترمیم کا اثر کیا تھا؟",
+        "options":  [
+                        "Allowed the creation of military courts for terrorism-related cases / دہشت گردی سے متعلق مقدمات کے لیے فوجی عدالتوں کے قیام کی اجازت دی",
+                        "Increased the President\u0027s powers / صدر کے اختیارات میں اضافہ کیا",
+                        "Abolished military courts / فوجی عدالتوں کو ختم کیا",
+                        "Introduced provincial autonomy / صوبائی خودمختاری متعارف کرائی"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "What is the main purpose of the 18th Amendment in Pakistan? / پاکستان میں 18ویں ترمیم کا بنیادی مقصد کیا تھا؟",
+        "options":  [
+                        "To reduce the powers of the judiciary / عدلیہ کے اختیارات میں کمی کرنا",
+                        "To give more autonomy to the provinces / صوبوں کو مزید خودمختاری دینا",
+                        "To empower the military / فوج کو مضبوط کرنا",
+                        "To centralize power in the federal government / وفاقی حکومت میں طاقت کو یکجا کرنا"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Which of the following amendments to the Constitution of Pakistan introduced reforms in the judicial appointment process? / پاکستان کے آئین میں کس ترمیم نے عدلیہ کی تقرری کے عمل میں اصلاحات متعارف کرائیں؟",
+        "options":  [
+                        "19th Amendment / 19ویں ترمیم",
+                        "20th Amendment / 20ویں ترمیم",
+                        "21st Amendment / 21ویں ترمیم",
+                        "22nd Amendment / 22ویں ترمیم"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "What does the 17th Amendment to the Constitution of Pakistan emphasize? / پاکستان کے آئین میں 17ویں ترمیم پر زور کیا تھا؟",
+        "options":  [
+                        "Strengthening the powers of the Prime Minister / وزیر اعظم کے اختیارات کو مضبوط کرنا",
+                        "Strengthening the powers of the President / صدر کے اختیارات کو مضبوط کرنا",
+                        "Empowering the provinces / صوبوں کو اختیار دینا",
+                        "Strengthening the powers of the judiciary / عدلیہ کے اختیارات کو مضبوط کرنا"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "What is the effect of the 8th Amendment on the Constitution of Pakistan? / پاکستان کے آئین میں 8ویں ترمیم کا اثر کیا تھا؟",
+        "options":  [
+                        "Empowered the President with additional powers / صدر کو اضافی اختیارات دیے",
+                        "Reduced the powers of the President / صدر کے اختیارات کو کم کیا",
+                        "Restored the role of the Prime Minister / وزیر اعظم کے کردار کو بحال کیا",
+                        "Strengthened the provincial autonomy / صوبائی خودمختاری کو مضبوط کیا"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "Which amendment to the Constitution of Pakistan was aimed at bringing reforms in the Federally Administered Tribal Areas (FATA)? / پاکستان کے آئین میں کس ترمیم کا مقصد وفاقی طور پر انتظامی قبائلی علاقوں (فاٹا) میں اصلاحات لانا تھا؟",
+        "options":  [
+                        "18th Amendment / 18ویں ترمیم",
+                        "21st Amendment / 21ویں ترمیم",
+                        "23rd Amendment / 23ویں ترمیم",
+                        "25th Amendment / 25ویں ترمیم"
+                    ],
+        "correctAnswer":  3
+    },
+    {
+        "question":  "Which of the following amendments allowed for the merger of FATA into Khyber Pakhtunkhwa? / مندرجہ ذیل میں سے کون سی ترمیم فاٹا کو خیبر پختونخوا میں ضم کرنے کی اجازت دیتی ہے؟",
+        "options":  [
+                        "18th Amendment / 18ویں ترمیم",
+                        "19th Amendment / 19ویں ترمیم",
+                        "20th Amendment / 20ویں ترمیم",
+                        "25th Amendment / 25ویں ترمیم"
+                    ],
+        "correctAnswer":  3
+    },
+    {
+        "question":  "What does the 19th Amendment to the Constitution of Pakistan deal with? / پاکستان کے آئین میں 19ویں ترمیم کس بات سے متعلق ہے؟",
+        "options":  [
+                        "Military courts / فوجی عدالتیں",
+                        "Judicial appointments / عدلیہ کی تقرری",
+                        "Provincial autonomy / صوبائی خودمختاری",
+                        "Presidential powers / صدر کے اختیارات"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "What was the main focus of the 17th Amendment to the Constitution of Pakistan? / پاکستان کے آئین میں 17ویں ترمیم کا مرکزی مقصد کیا تھا؟",
+        "options":  [
+                        "To empower the judiciary / عدلیہ کو طاقت دینا",
+                        "To give more power to the President / صدر کو مزید طاقت دینا",
+                        "To restore democracy / جمہوریت کو بحال کرنا",
+                        "To ensure freedom of speech / اظہار رائے کی آزادی کو یقینی بنانا"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Which amendment to the Constitution of Pakistan increased the powers of the President and weakened the Prime Minister’s role? / پاکستان کے آئین میں کون سی ترمیم نے صدر کے اختیارات میں اضافہ کیا اور وزیر اعظم کے کردار کو کمزور کیا؟",
+        "options":  [
+                        "8th Amendment / 8ویں ترمیم",
+                        "17th Amendment / 17ویں ترمیم",
+                        "18th Amendment / 18ویں ترمیم",
+                        "19th Amendment / 19ویں ترمیم"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "Which of the following amendments allowed the President to dissolve the National Assembly? / مندرجہ ذیل میں سے کون سی ترمیم صدر کو قومی اسمبلی تحلیل کرنے کا اختیار دیتی ہے؟",
+        "options":  [
+                        "8th Amendment / 8ویں ترمیم",
+                        "17th Amendment / 17ویں ترمیم",
+                        "18th Amendment / 18ویں ترمیم",
+                        "19th Amendment / 19ویں ترمیم"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "Which constitutional amendment introduced the concept of a caretaker government for ensuring transparent elections in Pakistan? / پاکستان میں شفاف انتخابات کے لیے نگران حکومت کے تصور کو کس آئینی ترمیم نے متعارف کرایا؟",
+        "options":  [
+                        "20th Amendment / 20ویں ترمیم",
+                        "19th Amendment / 19ویں ترمیم",
+                        "18th Amendment / 18ویں ترمیم",
+                        "17th Amendment / 17ویں ترمیم"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "Which amendment to the Constitution of Pakistan aimed at strengthening democracy and restoring the parliamentary system? / پاکستان کے آئین میں کون سی ترمیم جمہوریت کو مضبوط کرنے اور پارلیمانی نظام کو بحال کرنے کی کوشش کرتی ہے؟",
+        "options":  [
+                        "18th Amendment / 18ویں ترمیم",
+                        "17th Amendment / 17ویں ترمیم",
+                        "19th Amendment / 19ویں ترمیم",
+                        "20th Amendment / 20ویں ترمیم"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "Which of the following amendments gave more powers to the provinces? / مندرجہ ذیل میں سے کون سی ترمیم صوبوں کو مزید اختیارات دیتی ہے؟",
+        "options":  [
+                        "18th Amendment / 18ویں ترمیم",
+                        "19th Amendment / 19ویں ترمیم",
+                        "20th Amendment / 20ویں ترمیم",
+                        "21st Amendment / 21ویں ترمیم"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "Which amendment to the Constitution of Pakistan allows for the appointment of military courts for terrorism cases? / پاکستان کے آئین میں کون سی ترمیم دہشت گردی کے مقدمات کے لیے فوجی عدالتوں کی تقرری کی اجازت دیتی ہے؟",
+        "options":  [
+                        "21st Amendment / 21ویں ترمیم",
+                        "19th Amendment / 19ویں ترمیم",
+                        "18th Amendment / 18ویں ترمیم",
+                        "22nd Amendment / 22ویں ترمیم"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "Which amendment to the Constitution of Pakistan led to the merger of FATA with Khyber Pakhtunkhwa? / پاکستان کے آئین میں کون سی ترمیم فاٹا کو خیبر پختونخوا کے ساتھ ضم کرنے کی وجہ بنی؟",
+        "options":  [
+                        "19th Amendment / 19ویں ترمیم",
+                        "20th Amendment / 20ویں ترمیم",
+                        "21st Amendment / 21ویں ترمیم",
+                        "25th Amendment / 25ویں ترمیم"
+                    ],
+        "correctAnswer":  3
+    },
+    {
+        "question":  "What does the 18th Amendment to the Constitution of Pakistan guarantee? / پاکستان کے آئین میں 18ویں ترمیم کیا ضمانت دیتی ہے؟",
+        "options":  [
+                        "The restoration of the presidential system / صدارتی نظام کی بحالی",
+                        "The restoration of the parliamentary system / پارلیمانی نظام کی بحالی",
+                        "Greater powers for the President / صدر کے لیے مزید اختیارات",
+                        "The disbanding of the National Assembly / قومی اسمبلی کو تحلیل کرنا"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Which constitutional amendment introduced reforms for the transparency of elections in Pakistan? / پاکستان میں انتخابات کی شفافیت کے لیے کون سی آئینی ترمیم نے اصلاحات متعارف کرائیں؟",
+        "options":  [
+                        "18th Amendment / 18ویں ترمیم",
+                        "20th Amendment / 20ویں ترمیم",
+                        "19th Amendment / 19ویں ترمیم",
+                        "21st Amendment / 21ویں ترمیم"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Which amendment to the Constitution of Pakistan aimed to strengthen the judiciary? / پاکستان کے آئین میں کون سی ترمیم عدلیہ کو مضبوط کرنے کا مقصد رکھتی تھی؟",
+        "options":  [
+                        "19th Amendment / 19ویں ترمیم",
+                        "18th Amendment / 18ویں ترمیم",
+                        "20th Amendment / 20ویں ترمیم",
+                        "21st Amendment / 21ویں ترمیم"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "Which amendment allowed the President of Pakistan to dissolve the National Assembly? / کون سی ترمیم صدر پاکستان کو قومی اسمبلی تحلیل کرنے کا اختیار دیتی ہے؟",
+        "options":  [
+                        "8th Amendment / 8ویں ترمیم",
+                        "17th Amendment / 17ویں ترمیم",
+                        "18th Amendment / 18ویں ترمیم",
+                        "19th Amendment / 19ویں ترمیم"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "Which of the following amendments addressed terrorism-related issues by introducing military courts? / مندرجہ ذیل میں سے کون سی ترمیم دہشت گردی کے مسائل کو حل کرنے کے لیے فوجی عدالتوں کا قیام عمل میں لائی؟",
+        "options":  [
+                        "19th Amendment / 19ویں ترمیم",
+                        "21st Amendment / 21ویں ترمیم",
+                        "23rd Amendment / 23ویں ترمیم",
+                        "22nd Amendment / 22ویں ترمیم"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "What was the main objective of the 8th Amendment to the Constitution of Pakistan? / پاکستان کے آئین میں 8ویں ترمیم کا بنیادی مقصد کیا تھا؟",
+        "options":  [
+                        "To reduce the powers of the President / صدر کے اختیارات میں کمی کرنا",
+                        "To increase the powers of the President / صدر کے اختیارات میں اضافہ کرنا",
+                        "To introduce the parliamentary system / پارلیمانی نظام کو متعارف کرانا",
+                        "To introduce provincial autonomy / صوبائی خودمختاری کو متعارف کرانا"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Which amendment led to the restoration of parliamentary democracy in Pakistan? / پاکستان میں پارلیمانی جمہوریت کی بحالی کے لیے کس ترمیم نے کردار ادا کیا؟",
+        "options":  [
+                        "18th Amendment / 18ویں ترمیم",
+                        "19th Amendment / 19ویں ترمیم",
+                        "20th Amendment / 20ویں ترمیم",
+                        "17th Amendment / 17ویں ترمیم"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "Which constitutional amendment allowed for the restoration of the powers of the Prime Minister in Pakistan? / پاکستان میں وزیر اعظم کے اختیارات کی بحالی کے لیے کس آئینی ترمیم نے اجازت دی؟",
+        "options":  [
+                        "18th Amendment / 18ویں ترمیم",
+                        "17th Amendment / 17ویں ترمیم",
+                        "19th Amendment / 19ویں ترمیم",
+                        "20th Amendment / 20ویں ترمیم"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "Which amendment reduced the powers of the President and restored parliamentary sovereignty? / کون سی ترمیم صدر کے اختیارات کو کم کر کے پارلیمانی خودمختاری کو بحال کرتی ہے؟",
+        "options":  [
+                        "17th Amendment / 17ویں ترمیم",
+                        "18th Amendment / 18ویں ترمیم",
+                        "20th Amendment / 20ویں ترمیم",
+                        "21st Amendment / 21ویں ترمیم"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Which amendment facilitated the merger of FATA with Khyber Pakhtunkhwa? / کون سی ترمیم فاٹا کو خیبر پختونخوا کے ساتھ ضم کرنے کی اجازت دیتی ہے؟",
+        "options":  [
+                        "19th Amendment / 19ویں ترمیم",
+                        "20th Amendment / 20ویں ترمیم",
+                        "21st Amendment / 21ویں ترمیم",
+                        "25th Amendment / 25ویں ترمیم"
+                    ],
+        "correctAnswer":  3
+    }
+]

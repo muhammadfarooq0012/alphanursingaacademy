@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Which sequence correctly arranges the layers of the alimentary canal from outermost to innermost?",
+    "options": [
+      "Mucosa → Submucosa → Muscularis externa → Serosa",
+      "Serosa → Muscularis externa → Submucosa → Mucosa",
+      "Submucosa → Mucosa → Muscularis externa → Serosa",
+      "Muscularis externa → Submucosa → Mucosa → Serosa"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The outermost serous covering of most intraperitoneal abdominal organs is the:",
+    "options": [
+      "Parietal peritoneum",
+      "Visceral peritoneum",
+      "Adventitia",
+      "Mesentery"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which nerve plexus is primarily located within the submucosa of the alimentary canal?",
+    "options": [
+      "Myenteric (Auerbach’s) plexus",
+      "Submucosal (Meissner’s) plexus",
+      "Celiac plexus",
+      "Hypogastric plexus"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which layer of the peritoneum lines the inner surface of the abdominal wall?",
+    "options": [
+      "Visceral peritoneum",
+      "Parietal peritoneum",
+      "Serosa",
+      "Mesentery"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which pair of organs is primarily considered retroperitoneal?",
+    "options": [
+      "Stomach and spleen",
+      "Jejunum and ileum",
+      "Pancreas and kidneys",
+      "Liver and gallbladder"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The double layer of peritoneum that suspends parts of the intestine from the posterior abdominal wall is called the:",
+    "options": [
+      "Greater omentum",
+      "Lesser omentum",
+      "Mesentery",
+      "Peritoneal ligament"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The myenteric (Auerbach’s) plexus is located:",
+    "options": [
+      "Within the mucosa",
+      "Within the submucosa",
+      "Between the layers of the muscularis externa",
+      "Between the mucosa and submucosa"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The lamina propria of the mucosa is primarily composed of:",
+    "options": [
+      "Dense connective tissue",
+      "Loose connective tissue",
+      "Smooth muscle tissue",
+      "Reticular cartilage"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which structure is a fold of mucous membrane that connects the inferior surface of the tongue to the floor of the mouth?",
+    "options": [
+      "Uvula",
+      "Lingual frenulum",
+      "Palatoglossal arch",
+      "Palatopharyngeal arch"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The oral cavity and oropharynx are primarily lined by which type of epithelium?",
+    "options": [
+      "Simple squamous epithelium",
+      "Stratified squamous epithelium",
+      "Simple columnar epithelium",
+      "Pseudostratified ciliated columnar epithelium"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which bones form the bony framework of the hard palate, creating the anterior roof of the oral cavity?",
+    "options": [
+      "Maxillae and palatine bones",
+      "Mandible and maxillae",
+      "Palatine and sphenoid bones",
+      "Maxillae and vomer"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which part of the tooth is covered by enamel?",
+    "options": [
+      "Root",
+      "Cervical region",
+      "Crown",
+      "Pulp cavity"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Taste sensation from the tongue is mainly carried by the:",
+    "options": [
+      "Facial and glossopharyngeal nerves",
+      "Trigeminal and facial nerves",
+      "Glossopharyngeal and vagus nerves",
+      "Hypoglossal and facial nerves"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The normal deciduous dentition consists of:",
+    "options": [
+      "16 teeth",
+      "20 teeth",
+      "28 teeth",
+      "32 teeth"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which structure prevents the backflow of stomach contents into the esophagus?",
+    "options": [
+      "Pyloric sphincter",
+      "Upper esophageal sphincter",
+      "Lower esophageal sphincter",
+      "Anal sphincter"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which tissue is the hardest substance in the human body?",
+    "options": [
+      "Dentine",
+      "Cementum",
+      "Enamel",
+      "Compact bone"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The esophagus is primarily lined by which type of epithelium:",
+    "options": [
+      "Simple columnar epithelium",
+      "Stratified squamous epithelium",
+      "Simple cuboidal epithelium",
+      "Transitional epithelium"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which sphincter controls the passage of partially digested food (chyme) from the stomach into the duodenum?",
+    "options": [
+      "Cardiac sphincter",
+      "Ileocecal valve",
+      "Pyloric sphincter",
+      "Hepatopancreatic sphincter"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The longitudinal folds of the gastric mucosa that flatten when the stomach becomes distended are called:",
+    "options": [
+      "Villi",
+      "Rugae",
+      "Plicae circulares",
+      "Taeniae coli"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The small intestine is approximately:",
+    "options": [
+      "1.5 metres long",
+      "3 metres long",
+      "5 metres long",
+      "7.5 metres long"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The stomach differs from most other regions of the alimentary canal because its muscularis externa contains:",
+    "options": [
+      "One layer of smooth muscle",
+      "Two layers of skeletal muscle",
+      "Three layers of smooth muscle",
+      "Four layers of skeletal muscle"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The jejunum is approximately:",
+    "options": [
+      "1 metre long",
+      "2 metres long",
+      "3 metres long",
+      "4 metres long"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The terminal part of the small intestine (ileum) opens into intestine through which structure?",
+    "options": [
+      "Pyloric sphincter",
+      "Ileocecal valve",
+      "Hepatopancreatic sphincter",
+      "Anal sphincter"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which structure prevents food from entering the nasal cavity during swallowing?",
+    "options": [
+      "Epiglottis",
+      "Soft palate",
+      "Tongue",
+      "Hard palate"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The large intestine is approximately:",
+    "options": [
+      "1.5 metres long",
+      "2.5 metres long",
+      "5 metres long",
+      "6 metres long"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which structure prevents food from entering the larynx during swallowing?",
+    "options": [
+      "Epiglottis",
+      "Soft palate",
+      "Tongue",
+      "Hard palate"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The appendix is attached to which part of the large intestine?",
+    "options": [
+      "Ascending colon",
+      "Cecum",
+      "Sigmoid colon",
+      "Rectum"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which part of the pharynx is lined by stratified squamous epithelium and serves as a common passage for food and air?",
+    "options": [
+      "Nasopharynx",
+      "Oropharynx",
+      "Laryngopharynx",
+      "Nasal cavity"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The pancreatic duct joins the common bile duct through:",
+    "options": [
+      "Hepatopancreatic sphincter",
+      "Hepatopancreatic ampulla",
+      "Pancreaticoduodenal junction",
+      "Common hepatopancreatic duct"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which region of the abdominal cavity contains the largest portion of the liver, although the liver also extends across the midline into the epigastric region?",
+    "options": [
+      "Left hypochondriac region",
+      "Right hypochondriac region",
+      "Right iliac region",
+      "Hypogastric region"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The classical structural unit of the liver is the:",
+    "options": [
+      "Hepatic acinus",
+      "Hepatic lobule",
+      "Portal triad",
+      "Hepatic sinusoid"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Bile is temporarily stored and concentrated before being released into the duodenum. Which organ performs this function?",
+    "options": [
+      "Liver",
+      "Gallbladder",
+      "Common bile duct",
+      "Duodenum"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The cystic duct is an important part of the biliary system that connects the gallbladder with the:",
+    "options": [
+      "Right hepatic duct",
+      "Common hepatic duct",
+      "Pancreatic duct",
+      "Common bile duct"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The common bile duct carries bile from the biliary system and opens into which part of the small intestine where bile can mix with the intestinal contents?",
+    "options": [
+      "Ileum",
+      "Jejunum",
+      "Duodenum",
+      "Ileum"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "When fatty chyme enters the duodenum, which hormone is released and primarily stimulates contraction of the gallbladder to release bile?",
+    "options": [
+      "Secretin",
+      "Cholecystokinin (CCK)",
+      "Gastrin",
+      "Somatostatin"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which part of the large intestine forms a curved, S-shaped segment between the descending colon and the rectum?",
+    "options": [
+      "Ascending colon",
+      "Transverse colon",
+      "Sigmoid colon",
+      "Descending colon"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The mesentery is a double fold of peritoneum that supports the intestines and serves as a pathway for important structures. Which structures does it normally contain?",
+    "options": [
+      "Blood vessels, lymphatics, and nerves",
+      "Blood vessels, lymphatics, and intestinal villi",
+      "Lymphatics, nerves, and intestinal glands",
+      "Blood vessels, smooth muscle fibers, and intestinal villi"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The ileocecal valve regulates the movement of intestinal contents between the terminal ileum and the caecum. Its main function is to prevent:",
+    "options": [
+      "Backflow of gastric contents into the esophagus",
+      "Backflow of colonic contents into the ileum",
+      "Backflow of ileal contents into the jejunum",
+      "Backflow of duodenal contents into the stomach"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "At which vertebral level does the esophagus pass through the diaphragm?",
+    "options": [
+      "T8",
+      "T10",
+      "T12",
+      "L1"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The three longitudinal bands of smooth muscle on the caecum and colon are called:",
+    "options": [
+      "Taeniae coli",
+      "Haustra",
+      "Plicae circulares",
+      "Rugae"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which sphincter is composed of skeletal muscle and is under voluntary control?",
+    "options": [
+      "Internal anal sphincter",
+      "External anal sphincter",
+      "Pyloric sphincter",
+      "Lower esophageal sphincter"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The palatine tonsil is located between the:",
+    "options": [
+      "Palatoglossal and palatopharyngeal arches",
+      "Hard and soft palates",
+      "Nasal septum and conchae",
+      "Epiglottis and thyroid cartilage"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The hepatopancreatic ampulla is controlled by the:",
+    "options": [
+      "Pyloric sphincter",
+      "Lower esophageal sphincter",
+      "Hepatopancreatic sphincter of Oddi",
+      "Ileocecal sphincter"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The principal arterial supply to the small intestine is provided by the:",
+    "options": [
+      "Inferior mesenteric artery",
+      "Superior mesenteric artery",
+      "Coeliac trunk",
+      "Splenic artery"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which major vessel enters the liver at the porta hepatis and carries nutrient-rich blood from the gastrointestinal tract?",
+    "options": [
+      "Hepatic artery",
+      "Hepatic portal vein",
+      "Hepatic vein",
+      "Inferior vena cava"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which part of the large intestine is a dilated pouch with a blind inferior end?",
+    "options": [
+      "Ascending colon",
+      "Caecum",
+      "Rectum",
+      "Sigmoid colon"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The left gastric artery arises directly from the:",
+    "options": [
+      "Superior mesenteric artery",
+      "Coeliac trunk",
+      "Splenic artery",
+      "Common hepatic artery"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The ascending colon passes upwards from the caecum to the level of the liver where it curves to the left at which flexure?",
+    "options": [
+      "Splenic flexure",
+      "Hepatic flexure",
+      "Sigmoid flexure",
+      "Duodenal flexure"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The inferior mesenteric artery supplies which region of the gastrointestinal tract?",
+    "options": [
+      "Caecum, ascending colon, and proximal two-thirds of the transverse colon",
+      "Descending colon, sigmoid colon, and upper part of the rectum",
+      "Jejunum, ileum, caecum, and ascending colon",
+      "Stomach, spleen, descending colon, and sigmoid colon"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The superior mesenteric artery primarily supplies the small intestine and which part of the large intestine?",
+    "options": [
+      "Descending colon, sigmoid colon, and rectum",
+      "Caecum, ascending colon, and most of the transverse colon",
+      "Sigmoid colon, rectum, and anal canal",
+      "Stomach, descending colon, and sigmoid colon"
+    ],
+    "correctAnswer": 1
+  }
+]

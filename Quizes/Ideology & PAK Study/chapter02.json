@@ -1,0 +1,352 @@
+[
+    {
+        "question":  "What is the core idea of the Two Nation Theory? / دو قومی نظریہ کا بنیادی تصور کیا ہے؟",
+        "options":  [
+                        "All Indians are one nation / تمام ہندوستانی ایک قوم ہیں",
+                        "Hindus and Muslims are two separate nations / ہندو اور مسلمان دو الگ قومیں ہیں",
+                        "Muslims should adopt Hindu culture / مسلمانوں کو ہندو تہذیب اپنانی چاہیے",
+                        "British should continue ruling India / برطانیہ کو ہندوستان پر حکومت جاری رکھنی چاہیے"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Who first presented the Two Nation Theory clearly? / دو قومی نظریہ سب سے پہلے کس نے واضح طور پر پیش کیا؟",
+        "options":  [
+                        "Allama Iqbal / علامہ اقبال",
+                        "Quaid-e-Azam / قائداعظم",
+                        "Sir Syed Ahmad Khan / سر سید احمد خان",
+                        "Liaquat Ali Khan / لیاقت علی خان"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "Which event gave practical shape to the Two Nation Theory? / دو قومی نظریہ کو عملی شکل کس واقعے نے دی؟",
+        "options":  [
+                        "Khilafat Movement / تحریک خلافت",
+                        "Lahore Resolution (1940) / قراردادِ لاہور 1940",
+                        "Partition of Bengal / بنگال کی تقسیم",
+                        "Round Table Conference / گول میز کانفرنس"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "In which speech did Allama Iqbal propose a separate Muslim state? / علامہ اقبال نے علیحدہ مسلم ریاست کا تصور کس تقریر میں پیش کیا؟",
+        "options":  [
+                        "Delhi Speech / دہلی کی تقریر",
+                        "Allahabad Address (1930) / خطبۂ الہٰ آباد 1930",
+                        "Lahore Speech / لاہور کی تقریر",
+                        "Aligarh Address / علی گڑھ کا خطاب"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "The Two Nation Theory led to the creation of which country? / دو قومی نظریہ کس ملک کے قیام کا سبب بنا؟",
+        "options":  [
+                        "India / بھارت",
+                        "Bangladesh / بنگلہ دیش",
+                        "Pakistan / پاکستان",
+                        "Afghanistan / افغانستان"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "The Lahore Resolution of 1940 demanded the creation of which type of state for Muslims in the subcontinent? / قراردادِ لاہور 1940 میں برصغیر کے مسلمانوں کے لیے کس قسم کی ریاست کے قیام کا مطالبہ کیا گیا؟",
+        "options":  [
+                        "A Hindu-majority state / ہندو اکثریتی ریاست",
+                        "A separate Muslim state / علیحدہ مسلم ریاست",
+                        "A secular state / سیکولر ریاست",
+                        "A socialist state / سوشلسٹ ریاست"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Which event led to the rise of the Two-Nation Theory in the Indian subcontinent? / وہ کون سا واقعہ تھا جس نے برصغیر میں دو قومی نظریہ کے ابھار میں کردار ادا کیا؟",
+        "options":  [
+                        "Partition of Bengal / بنگال کی تقسیم",
+                        "Formation of All India Muslim League / آل انڈیا مسلم لیگ کا قیام",
+                        "Simla Deputation / شملہ وفد",
+                        "Congress Ministries 1937 / کانگریس وزارتیں 1937"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "Which incident in 1906 played a crucial role in the development of the Two-Nation Theory? / 1906میں کون سا واقعہ دو قومی نظریہ کی ترقی میں اہم کردار ادا کرتا ہے؟",
+        "options":  [
+                        "Bengal Partition / بنگال کی تقسیم",
+                        "Simla Deputation / شملہ وفد",
+                        "Lucknow Pact / لکھنؤ معاہدہ",
+                        "Quit India Movement / بھارت چھوڑو تحریک"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "In which year did Allama Iqbal present the concept of a separate Muslim state in his Presidential Address? / علامہ اقبال نے اپنی صدارتی تقریر میں علیحدہ مسلم ریاست کا تصور کس سال پیش کیا؟",
+        "options":  [
+                        "1927",
+                        "1929",
+                        "1930",
+                        "1932"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "What was the primary demand of the Lahore Resolution of 1940? / 1940کی قراردادِ لاہور کا بنیادی مطالبہ کیا تھا؟",
+        "options":  [
+                        "A secular India / سیکولر ہندوستان",
+                        "Independence from British rule / برطانوی حکومت سے آزادی",
+                        "A separate Muslim state / علیحدہ مسلم ریاست",
+                        "Economic reforms / اقتصادی اصلاحات"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "Which of the following was a direct result of the Urdu-Hindi controversy in the 19th century? / مندرجہ ذیل میں سے کون سی بات 19ویں صدی کے اردو-ہندی تنازعہ کا براہ راست نتیجہ تھی؟",
+        "options":  [
+                        "Muslim-Hindu cooperation / مسلمان ہندو تعاون",
+                        "Recognition of Urdu as a separate language / اردو کو ایک علیحدہ زبان کے طور پر تسلیم کرنا",
+                        "Development of a Hindu-majority state / ہندو اکثریتی ریاست کا قیام",
+                        "Formation of the Indian National Congress / انڈین نیشنل کانگریس کا قیام"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "What was the purpose of the 1905 Partition of Bengal? / 1905میں بنگال کی تقسیم کا مقصد کیا تھا؟",
+        "options":  [
+                        "To promote Hindu unity / ہندو اتحاد کو فروغ دینا",
+                        "To divide Bengal along religious lines / بنگال کو مذہبی بنیادوں پر تقسیم کرنا",
+                        "To improve economic conditions / معاشی حالات بہتر بنانا",
+                        "To create a unified state / ایک متحدہ ریاست قائم کرنا"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Who demanded separate electorates for Muslims in the Simla Deputation of 1906? / 1906کے شملہ وفد میں مسلمانوں کے لیے علیحدہ انتخابی حلقوں کا مطالبہ کس نے کیا تھا؟",
+        "options":  [
+                        "Mahatma Gandhi / مہاتما گاندھی",
+                        "Allama Iqbal / علامہ اقبال",
+                        "Aga Khan / آغا خان",
+                        "Quaid-e-Azam Muhammad Ali Jinnah / قائد اعظم محمد علی جناح"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "Which event in 1937 heightened Muslim fears of domination by the Hindu majority? / 1937کا کون سا واقعہ مسلمانوں کے ہندو اکثریتی غلبے کے خوف میں اضافہ کا باعث بنا؟",
+        "options":  [
+                        "Formation of Congress Ministries / کانگریس وزارتوں کا قیام",
+                        "Lahore Resolution / قرارداد لاہور",
+                        "Salt March / نمک مارچ",
+                        "Quit India Movement / بھارت چھوڑو تحریک"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "Who was the leader of the All India Muslim League at the time of the Lahore Resolution? / قراردادِ لاہور کے وقت آل انڈیا مسلم لیگ کے رہنما کون تھے؟",
+        "options":  [
+                        "Allama Iqbal / علامہ اقبال",
+                        "Maulana Azad / مولانا آزاد",
+                        "Muhammad Ali Jinnah / محمد علی جناح",
+                        "Liaquat Ali Khan / لیاقت علی خان"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "Which event directly led to the creation of Pakistan in 1947? / کون سا واقعہ 1947 میں پاکستان کے قیام کا براہِ راست سبب بنا؟",
+        "options":  [
+                        "Quit India Movement / بھارت چھوڑو تحریک",
+                        "Lahore Resolution / قرارداد لاہور",
+                        "Gandhi-Irwin Pact / گاندھی-اروِن معاہدہ",
+                        "Salt March / نمک مارچ"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Which event is associated with the rise of religious and cultural distinctiveness between Hindus and Muslims? / کون سا واقعہ ہندوؤں اور مسلمانوں کے درمیان مذہبی اور ثقافتی امتیاز کے بڑھنے سے متعلق ہے؟",
+        "options":  [
+                        "Urdu-Hindi Controversy / اردو-ہندی تنازعہ",
+                        "Bengal Partition / بنگال کی تقسیم",
+                        "Quit India Movement / بھارت چھوڑو تحریک",
+                        "Salt March / نمک مارچ"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "Which ideology was central to the creation of Pakistan? / پاکستان کے قیام کے لیے کون سا نظریہ بنیادی حیثیت رکھتا تھا؟",
+        "options":  [
+                        "Secularism / سیکولرزم",
+                        "Socialism / سوشلزم",
+                        "Two-Nation Theory / دو قومی نظریہ",
+                        "Nationalism / قوم پرستی"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "What was the main reason behind the Simla Deputation\u0027s demand for separate electorates for Muslims? / شملہ وفد کے مسلمانوں کے لیے علیحدہ انتخابی حلقوں کے مطالبے کی بنیادی وجہ کیا تھی؟",
+        "options":  [
+                        "To increase Muslim participation in politics / مسلمانوں کی سیاسی شرکت میں اضافہ",
+                        "To avoid Hindu domination / ہندو غلبے سے بچنا",
+                        "To secure economic benefits for Muslims / مسلمانوں کے لیے معاشی فوائد حاصل کرنا",
+                        "To form Hindu-Muslim unity / ہندو مسلم اتحاد قائم کرنا"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "What was the effect of the 1937 Congress Ministries on the Muslim community? / 1937کی کانگریس وزارتوں کا مسلمانوں پر کیا اثر پڑا؟",
+        "options":  [
+                        "Increased political participation / سیاسی شرکت میں اضافہ",
+                        "Fear of cultural and religious suppression / مذہبی اور ثقافتی دباؤ کا خوف",
+                        "Economic prosperity / معاشی خوشحالی",
+                        "Strengthened Hindu-Muslim unity / ہندو مسلم اتحاد مضبوط ہونا"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Which incident in 1921 heightened the sense of fear and distrust between Hindus and Muslims? / 1921کا کون سا واقعہ ہندوؤں اور مسلمانوں کے درمیان خوف اور بداعتمادی میں اضافہ کا سبب بنا؟",
+        "options":  [
+                        "Moplah Rebellion / موپلہ بغاوت",
+                        "Partition of Bengal / بنگال کی تقسیم",
+                        "Salt March / نمک مارچ",
+                        "Quit India Movement / بھارت چھوڑو تحریک"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "Which of the following was a significant factor in the development of the Two-Nation Theory? / مندرجہ ذیل میں سے کون سا عنصر دو قومی نظریہ کی ترقی میں اہم تھا؟",
+        "options":  [
+                        "Economic inequality / معاشی عدم مساوات",
+                        "Religious and cultural differences / مذہبی اور ثقافتی اختلافات",
+                        "Political alliances / سیاسی اتحاد",
+                        "Colonial exploitation / نوآبادیاتی استحصال"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "What was the primary purpose of the Lahore Resolution of 1940? / 1940کی قرارداد لاہور کا بنیادی مقصد کیا تھا؟",
+        "options":  [
+                        "Demand for independence / آزادی کا مطالبہ",
+                        "Demand for a Hindu-majority state / ہندو اکثریتی ریاست کا مطالبہ",
+                        "Demand for a separate Muslim state / علیحدہ مسلم ریاست کا مطالبہ",
+                        "Demand for economic reforms / معاشی اصلاحات کا مطالبہ"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "Which leader played a pivotal role in advocating for a separate Muslim state in the 1930s? / 1930کی دہائی میں علیحدہ مسلم ریاست کے تصور کی حمایت میں کون سا رہنما اہم کردار ادا کر رہا تھا؟",
+        "options":  [
+                        "Mahatma Gandhi / مہاتما گاندھی",
+                        "Jawaharlal Nehru / جواہر لعل نہرو",
+                        "Allama Iqbal / علامہ اقبال",
+                        "Subhas Chandra Bose / سبھاش چندر بوس"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "What was the major consequence of the 1905 Partition of Bengal for Muslims? / 1905کی بنگال کی تقسیم کا مسلمانوں کے لیے بڑا نتیجہ کیا تھا؟",
+        "options":  [
+                        "Formation of a Hindu-majority state / ہندو اکثریتی ریاست کا قیام",
+                        "Unity between Hindus and Muslims / ہندو مسلم اتحاد",
+                        "Heightened awareness of religious and cultural differences / مذہبی اور ثقافتی اختلافات کا زیادہ احساس",
+                        "Economic equality / معاشی برابری"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "Which of the following was a key issue addressed by the Lahore Resolution of 1940? / مندرجہ ذیل میں سے کون سا اہم مسئلہ 1940 کی قراردادِ لاہور میں زیرِ بحث آیا؟",
+        "options":  [
+                        "Economic disparities / معاشی عدم مساوات",
+                        "Demand for a separate Muslim homeland / علیحدہ مسلم وطن کا مطالبہ",
+                        "Secular governance / سیکولر طرزِ حکومت",
+                        "British colonial rule / برطانوی نوآبادیاتی حکومت"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "What was the reaction of the Muslim League to the Congress Ministries in 1937? / 1937میں کانگریس وزارتوں کے ردِعمل میں مسلم لیگ کا موقف کیا تھا؟",
+        "options":  [
+                        "Support for Congress policies / کانگریس کی پالیسیوں کی حمایت",
+                        "Demand for more representation / زیادہ نمائندگی کا مطالبہ",
+                        "Fear of Hindu cultural domination / ہندو ثقافتی غلبے کا خوف",
+                        "Demand for greater economic reforms / زیادہ معاشی اصلاحات کا مطالبہ"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "Who was the key proponent of the Two-Nation Theory after the 1930s? / 1930کی دہائی کے بعد دو قومی نظریہ کے سب سے بڑے حامی کون تھے؟",
+        "options":  [
+                        "Mahatma Gandhi / مہاتما گاندھی",
+                        "Jawaharlal Nehru / جواہر لعل نہرو",
+                        "Muhammad Ali Jinnah / محمد علی جناح",
+                        "Subhas Chandra Bose / سبھاش چندر بوس"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "What was the role of religious differences in the formation of the Two-Nation Theory? / دو قومی نظریہ کی تشکیل میں مذہبی اختلافات کا کیا کردار تھا؟",
+        "options":  [
+                        "They emphasized unity between Hindus and Muslims / انہوں نے ہندوؤں اور مسلمانوں کے اتحاد پر زور دیا",
+                        "They highlighted the distinct identities of Hindus and Muslims / انہوں نے ہندوؤں اور مسلمانوں کی الگ شناخت کو نمایاں کیا",
+                        "They reduced tensions between communities / انہوں نے دونوں برادریوں کے درمیان کشیدگی کو کم کیا",
+                        "They promoted secularism / انہوں نے سیکولرزم کو فروغ دیا"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Which year did the Lahore Resolution lead to the formation of Pakistan? / لاہور قرارداد کے نتیجے میں پاکستان کس سال قائم ہوا؟",
+        "options":  [
+                        "1945",
+                        "1947",
+                        "1950",
+                        "1940"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Who played a significant role in the Simla Deputation of 1906 for separate electorates for Muslims? / 1906کے شملہ وفد میں مسلمانوں کے لیے علیحدہ انتخابی حلقوں کے مطالبے میں اہم کردار کس نے ادا کیا؟",
+        "options":  [
+                        "Allama Iqbal / علامہ اقبال",
+                        "Muhammad Ali Jinnah / محمد علی جناح",
+                        "Aga Khan / آغا خان",
+                        "Maulana Azad / مولانا آزاد"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "Which of the following was a result of the political and cultural differences between Hindus and Muslims in British India? / برطانوی ہندوستان میں ہندوؤں اور مسلمانوں کے سیاسی اور ثقافتی اختلافات کا نتیجہ درج ذیل میں سے کیا تھا؟",
+        "options":  [
+                        "Increased unity between communities / برادریوں کے درمیان اتحاد میں اضافہ",
+                        "Formation of a separate Muslim state / علیحدہ مسلم ریاست کا قیام",
+                        "Abandonment of religious identities / مذہبی شناختوں کو ترک کرنا",
+                        "Secularization of politics / سیاست کو سیکولر بنانا"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "The formation of which party in 1906 was central to the promotion of the Two-Nation Theory? / 1906میں کس جماعت کے قیام نے دو قومی نظریہ کے فروغ میں مرکزی کردار ادا کیا؟",
+        "options":  [
+                        "Indian National Congress / انڈین نیشنل کانگریس",
+                        "All India Muslim League / آل انڈیا مسلم لیگ",
+                        "Hindu Mahasabha / ہندو مہاسبھا",
+                        "Indian Socialist Party / انڈین سوشلسٹ پارٹی"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "What was the main outcome of the Urdu-Hindi controversy? / اردو-ہندی تنازعہ کا بنیادی نتیجہ کیا تھا؟",
+        "options":  [
+                        "Unity of Hindus and Muslims / ہندو مسلم اتحاد",
+                        "Recognition of Urdu as a separate language / اردو کو علیحدہ زبان کے طور پر تسلیم کرنا",
+                        "Cultural assimilation of Hindus and Muslims / ہندوؤں اور مسلمانوں کی ثقافتی یکسانیت",
+                        "Formation of a Hindu-majority state / ہندو اکثریتی ریاست کا قیام"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Which of the following events marked the beginning of the movement for a separate Muslim homeland in the subcontinent? / مندرجہ ذیل میں سے کون سا واقعہ برصغیر میں علیحدہ مسلم وطن کی تحریک کے آغاز کی علامت بنا؟",
+        "options":  [
+                        "The First War of Independence / پہلی جنگِ آزادی",
+                        "The Lahore Resolution of 1940 / قراردادِ لاہور 1940",
+                        "The Salt March / نمک مارچ",
+                        "The Quit India Movement / بھارت چھوڑو تحریک"
+                    ],
+        "correctAnswer":  1
+    }
+]

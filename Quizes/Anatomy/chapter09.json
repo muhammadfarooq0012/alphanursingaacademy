@@ -1,0 +1,552 @@
+[
+  {
+    "question": "The anterior segment of the eyeball is the space located between the:",
+    "options": [
+      "Retina and choroid",
+      "Cornea and lens",
+      "Lens and retina",
+      "Sclera and choroid"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The iris divides the anterior segment of the eye into:",
+    "options": [
+      "Medial and lateral chambers",
+      "Superior and inferior chambers",
+      "Anterior and posterior chambers",
+      "Vitreous and aqueous chambers"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Aqueous fluid is secreted primarily by the:",
+    "options": [
+      "Lacrimal glands",
+      "Ciliary glands",
+      "Tarsal glands",
+      "Choroid plexus"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which sequence correctly describes the normal circulation of aqueous fluid?",
+    "options": [
+      "Anterior chamber → pupil → posterior chamber → venous circulation",
+      "Poster chamber → pupil → anterior chamber → scleral venous sinus",
+      "Posterior chamber → retina → anterior chamber → optic nerve",
+      "Anterior chamber → lens → posterior chamber → choroid"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The scleral venous sinus (canal of Schlemm) is located near the angle between the:",
+    "options": [
+      "Lens and iris",
+      "Iris and cornea",
+      "Cornea and lens",
+      "Retina and choroid"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which auditory ossicle is shaped like a hammer and is in contact with the tympanic membrane?",
+    "options": [
+      "Malleus",
+      "Incus",
+      "Stapes",
+      "Stapedius"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "An imbalance between aqueous fluid production and drainage may result in:",
+    "options": [
+      "Cataract",
+      "Glaucoma",
+      "Conjunctivitis",
+      "Retinal detachment"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The normal intraocular pressure is approximately:",
+    "options": [
+      "1–5 mmHg",
+      "10–20 mmHg",
+      "30–40 mmHg",
+      "50–60 mmHg"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The vitreous body is located:",
+    "options": [
+      "Between the cornea and iris",
+      "Between the iris and lens",
+      "Behind the lens in the posterior segment",
+      "Within the optic nerve"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The vitreous body is best described as:",
+    "options": [
+      "A vascular, muscular structure",
+      "A transparent, jelly-like substance",
+      "A thick, opaque membrane",
+      "A watery fluid in the anterior chamber"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which part of the inner ear contains the utricle and saccule, important for balance?",
+    "options": [
+      "Cochlea",
+      "Semicircular canals",
+      "Vestibule",
+      "Tympanic cavity"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The fibers of the optic nerve originate from:",
+    "options": [
+      "The ciliary body",
+      "The retina",
+      "The choroid",
+      "The iris"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What fluid fills the membranous labyrinth of the inner ear?",
+    "options": [
+      "Perilymph",
+      "Endolymph",
+      "Cerebrospinal fluid",
+      "Serous fluid"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The optic nerve passes through which opening in the sphenoid bone?",
+    "options": [
+      "Foramen magnum",
+      "Optic foramen",
+      "Superior orbital fissure",
+      "Infraorbital foramen"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The optic chiasma is located:",
+    "options": [
+      "Inferior to the pituitary gland",
+      "Immediately in front of and superior to the pituitary gland",
+      "Behind the occipital lobe",
+      "Within the lateral geniculate body"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "At the optic chiasma, fibers from which retinal halves cross to the opposite side?",
+    "options": [
+      "Temporal halves",
+      "Nasal halves",
+      "Superior halves only",
+      "Inferior halves only"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which glands in the external acoustic meatus secrete cerumen (earwax)?",
+    "options": [
+      "Sebaceous glands",
+      "Ceruminous glands",
+      "Sudoriferous glands",
+      "Tarsal glands"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What fluid fills the bony labyrinth of the inner ear?",
+    "options": [
+      "Endolymph",
+      "Perilymph",
+      "Aqueous fluid",
+      "Vitreous humor"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The lateral geniculate bodies are associated with the:",
+    "options": [
+      "Medulla",
+      "Thalamus",
+      "Cerebellum",
+      "Pons"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The visual area of the cerebral cortex is located primarily in the:",
+    "options": [
+      "Frontal lobes",
+      "Temporal lobes",
+      "Parietal lobes",
+      "Occipital lobes"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The lens is best described as a:",
+    "options": [
+      "Biconcave, opaque structure",
+      "Biconvex, elastic and transparent structure",
+      "Flat, vascular membrane",
+      "Jelly-like posterior structure"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The lens is suspended from the ciliary body by:",
+    "options": [
+      "Optic radiations",
+      "Suspensory ligaments",
+      "Lacrimal canaliculi",
+      "Tarsal plates"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "When focusing on a near object, the ciliary muscle:",
+    "options": [
+      "Relaxes and the lens becomes flatter",
+      "Contracts and the lens becomes more convex",
+      "Relaxes and the lens becomes more convex",
+      "Contracts and the lens becomes flatter"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "When focusing on a distant object, the lens becomes:",
+    "options": [
+      "Thicker and more convex",
+      "Thinner and less convex",
+      "Thicker and less elastic",
+      "More spherical and more convex"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The primary function of the pupil is to regulate:",
+    "options": [
+      "The production of tears",
+      "The amount of light entering the eye",
+      "The movement of the lens",
+      "The drainage of aqueous fluid"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "In bright light, pupil constriction is mainly produced by contraction of the:",
+    "options": [
+      "Radiating muscles of the iris",
+      "Circular muscles of the iris",
+      "Ciliary muscles",
+      "Superior rectus muscle"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Pupil dilation is mainly produced by contraction of the:",
+    "options": [
+      "Circular smooth muscle fibres",
+      "Radiating smooth muscle fibres",
+      "Orbicularis oculi",
+      "Levator palpebrae superioris"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The autonomic control of pupil size involves primarily:",
+    "options": [
+      "Somatic and sensory nerves",
+      "Sympathetic and parasympathetic divisions",
+      "Cranial nerves I and II only",
+      "Spinal nerves only"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The lateral rectus muscle is supplied by:",
+    "options": [
+      "Oculomotor nerve (CN III)",
+      "Trochlear nerve (CN IV)",
+      "Abducent nerve (CN VI)",
+      "Optic nerve (CN II)"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The superior oblique muscle is supplied by:",
+    "options": [
+      "Oculomotor nerve (CN III)",
+      "Trochlear nerve (CN IV)",
+      "Trigeminal nerve (CN V)",
+      "Abducent nerve (CN VI)"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "According to the mnemonic “LR6 SO4, all the rest 3,” which nerve supplies the medial rectus?",
+    "options": [
+      "CN III",
+      "CN IV",
+      "CN V",
+      "CN VI"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The oculomotor nerve also supplies intrinsic muscles of the:",
+    "options": [
+      "Cornea and sclera",
+      "Iris and ciliary body",
+      "Choroid and retina",
+      "Lacrimal gland and conjunctiva"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The muscle primarily responsible for closing the eyelids is:",
+    "options": [
+      "Levator palpebrae superioris",
+      "Orbicularis oculi",
+      "Superior rectus",
+      "Inferior oblique"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The levator palpebrae superioris functions mainly to:",
+    "options": [
+      "Close the eyelids",
+      "Open the eyelids",
+      "Dilate the pupil",
+      "Rotate the eyeball laterally"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The conjunctiva lines the:",
+    "options": [
+      "Inner eyelids and anterior surface of the eyeball",
+      "Retina and choroid",
+      "Lens and vitreous body",
+      "Optic nerve and sclera only"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The conjunctiva covering the inner surface of the eyelids is called:",
+    "options": [
+      "Corneal conjunctiva",
+      "Palpebral conjunctiva",
+      "Bulbar retina",
+      "Tarsal conjunctiva"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which tough, fibrous layer of the eye forms the white outer coat and helps protect the eyeball?",
+    "options": [
+      "Choroid",
+      "Retina",
+      "Sclera",
+      "Cornea"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which substance in tears provides antibacterial activity?",
+    "options": [
+      "Lactoferrin",
+      "Lysozyme",
+      "Immunoglobulin A",
+      "Mucins"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which sequence correctly represents the drainage of tears?",
+    "options": [
+      "Lacrimal gland → canaliculi → puncta → lacrimal sac → nasal cavity",
+      "Lacrimal gland → eye surface → puncta → canaliculi → lacrimal sac → nasolacrimal duct",
+      "Lacrimal gland → nasolacrimal duct → puncta → eye surface",
+      "Lacrimal gland → lacrimal sac → eye surface → canaliculi"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The nasolacrimal duct opens into the:",
+    "options": [
+      "Superior nasal meatus",
+      "Middle nasal meatus",
+      "Inferior nasal meatus",
+      "Sphenoethmoidal recess"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Olfactory receptors are located mainly in the:",
+    "options": [
+      "Floor of the nasal cavity",
+      "Roof of the nasal cavity above the superior nasal conchae",
+      "Inferior nasal conchae only",
+      "Nasopharynx"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which gland is primarily responsible for secreting the watery component of tears that keeps the eye moist?",
+    "options": [
+      "Tarsal gland",
+      "Lacrimal gland",
+      "Sebaceous gland",
+      "Ceruminous gland"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "When white light enters the eye, the different wavelengths of visible light are detected by photoreceptors in the retina. Which part of the electromagnetic spectrum is responsible for human vision?",
+    "options": [
+      "Infrared spectrum",
+      "Ultraviolet spectrum",
+      "Visible spectrum",
+      "Radio spectrum"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which spiral-shaped part of the inner ear resembles a snail’s shell and contains the organ responsible for hearing?",
+    "options": [
+      "Semicircular canals",
+      "Vestibule",
+      "Cochlea",
+      "Utricle"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which transparent part of the eye allows light rays to enter the eyeball?",
+    "options": [
+      "Sclera",
+      "Cornea",
+      "Iris",
+      "Choroid"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Through which bone structure do olfactory nerve fibers pass to reach the olfactory bulb?",
+    "options": [
+      "Optic foramen",
+      "Cribriform plate of the ethmoid bone",
+      "Foramen magnum",
+      "Jugular foramen"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The olfactory tract carries impulses from the olfactory bulb toward the:",
+    "options": [
+      "Occipital lobe",
+      "Temporal lobe",
+      "Frontal lobe only",
+      "Cerebellum"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which auditory ossicle fits into the oval window of the inner ear?",
+    "options": [
+      "Malleus",
+      "Incus",
+      "Stapes",
+      "Tympanic membrane"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the name of the sensory organ within the cochlea that responds to vibration?",
+    "options": [
+      "Macula lutea",
+      "Organ of Corti (spiral organ)",
+      "Crista ampullaris",
+      "Olfactory bulb"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which combination correctly represents cranial nerves involved in taste sensation?",
+    "options": [
+      "CN I, II and III",
+      "CN V, VI and VIII",
+      "CN VII, IX and X",
+      "CN III, IV and VI"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which type of photoreceptor cells in the retina detect different wavelengths of visible light and are responsible for color vision?",
+    "options": [
+      "Rods",
+      "Cones",
+      "Bipolar cells",
+      "Ganglion cells"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which sequence best represents the central pathway of taste?",
+    "options": [
+      "Taste buds → CN VII, IX, X → medulla → thalamus → parietal lobe",
+      "Taste buds → CN I → olfactory bulb → temporal lobe",
+      "Taste buds → optic nerve → thalamus → occipital lobe",
+      "Taste buds → CN II → medulla → frontal lobe"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which comparison between smell and taste is correct?",
+    "options": [
+      "Both are mediated primarily by mechanoreceptors",
+      "Both involve chemoreceptors stimulated by chemicals",
+      "Smell uses CN VII, while taste uses CN I",
+      "Both are perceived exclusively in the occipital lobe"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which pairing correctly matches the special sense with its primary cortical area?",
+    "options": [
+      "Smell — Temporal lobe; Taste — Parietal lobe",
+      "Smell — Occipital lobe; Taste — Frontal lobe",
+      "Smell — Frontal lobe; Taste — Temporal lobe",
+      "Smell — Parietal lobe; Taste — Occipital lobe"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the name of the tube that connects the nasopharynx to the middle ear?",
+    "options": [
+      "Eustachian tube",
+      "Cochlear duct",
+      "Semicircular canal",
+      "Auditory meatus"
+    ],
+    "correctAnswer": 0
+  }
+]

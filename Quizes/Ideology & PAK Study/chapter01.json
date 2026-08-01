@@ -1,0 +1,352 @@
+[
+    {
+        "question":  "What is the Ideology of Pakistan based on? / پاکستان کا نظریہ کس بنیاد پر قائم ہے؟",
+        "options":  [
+                        "Western democracy / مغربی جمہوریت",
+                        "Hindu-Muslim unity / ہندو مسلم اتحاد",
+                        "Teachings of Islam / اسلام کی تعلیمات",
+                        "British Law / برطانوی قانون"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "Who is called the architect of the Ideology of Pakistan? / پاکستان کے نظریہ کا معمار کسے کہا جاتا ہے؟",
+        "options":  [
+                        "Quaid-e-Azam / قائداعظم",
+                        "Allama Iqbal / علامہ اقبال",
+                        "Sir Syed Ahmad Khan / سر سید احمد خان",
+                        "Liaquat Ali Khan / لیاقت علی خان"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Which speech of Allama Iqbal introduced the concept of a separate Muslim state? / علامہ اقبال کی کون سی تقریر میں مسلم ریاست کا تصور پیش کیا گیا؟",
+        "options":  [
+                        "Lahore Speech / لاہور کی تقریر",
+                        "Allahabad Address (1930) / خطبہ الہٰ آباد (1930)",
+                        "Round Table Speech / گول میز کانفرنس کی تقریر",
+                        "Aligarh Speech / علی گڑھ کی تقریر"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Which resolution is known as the foundation of Pakistan’s ideology? / کون سی قرارداد پاکستان کے نظریہ کی بنیاد سمجھی جاتی ہے؟",
+        "options":  [
+                        "Delhi Resolution / دہلی قرارداد",
+                        "Lahore Resolution (1940) / لاہور قرارداد (1940)",
+                        "Lucknow Pact / لکھنؤ معاہدہ",
+                        "Objective Resolution / مقاصد قرارداد"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "What was the purpose of Pakistan\u0027s ideology? / پاکستان کے نظریہ کا مقصد کیا تھا؟",
+        "options":  [
+                        "Economic development / معاشی ترقی",
+                        "Islamic way of life / اسلامی طرزِ زندگی",
+                        "Social equality / سماجی مساوات",
+                        "Political unity with India / ہندوستان سے سیاسی اتحاد"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "The ideology of Pakistan primarily stresses which principle for the newly formed country? / پاکستان کے نظریے میں نئی قائم ہونے والی ریاست کے لیے کس اصول پر سب سے زیادہ زور دیا گیا؟",
+        "options":  [
+                        "Secularism / سیکولرازم",
+                        "Democracy / جموکری",
+                        "Islamic Ideology / اسلامی نظریہ",
+                        "Nationalism / قومی سیاست"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "The Lahore Resolution of 1940 demanded the creation of which type of state for Muslims in the subcontinent? / قرارداد لاہور 1940 میں برصغیر کے مسلمانوں کے لیے کس قسم کی ریاست کے قیام کا مطالبہ کیا گیا؟",
+        "options":  [
+                        "A Hindu-majority state / ہندو اکثریتی ریاست",
+                        "A separate Muslim state/ علیحدہ مسلم ریاست",
+                        "A secular state / سیکولر ریاست",
+                        "A socialist state / سوشلسٹ ریاست"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Who is known as the spiritual father of the Pakistan Movement? / پاکستان تحریک کا روحانی باپ کس کو کہا جاتا ہے؟",
+        "options":  [
+                        "Allama Iqbal / علامہ اقبال",
+                        "Muhammad Ali Jinnah / محمد علی جناح",
+                        "Liaquat Ali Khan / لیاقت علی خان",
+                        "Maulana Azad / مولانا آزاد"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "The concept of \u0027Two-Nation Theory\u0027 was primarily promoted by? / \u0027دوقومی نظریہ\u0027 کا تصور کس نے سب سے زیادہ فروغ دیا؟",
+        "options":  [
+                        "Allama Iqbal / علامہ اقبال",
+                        "Muhammad Ali Jinnah / محمد علی جناح",
+                        "Liaquat Ali Khan / لیاقت علی خان",
+                        "Maulana Maududi / مولانا مودودی"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Which of the following was the primary motivation behind the creation of Pakistan? / پاکستان کے قیام کی بنیادی تحریک درج ذیل میں سے کیا تھی؟",
+        "options":  [
+                        "Religious freedom / مذہبی آزادی",
+                        "Economic prosperity / اقتصادی خوشحالی",
+                        "Political autonomy / سیاسی خودمختاری",
+                        "Cultural unity / ثقافتی اتحاد"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "What was the main objective of the Pakistan Movement? / پاکستان تحریک کا بنیادی مقصد کیا تھا؟",
+        "options":  [
+                        "Establishment of a secular state / سیکولر ریاست کا قیام",
+                        "Creation of an independent Muslim state / آزاد مسلم ریاست کا قیام",
+                        "Unification of Indian subcontinent / برصغیر کی یکجائی",
+                        "Development of Hindu-Muslim unity / ہندو مسلم اتحاد کی ترقی"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "The Pakistan Movement gained significant momentum after which event? / پاکستان تحریک کو کس واقعہ کے بعد بڑی تیزی حاصل ہوئی؟",
+        "options":  [
+                        "The 1857 revolt / 1857 کی بغاوت",
+                        "The formation of the All India Muslim League / آل انڈیا مسلم لیگ کا قیام",
+                        "The partition of Bengal / بنگال کی تقسیم",
+                        "The 1930 Lahore Address by Allama Iqbal / علامہ اقبال کا 1930 کا لاہور خطاب"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Who was the first Governor-General of Pakistan? / پاکستان کے پہلے گورنر جنرل کون تھے؟",
+        "options":  [
+                        "Liaquat Ali Khan / لیاقت علی خان",
+                        "Allama Iqbal / علامہ اقبال",
+                        "Muhammad Ali Jinnah / محمد علی جناح",
+                        "Khwaja Nazimuddin / خواجہ ناظم الدین"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "Which of the following was a significant role played by women in Pakistan\u0027s independence movement? / پاکستان کی آزادی کی تحریک میں خواتین کے اہم کردار میں سے کون سا تھا؟",
+        "options":  [
+                        "Leading protests / مظاہروں کی قیادت کرنا",
+                        "Writing revolutionary literature / انقلابی ادب لکھنا",
+                        "Organizing mass rallies / بڑے پیمانے پر ریلیاں منظم کرنا",
+                        "All of the above / ان سب کا"
+                    ],
+        "correctAnswer":  3
+    },
+    {
+        "question":  "The Pakistan Resolution of 1940 was passed in which city? / پاکستان قرارداد 1940 کس شہر میں منظور ہوئی تھی؟",
+        "options":  [
+                        "Karachi / کراچی",
+                        "Lahore / لاہور",
+                        "Delhi / دہلی",
+                        "Dhaka / ڈھاکہ"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "The Pakistan Movement was inspired by which major global event? / پاکستان تحریک کو کس بڑے عالمی واقعے سے تحریک ملی؟",
+        "options":  [
+                        "World War I / پہلی عالمی جنگ",
+                        "World War II / دوسری عالمی جنگ",
+                        "The Russian Revolution / روسی انقلاب",
+                        "The Indian Rebellion of 1857 / 1857 کا ہندوستانی بغاوت"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Which of the following leaders was associated with the concept of \u0027Pakistan for Muslims\u0027? / ذیل میں سے کون سے رہنما \u0027مسلمانوں کے لیے پاکستان\u0027 کے تصور سے وابستہ تھے؟",
+        "options":  [
+                        "Jawaharlal Nehru / جواہر لال نہرو",
+                        "Allama Iqbal / علامہ اقبال",
+                        "Subhas Chandra Bose / سبھاش چندر بوس",
+                        "Maulana Azad / مولانا آزاد"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "The ideology of Pakistan emphasizes the promotion of which key social value? / پاکستان کے نظریہ میں کس اہم سماجی قدر کو فروغ دینے پر زور دیا گیا ہے؟",
+        "options":  [
+                        "Secularism / سیکولرازم",
+                        "Democracy / جموکری",
+                        "Social justice / سماجی انصاف",
+                        "Communism / کمیونزم"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "Who played a vital role in the formulation of Pakistan’s ideology? / پاکستان کے نظریے کی تشکیل میں کس کا اہم کردار تھا؟",
+        "options":  [
+                        "Liaquat Ali Khan / لیاقت علی خان",
+                        "Maulana Maududi / مولانا مودودی",
+                        "Allama Iqbal / علامہ اقبال",
+                        "Quaid-e-Azam / قائداعظم محمد علی جناح"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "The Pakistan Movement largely relied on the leadership of which political organization? / پاکستان تحریک بڑی حد تک کس سیاسی تنظیم کی قیادت پر انحصار کرتی تھی؟",
+        "options":  [
+                        "Indian National Congress / بھارتی نیشنل کانگریس",
+                        "All India Muslim League / آل انڈیا مسلم لیگ",
+                        "Hindu Mahasabha / ہندو مہاسبھا",
+                        "Communist Party of India / کمیونسٹ پارٹی آف انڈیا"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Who proposed the idea of a separate Muslim state in his famous 1930 address? / کس نے اپنے مشہور 1930 کے خطاب میں علیحدہ مسلم ریاست کا تصور پیش کیا؟",
+        "options":  [
+                        "Muhammad Ali Jinnah / محمد علی جناح",
+                        "Allama Iqbal / علامہ اقبال",
+                        "Liaquat Ali Khan / لیاقت علی خان",
+                        "Maulana Azad / مولانا آزاد"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "The Lahore Resolution of 1940 is also known as the? / 1940 کی قرارداد لاہور کو بھی کس نام سے جانا جاتا ہے؟",
+        "options":  [
+                        "Pakistan Resolution / پاکستان قرارداد",
+                        "Two-Nation Theory Resolution / دو قومی نظریہ قرارداد",
+                        "Muslim League Declaration / مسلم لیگ کا اعلامیہ",
+                        "Freedom Resolution / آزادی قرارداد"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "The creation of Pakistan was based on the concept of which major religious ideology? / پاکستان کے قیام کا بنیاد کس بڑے مذہبی نظریے پر تھا؟",
+        "options":  [
+                        "Hinduism / ہندو مت",
+                        "Buddhism / بدھ مت",
+                        "Islam / اسلام",
+                        "Christianity / عیسائیت"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "Who was the first woman to be awarded the title of \"Mother of the Nation\" in Pakistan? / پاکستان میں \"مادر ملت\" کا خطاب حاصل کرنے والی پہلی خاتون کون تھیں؟",
+        "options":  [
+                        "Benazir Bhutto / بے نظیر بھٹو",
+                        "Fatima Jinnah / فاطمہ جناح",
+                        "Begum Rana Liaquat Ali Khan / بیگم رعنا لیاقت علی خان",
+                        "Asma Jahangir / آسمہ جہانگیر"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "The partition of India in 1947 resulted in the creation of which two countries? / 1947 میں ہندوستان کی تقسیم کے نتیجے میں کون سی دو ریاستیں قائم ہوئیں؟",
+        "options":  [
+                        "India and Pakistan / ہندوستان اور پاکستان",
+                        "India and Bangladesh / ہندوستان اور بنگلہ دیش",
+                        "Pakistan and Afghanistan / پاکستان اور افغانستان",
+                        "Pakistan and Sri Lanka / پاکستان اور سری لنکا"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "What was the primary reason for the creation of Pakistan according to its ideology? / پاکستان کے قیام کی بنیادی وجہ اس کے نظریے کے مطابق کیا تھی؟",
+        "options":  [
+                        "Economic development / اقتصادی ترقی",
+                        "Protection of Islamic values / اسلامی اقدار کا تحفظ",
+                        "Social justice / سماجی انصاف",
+                        "Freedom from British rule / برطانوی حکمرانی سے آزادی"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Who presented the idea of a separate Muslim state in India? / بھارت میں علیحدہ مسلم ریاست کا تصور کس نے پیش کیا؟",
+        "options":  [
+                        "Allama Iqbal / علامہ اقبال",
+                        "Quaid-e-Azam / قائداعظم",
+                        "Maulana Azad / مولانا آزاد",
+                        "Liaquat Ali Khan / لیاقت علی خان"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "The Lahore Resolution of 1940 called for which of the following? / 1940 کی قرارداد لاہور میں درج ذیل میں سے کیا مطالبہ کیا گیا؟",
+        "options":  [
+                        "Independence of India / ہندوستان کی آزادی",
+                        "Continuation of British rule / برطانوی حکومت کا تسلسل",
+                        "Partition of Bengal / بنگال کی تقسیم",
+                        "Self-rule for Muslims / مسلمانوں کے لیے خود مختاری"
+                    ],
+        "correctAnswer":  3
+    },
+    {
+        "question":  "Who is known as the \"Mother of the Nation\" in Pakistan? / پاکستان میں \"مادر ملت\" کے طور پر کون جانا جاتا ہے؟",
+        "options":  [
+                        "Fatima Jinnah / فاطمہ جناح",
+                        "Benazir Bhutto / بے نظیر بھٹو",
+                        "Begum Rana Liaquat Ali Khan / بیگم رعنا لیاقت علی خان",
+                        "Malala Yousafzai / ملالہ یوسفزئی"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "The Pakistan Resolution (Lahore Resolution) was passed in which year? / پاکستان قرارداد (لاہور قرارداد) کس سال منظور ہوئی؟",
+        "options":  [
+                        "1930",
+                        "1940",
+                        "1950",
+                        "1960"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "What was the main political role of the All India Muslim League? / آل انڈیا مسلم لیگ کا مرکزی سیاسی کردار کیا تھا؟",
+        "options":  [
+                        "Securing civil rights for Muslims / مسلمانوں کے لیے شہری حقوق کا تحفظ",
+                        "Establishing a Hindu-Muslim unity / ہندو مسلم اتحاد قائم کرنا",
+                        "Promoting independence for all Indians / تمام ہندوستانیوں کے لیے آزادی کو فروغ دینا",
+                        "Advocating for a separate Muslim state / علیحدہ مسلم ریاست کے لیے حمایت کرنا"
+                    ],
+        "correctAnswer":  3
+    },
+    {
+        "question":  "Who proposed the name \"Pakistan\" for the new state? / نئے ریاست کے لیے \"پاکستان\" کا نام کس نے تجویز کیا؟",
+        "options":  [
+                        "Quaid-e-Azam / قائداعظم",
+                        "Allama Iqbal / علامہ اقبال",
+                        "Chaudhry Rehmat Ali / چوہدری رحمت علی",
+                        "Liaquat Ali Khan / لیاقت علی خان"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "The vision of the founding fathers of Pakistan was primarily based on which concept? / پاکستان کے بانیوں کا وژن کس تصور پر مبنی تھا؟",
+        "options":  [
+                        "Secular nationalism / سیکولر قومیت",
+                        "Islamic principles and values / اسلامی اصول اور اقدار",
+                        "British political system / برطانوی سیاسی نظام",
+                        "Marxist socialism / مارکسی سوشیلزم"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Which document first proposed the establishment of Pakistan as a separate Muslim state? / کس دستاویز میں پاکستان کو ایک علیحدہ مسلم ریاست کے طور پر قائم کرنے کی تجویز دی گئی تھی؟",
+        "options":  [
+                        "The Lahore Resolution / قرارداد لاہور",
+                        "The Declaration of Independence / اعلامیہ آزادی",
+                        "The Indian National Congress Manifesto / ہندوستانی نیشنل کانگریس کا منشور",
+                        "The Muslim League Manifesto / مسلم لیگ کا منشور"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "Who was the first Governor-General of Pakistan? / پاکستان کا پہلا گورنر جنرل کون تھا؟",
+        "options":  [
+                        "Liaquat Ali Khan / لیاقت علی خان",
+                        "Allama Iqbal / علامہ اقبال",
+                        "Muhammad Ali Jinnah / محمد علی جناح",
+                        "Khawaja Nazimuddin / خواجہ ناظم الدین"
+                    ],
+        "correctAnswer":  2
+    }
+]

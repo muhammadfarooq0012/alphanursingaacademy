@@ -1,0 +1,352 @@
+[
+    {
+        "question":  "What is a constitution? / آئین کیا ہوتا ہے؟",
+        "options":  [
+                        "A religious book / ایک مذہبی کتاب",
+                        "A set of laws and principles for governing a country / ملک کو چلانے کے لیے قوانین اور اصولوں کا مجموعہ",
+                        "A political party / ایک سیاسی جماعت",
+                        "A court decision / ایک عدالتی فیصلہ"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Which is the supreme law of the country? / ملک کا اعلیٰ ترین قانون کون سا ہوتا ہے؟",
+        "options":  [
+                        "Parliament rules / پارلیمنٹ کے اصول",
+                        "Court decisions / عدالت کے فیصلے",
+                        "Constitution / آئین",
+                        "Presidential orders / صدارتی احکامات"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "When was the first constitution of Pakistan enforced? / پاکستان کا پہلا آئین کب نافذ ہوا؟",
+        "options":  [
+                        "1947",
+                        "1956",
+                        "1962",
+                        "1973"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Which constitution of Pakistan is currently in use? / پاکستان میں اس وقت کون سا آئین نافذ العمل ہے؟",
+        "options":  [
+                        "1956 Constitution / ۱۹۵۶ کا آئین",
+                        "1962 Constitution / ۱۹۶۲ کا آئین",
+                        "1973 Constitution / ۱۹۷۳ کا آئین",
+                        "Interim Constitution / عبوری آئین"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "What type of government does the constitution of Pakistan establish? / پاکستان کا آئین کس قسم کی حکومت قائم کرتا ہے؟",
+        "options":  [
+                        "Monarchy / بادشاہت",
+                        "Military Rule / فوجی حکومت",
+                        "Islamic democratic government / اسلامی جمہوری حکومت",
+                        "Communist government / کمیونسٹ حکومت"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "Which religious leader\u0027s speeches strongly advocated for the creation of a separate Muslim state in the 1930s? / کون سے مذہبی رہنما کی تقاریر نے 1930 کی دہائی میں علیحدہ مسلم ریاست کے قیام کے لیے پختہ حمایت کی؟",
+        "options":  [
+                        "Maulana Maududi / مولانا مودودی",
+                        "Allama Iqbal / علامہ اقبال",
+                        "Maulana Azad / مولانا آزاد",
+                        "Sir Syed Ahmad Khan / سرسید احمد خان"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "What is the importance of a constitution? / آئین کی اہمیت کیا ہے؟",
+        "options":  [
+                        "Provides a framework for governance / حکمرانی کے لیے ایک ڈھانچہ فراہم کرتا ہے",
+                        "Defines individual rights / انفرادی حقوق کی وضاحت کرتا ہے",
+                        "Ensures the separation of powers / اختیارات کی علیحدگی کو یقینی بناتا ہے",
+                        "All of the above / ان سب کا"
+                    ],
+        "correctAnswer":  3
+    },
+    {
+        "question":  "When was the Constitution of Pakistan passed? / پاکستان کا آئین کب منظور کیا گیا؟",
+        "options":  [
+                        "1949",
+                        "1956",
+                        "1973",
+                        "1962"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "Which principle does the Constitution of Pakistan emphasize for ensuring fundamental rights? / پاکستان کے آئین میں بنیادی حقوق کی ضمانت کے لیے کون سا اصول اہمیت رکھتا ہے؟",
+        "options":  [
+                        "Equality / مساوات",
+                        "Justice / انصاف",
+                        "Freedom of expression / اظہار رائے کی آزادی",
+                        "All of the above / ان سب کا"
+                    ],
+        "correctAnswer":  3
+    },
+    {
+        "question":  "What was the primary ideology behind the creation of Pakistan\u0027s constitution? / پاکستان کے آئین کی تخلیق کے پیچھے بنیادی نظریہ کیا تھا؟",
+        "options":  [
+                        "Islamic principles / اسلامی اصول",
+                        "Socialist ideas / سوشلسٹ خیالات",
+                        "Secularism / سیکولرازم",
+                        "None of the above / ان میں سے کوئی نہیں"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "Which of the following concepts does the Constitution of Pakistan aim to protect? / پاکستان کا آئین درج ذیل میں سے کون سا تصور محفوظ کرنے کی کوشش کرتا ہے؟",
+        "options":  [
+                        "Religious freedom / مذہبی آزادی",
+                        "Women\u0027s rights / خواتین کے حقوق",
+                        "Minority rights / اقلیتوں کے حقوق",
+                        "All of the above / ان سب کا"
+                    ],
+        "correctAnswer":  3
+    },
+    {
+        "question":  "Which year did Pakistan adopt its first constitution? / پاکستان نے اپنا پہلا آئین کس سال میں اپنایا؟",
+        "options":  [
+                        "1947",
+                        "1956",
+                        "1962",
+                        "1973"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "What type of government did Pakistan establish according to its first constitution? / پاکستان نے اپنے پہلے آئین کے مطابق کس قسم کی حکومت قائم کی؟",
+        "options":  [
+                        "Parliamentary system / پارلیمانی نظام",
+                        "Presidential system / صدارتی نظام",
+                        "Military rule / فوجی حکمرانی",
+                        "Monarchic rule / بادشاہت"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "Which document laid down the ideological foundation for Pakistan\u0027s constitution? / پاکستان کے آئین کی نظریاتی بنیاد کون سے دستاویز نے رکھی؟",
+        "options":  [
+                        "Objectives Resolution 1949 / قرارداد مقاصد 1949",
+                        "Lahore Resolution 1940 / قرارداد لاہور 1940",
+                        "The Quran / قرآن",
+                        "All of the above / ان سب کا"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "Which principle does the Constitution of Pakistan ensure to protect the rights of the people? / پاکستان کے آئین میں عوام کے حقوق کے تحفظ کے لیے کون سا اصول یقینی بنایا گیا ہے؟",
+        "options":  [
+                        "Secularism / سیکولرازم",
+                        "Democracy / جمہوریت",
+                        "Federalism / وفاقیت",
+                        "All of the above / ان سب کا"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "What is the role of the judiciary according to the Constitution of Pakistan? / پاکستان کے آئین کے مطابق عدلیہ کا کیا کردار ہے؟",
+        "options":  [
+                        "To create laws / قوانین بنانا",
+                        "To implement laws / قوانین کو نافذ کرنا",
+                        "To interpret laws / قوانین کی تشریح کرنا",
+                        "All of the above / ان سب کا"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "In which year was the second Constitution of Pakistan implemented? / پاکستان کا دوسرا آئین کس سال میں نافذ کیا گیا؟",
+        "options":  [
+                        "1956",
+                        "1962",
+                        "1973",
+                        "1985"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "The 1973 Constitution of Pakistan was amended to ensure what? / پاکستان کے 1973 کے آئین میں ترامیم کی گئیں تاکہ کیا یقینی بنایا جا سکے؟",
+        "options":  [
+                        "Military rule / فوجی حکمرانی",
+                        "Fundamental rights / بنیادی حقوق",
+                        "Religious freedom / مذہبی آزادی",
+                        "Economic stability / اقتصادی استحکام"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Which of the following amendments to the Constitution of Pakistan introduced a presidential system? / پاکستان کے آئین میں درج ذیل میں سے کون سی ترمیم نے صدارتی نظام متعارف کرایا؟",
+        "options":  [
+                        "18th Amendment / 18ویں ترمیم",
+                        "8th Amendment / 8ویں ترمیم",
+                        "21st Amendment / 21ویں ترمیم",
+                        "17th Amendment / 17ویں ترمیم"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "In which year did the 18th Amendment to the Constitution of Pakistan reduce the powers of the President? / پاکستان کے آئین کی 18ویں ترمیم میں صدر کے اختیارات کب کم کیے گئے؟",
+        "options":  [
+                        "1990",
+                        "2003",
+                        "2010",
+                        "2015"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "Which amendment allowed the creation of military courts in Pakistan? / کس ترمیم نے پاکستان میں فوجی عدالتوں کے قیام کی اجازت دی؟",
+        "options":  [
+                        "20th Amendment / 20ویں ترمیم",
+                        "21st Amendment / 21ویں ترمیم",
+                        "18th Amendment / 18ویں ترمیم",
+                        "25th Amendment / 25ویں ترمیم"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "What was a major characteristic of the 1962 Constitution of Pakistan? / پاکستان کے 1962 کے آئین کی ایک اہم خصوصیت کیا تھی؟",
+        "options":  [
+                        "Federal system / وفاقی نظام",
+                        "Presidential system / صدارتی نظام",
+                        "Parliamentary system / پارلیمانی نظام",
+                        "Military rule / فوجی حکمرانی"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Which of the following concepts is embedded in the Objectives Resolution of 1949? / درج ذیل میں سے کون سا تصور 1949 کی قرارداد مقاصد میں شامل ہے؟",
+        "options":  [
+                        "Islamic ideology / اسلامی نظریہ",
+                        "Socialism / سوشلسٹ خیالات",
+                        "Secularism / سیکولرازم",
+                        "Democracy / جمہوریت"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "The 25th Amendment of Pakistan\u0027s Constitution resulted in the merger of which region? / پاکستان کے آئین کی 25ویں ترمیم کے نتیجے میں کس علاقے کا ضم ہوا؟",
+        "options":  [
+                        "Gilgit-Baltistan / گلگت بلتستان",
+                        "FATA / فاٹا",
+                        "Azad Kashmir / آزاد کشمیر",
+                        "Northern Areas / شمالی علاقے"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "What did the Objectives Resolution of 1949 aim to establish in Pakistan? / 1949 کی قرارداد مقاصد کا مقصد پاکستان میں کیا قائم کرنا تھا؟",
+        "options":  [
+                        "A socialist state / سوشلسٹ ریاست",
+                        "An Islamic state / اسلامی ریاست",
+                        "A secular state / سیکولر ریاست",
+                        "A democratic state / جمہوری ریاست"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "What was the primary goal of the 18th Amendment to Pakistan\u0027s Constitution? / پاکستان کے آئین کی 18ویں ترمیم کا بنیادی مقصد کیا تھا؟",
+        "options":  [
+                        "Reducing President\u0027s powers / صدر کے اختیارات کم کرنا",
+                        "Strengthening military power / فوجی طاقت کو مضبوط کرنا",
+                        "Giving more powers to the provinces / صوبوں کو زیادہ اختیارات دینا",
+                        "Introducing a presidential system / صدارتی نظام متعارف کرانا"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "What is the core value promoted by Pakistan\u0027s Constitution according to its Objectives Resolution? / پاکستان کے آئین میں قرارداد مقاصد کے مطابق کون سی بنیادی قدر کو فروغ دیا گیا ہے؟",
+        "options":  [
+                        "Democracy / جمہوریت",
+                        "Islamic values / اسلامی اقدار",
+                        "Secularism / سیکولرازم",
+                        "Social justice / سماجی انصاف"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "When was the 17th Amendment to the Constitution of Pakistan introduced? / پاکستان کے آئین کی 17ویں ترمیم کب متعارف کرائی گئی؟",
+        "options":  [
+                        "1999",
+                        "2003",
+                        "2005",
+                        "2010"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Which of the following amendments allowed the devolution of powers to the provinces? / درج ذیل میں سے کون سی ترمیم نے صوبوں کو اختیارات کی منتقلی کی اجازت دی؟",
+        "options":  [
+                        "18th Amendment / 18ویں ترمیم",
+                        "19th Amendment / 19ویں ترمیم",
+                        "20th Amendment / 20ویں ترمیم",
+                        "21st Amendment / 21ویں ترمیم"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "What is the primary objective of federalism in Pakistan\u0027s Constitution? / پاکستان کے آئین میں وفاقیت کا بنیادی مقصد کیا ہے؟",
+        "options":  [
+                        "To ensure a strong central government / مضبوط مرکزی حکومت کو یقینی بنانا",
+                        "To promote political autonomy for provinces / صوبوں کے لیے سیاسی خودمختاری کو فروغ دینا",
+                        "To limit the powers of the provinces / صوبوں کے اختیارات کو محدود کرنا",
+                        "None of the above / ان میں سے کوئی نہیں"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "How does the Constitution of Pakistan protect human rights? / پاکستان کا آئین انسانی حقوق کا تحفظ کیسے کرتا ہے؟",
+        "options":  [
+                        "By ensuring equality before the law / قانون کے سامنے مساوات کو یقینی بنا کر",
+                        "By guaranteeing freedom of speech / اظہار رائے کی آزادی کی ضمانت دے کر",
+                        "By protecting minority rights / اقلیتوں کے حقوق کا تحفظ کر کے",
+                        "All of the above / ان سب کا"
+                    ],
+        "correctAnswer":  3
+    },
+    {
+        "question":  "What does the Constitution of Pakistan emphasize regarding accountability and transparency? / پاکستان کے آئین میں احتساب اور شفافیت کے بارے میں کیا اہمیت دی گئی ہے؟",
+        "options":  [
+                        "Reducing corruption / کرپشن کو کم کرنا",
+                        "Ensuring government transparency / حکومت کی شفافیت کو یقینی بنانا",
+                        "Limiting the powers of elected officials / منتخب عہدیداروں کے اختیارات کو محدود کرنا",
+                        "All of the above / ان سب کا"
+                    ],
+        "correctAnswer":  3
+    },
+    {
+        "question":  "What does the 1973 Constitution of Pakistan guarantee for all citizens? / پاکستان کے 1973 کے آئین میں تمام شہریوں کے لیے کیا ضمانت ہے؟",
+        "options":  [
+                        "Equal rights / مساوی حقوق",
+                        "Social justice / سماجی انصاف",
+                        "Economic equality / اقتصادی مساوات",
+                        "All of the above / ان سب کا"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "What was a feature of the 1956 Constitution of Pakistan? / پاکستان کے 1956 کے آئین کی ایک خصوصیت کیا تھی؟",
+        "options":  [
+                        "Parliamentary system / پارلیمانی نظام",
+                        "Islamic provisions / اسلامی دفعات",
+                        "Presidential system / صدارتی نظام",
+                        "Military influence / فوجی اثرات"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "Which of the following is true about the 1962 Constitution of Pakistan? / پاکستان کے 1962 کے آئین کے بارے میں مندرجہ ذیل میں سے کون سا بیان صحیح ہے؟",
+        "options":  [
+                        "It introduced a parliamentary system / اس نے پارلیمانی نظام متعارف کرایا",
+                        "It granted more powers to the president / اس نے صدر کو زیادہ اختیارات دیے",
+                        "It emphasized Islamic principles / اس نے اسلامی اصولوں کو اہمیت دی",
+                        "It lasted for over two decades / یہ دو دہائیوں سے زائد عرصے تک قائم رہا"
+                    ],
+        "correctAnswer":  1
+    }
+]

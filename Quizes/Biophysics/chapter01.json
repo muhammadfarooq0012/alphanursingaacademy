@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the SI unit of force?",
+    "options": ["Joule", "Watt", "Newton", "Pascal"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The unit of pressure is:",
+    "options": ["Newton", "Pascal", "Joule", "Watt"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the speed of light in vacuum?",
+    "options": ["3 × 10⁶ m/s", "3 × 10⁸ m/s", "3 × 10¹⁰ m/s", "3 × 10⁴ m/s"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which radiation is used in X-rays?",
+    "options": ["Alpha rays", "Beta rays", "Gamma rays", "X-rays"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The unit of energy is:",
+    "options": ["Watt", "Newton", "Joule", "Ampere"],
+    "correctAnswer": 2
+  }
+]

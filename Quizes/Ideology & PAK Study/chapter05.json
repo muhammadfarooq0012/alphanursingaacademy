@@ -1,0 +1,352 @@
+[
+    {
+        "question":  "Which article of the Constitution of Pakistan deals with fundamental rights? / پاکستان کے آئین کا کون سا آرٹیکل بنیادی حقوق سے متعلق ہے؟",
+        "options":  [
+                        "Article 8–28 / آرٹیکل ۸–۲۸",
+                        "Article 1–5 / آرٹیکل ۱–۵",
+                        "Article 50–70 / آرٹیکل ۵۰–۷۰",
+                        "Article 100–120 / آرٹیکل ۱۰۰–۱۲۰"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "Which of the following is a fundamental right in Pakistan? / ان میں سے کون سا پاکستان میں بنیادی حق ہے؟",
+        "options":  [
+                        "Right to rule / حکمرانی کا حق",
+                        "Right to drive / گاڑی چلانے کا حق",
+                        "Right to freedom of speech / اظہار رائے کی آزادی",
+                        "Right to own a company / کمپنی رکھنے کا حق"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "Who is responsible for protecting the fundamental rights of citizens? / شہریوں کے بنیادی حقوق کے تحفظ کی ذمہ داری کس کی ہے؟",
+        "options":  [
+                        "Citizens / شہری",
+                        "Judiciary / عدلیہ",
+                        "Media / میڈیا",
+                        "Political parties / سیاسی جماعتیں"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "What is a key responsibility of every citizen of Pakistan? / پاکستان کے ہر شہری کی ایک اہم ذمہ داری کیا ہے؟",
+        "options":  [
+                        "Owning land / زمین رکھنا",
+                        "Obeying the law / قانون کی پابندی",
+                        "Running for office / الیکشن لڑنا",
+                        "Becoming a judge / جج بننا"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "The right to education in Pakistan is guaranteed under which article? / پاکستان میں تعلیم کا حق کس آرٹیکل کے تحت دیا گیا ہے؟",
+        "options":  [
+                        "Article 17",
+                        "Article 19",
+                        "Article 25-A",
+                        "Article 15"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "What does Article 9 of the Constitution of Pakistan guarantee? / آرٹیکل 9 کے تحت پاکستان کے آئین میں کس چیز کی ضمانت دی جاتی ہے؟",
+        "options":  [
+                        "Right to education / تعلیم کا حق",
+                        "Right to freedom / آزادی کا حق",
+                        "Right to property / جائیداد کا حق",
+                        "Right to worship / عبادت کا حق"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Which of the following is prohibited under Article 11 of the Constitution of Pakistan? / پاکستان کے آئین کے آرٹیکل 11 کے تحت کون سی چیز ممنوع ہے؟",
+        "options":  [
+                        "Forced labor / جبری مشقت",
+                        "Freedom of speech / آزادی اظہار",
+                        "Right to assemble / اجتماع کا حق",
+                        "Right to vote / ووٹ کا حق"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "Which Article provides the protection against double punishment for the same offense? / کون سا آرٹیکل ایک ہی جرم کے لیے دوبارہ سزا دینے سے تحفظ فراہم کرتا ہے؟",
+        "options":  [
+                        "Article 13 / آرٹیکل 13",
+                        "Article 12 / آرٹیکل 12",
+                        "Article 14 / آرٹیکل 14",
+                        "Article 15 / آرٹیکل 15"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "What is guaranteed under Article 19 of the Constitution of Pakistan? / پاکستان کے آئین کے آرٹیکل 19 کے تحت کیا ضمانت دی جاتی ہے؟",
+        "options":  [
+                        "Freedom of expression / اظہار رائے کی آزادی",
+                        "Right to property / جائیداد کا حق",
+                        "Right to privacy / نجی زندگی کا حق",
+                        "Right to assemble / اجتماع کا حق"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "Which article guarantees the right to education in Pakistan? / پاکستان میں تعلیم کا حق کون سے آرٹیکل کے تحت دیا گیا ہے؟",
+        "options":  [
+                        "Article 18 / آرٹیکل 18",
+                        "Article 22 / آرٹیکل 22",
+                        "Article 25 / آرٹیکل 25",
+                        "Article 33 / آرٹیکل 33"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "What does Article 24 of the Constitution of Pakistan protect? / پاکستان کے آئین کے آرٹیکل 24 میں کس چیز کی حفاظت کی گئی ہے؟",
+        "options":  [
+                        "Property rights / جائیداد کے حقوق",
+                        "Right to work / کام کرنے کا حق",
+                        "Right to vote / ووٹ کا حق",
+                        "Right to freedom of movement / نقل و حرکت کی آزادی"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "According to Article 25, discrimination based on which of the following is prohibited? / آرٹیکل 25 کے مطابق، درج ذیل میں سے کس بنیاد پر امتیاز کرنا ممنوع ہے؟",
+        "options":  [
+                        "Religion / مذہب",
+                        "Caste / ذات",
+                        "Gender / جنس",
+                        "All of the above / مندرجہ بالا تمام"
+                    ],
+        "correctAnswer":  3
+    },
+    {
+        "question":  "What does Article 29 of the Constitution of Pakistan promote? / پاکستان کے آئین کے آرٹیکل 29 میں کیا فروغ دیا جاتا ہے؟",
+        "options":  [
+                        "Economic and social welfare / معاشی اور سماجی فلاح",
+                        "Political freedom / سیاسی آزادی",
+                        "Religious freedom / مذہبی آزادی",
+                        "Right to assembly / اجتماع کا حق"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "Which article of the Constitution of Pakistan requires the government to promote equality of opportunity? / پاکستان کے آئین کا کون سا آرٹیکل حکومت کو مساوات کے مواقع فراہم کرنے کا تقاضا کرتا ہے؟",
+        "options":  [
+                        "Article 31 / آرٹیکل 31",
+                        "Article 38 / آرٹیکل 38",
+                        "Article 39 / آرٹیکل 39",
+                        "Article 40 / آرٹیکل 40"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Which of the following is the responsibility of every citizen according to Article 5 of the Constitution of Pakistan? / پاکستان کے آئین کے آرٹیکل 5 کے مطابق، مندرجہ ذیل میں سے کون سی ذمہ داری ہر شہری پر عائد ہوتی ہے؟",
+        "options":  [
+                        "To pay taxes / ٹیکس ادا کرنا",
+                        "To participate in political activities / سیاسی سرگرمیوں میں حصہ لینا",
+                        "To follow the law / قانون کی پیروی کرنا",
+                        "To protect public property / عوامی املاک کا تحفظ کرنا"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "Which article of the Constitution of Pakistan deals with the protection of minority rights? / پاکستان کے آئین کا کون سا آرٹیکل اقلیتوں کے حقوق کے تحفظ سے متعلق ہے؟",
+        "options":  [
+                        "Article 32 / آرٹیکل 32",
+                        "Article 33 / آرٹیکل 33",
+                        "Article 34 / آرٹیکل 34",
+                        "Article 35 / آرٹیکل 35"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Which principle of policy is related to the protection of the environment in Pakistan? / پاکستان میں ماحولیاتی تحفظ سے متعلق کون سا پالیسی کا اصول ہے؟",
+        "options":  [
+                        "Article 37 / آرٹیکل 37",
+                        "Article 39 / آرٹیکل 39",
+                        "Article 40 / آرٹیکل 40",
+                        "Article 41 / آرٹیکل 41"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Under which article of the Constitution is the right to freedom of movement guaranteed? / آئین کے کس آرٹیکل کے تحت نقل و حرکت کی آزادی کا حق دیا گیا ہے؟",
+        "options":  [
+                        "Article 15 / آرٹیکل 15",
+                        "Article 16 / آرٹیکل 16",
+                        "Article 17 / آرٹیکل 17",
+                        "Article 18 / آرٹیکل 18"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "Which article of the Constitution of Pakistan ensures that the state will not discriminate against citizens based on their religion? / پاکستان کے آئین کا کون سا آرٹیکل اس بات کو یقینی بناتا ہے کہ ریاست شہریوں کے مذہب کی بنیاد پر امتیاز نہیں کرے گی؟",
+        "options":  [
+                        "Article 18 / آرٹیکل 18",
+                        "Article 20 / آرٹیکل 20",
+                        "Article 21 / آرٹیکل 21",
+                        "Article 25 / آرٹیکل 25"
+                    ],
+        "correctAnswer":  3
+    },
+    {
+        "question":  "According to Article 39, what is the government\u0027s responsibility? / آرٹیکل 39 کے مطابق، حکومت کی کیا ذمہ داری ہے؟",
+        "options":  [
+                        "Economic development / اقتصادی ترقی",
+                        "Environmental protection / ماحولیاتی تحفظ",
+                        "Providing health care / صحت کی سہولت فراہم کرنا",
+                        "Promoting equal opportunities / مساوی مواقع کی فروغ"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Which of the following is a principle of policy as per Article 40 of the Constitution? / پاکستان کے آئین کے آرٹیکل 40 کے مطابق، مندرجہ ذیل میں سے کون سا پالیسی کا اصول ہے؟",
+        "options":  [
+                        "Promotion of social justice / سماجی انصاف کا فروغ",
+                        "Protection of cultural heritage / ثقافتی ورثہ کا تحفظ",
+                        "Promotion of unity / اتحاد کا فروغ",
+                        "Promotion of international relations / بین الاقوامی تعلقات کا فروغ"
+                    ],
+        "correctAnswer":  3
+    },
+    {
+        "question":  "Which article of the Constitution of Pakistan refers to the protection of the family and marriage? / پاکستان کے آئین کا کون سا آرٹیکل خاندان اور شادی کے تحفظ سے متعلق ہے؟",
+        "options":  [
+                        "Article 34 / آرٹیکل 34",
+                        "Article 35 / آرٹیکل 35",
+                        "Article 36 / آرٹیکل 36",
+                        "Article 37 / آرٹیکل 37"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Under Article 40, what is the state\u0027s responsibility regarding future generations? / آرٹیکل 40 کے تحت ریاست کا مستقبل کی نسلوں کے حوالے سے کیا فرض ہے؟",
+        "options":  [
+                        "To promote international relations / بین الاقوامی تعلقات کو فروغ دینا",
+                        "To provide equal opportunities / مساوی مواقع فراہم کرنا",
+                        "To ensure sustainable development / پائیدار ترقی کو یقینی بنانا",
+                        "To protect family institutions / خاندان کی تنظیموں کا تحفظ کرنا"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "Which of the following is a duty of every citizen under Article 5? / آرٹیکل 5 کے تحت ہر شہری کا کون سا فرض ہے؟",
+        "options":  [
+                        "To defend the country / ملک کا دفاع کرنا",
+                        "To uphold the law / قانون کی پاسداری کرنا",
+                        "To maintain national unity / قومی اتحاد کو برقرار رکھنا",
+                        "All of the above / مندرجہ بالا تمام"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "What does Article 18 of the Constitution of Pakistan guarantee? / پاکستان کے آئین کا آرٹیکل 18 کیا ضمانت دیتا ہے؟",
+        "options":  [
+                        "Freedom of profession and business / پیشہ ورانہ اور کاروباری آزادی",
+                        "Right to education / تعلیم کا حق",
+                        "Right to worship / عبادت کا حق",
+                        "Right to assembly / اجتماع کا حق"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "According to Article 5, what is the responsibility of every citizen? / آرٹیکل 5 کے مطابق ہر شہری کی ذمہ داری کیا ہے؟",
+        "options":  [
+                        "To pay taxes / ٹیکس ادا کرنا",
+                        "To obey the constitution and law / آئین اور قانون کی پیروی کرنا",
+                        "To protect the environment / ماحولیاتی تحفظ کرنا",
+                        "To promote cultural activities / ثقافتی سرگرمیوں کو فروغ دینا"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Which article protects citizens from unlawful arrest and detention? / کون سا آرٹیکل شہریوں کو غیر قانونی گرفتاری اور حراست سے تحفظ فراہم کرتا ہے؟",
+        "options":  [
+                        "Article 9 / آرٹیکل 9",
+                        "Article 10 / آرٹیکل 10",
+                        "Article 11 / آرٹیکل 11",
+                        "Article 12 / آرٹیکل 12"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "According to Article 11, what is prohibited in terms of labor? / آرٹیکل 11 کے مطابق، کام کے حوالے سے کیا چیز ممنوع ہے؟",
+        "options":  [
+                        "Child labor / بچوں کی مشقت",
+                        "Forced labor / جبری مشقت",
+                        "Unpaid labor / بغیر اجرت کے کام",
+                        "All of the above / مندرجہ بالا تمام"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "Which of the following is an example of a fundamental right under the Constitution of Pakistan? / پاکستان کے آئین کے تحت بنیادی حقوق کی ایک مثال کون سی ہے؟",
+        "options":  [
+                        "Right to freedom of speech / آزادی اظہار کا حق",
+                        "Right to privacy / نجی زندگی کا حق",
+                        "Right to life and liberty / زندگی اور آزادی کا حق",
+                        "All of the above / مندرجہ بالا تمام"
+                    ],
+        "correctAnswer":  3
+    },
+    {
+        "question":  "Which article ensures that no one can be punished twice for the same crime? / کون سا آرٹیکل یہ ضمانت دیتا ہے کہ کسی کو ایک ہی جرم پر دوبارہ سزا نہیں دی جا سکتی؟",
+        "options":  [
+                        "Article 13 / آرٹیکل 13",
+                        "Article 12 / آرٹیکل 12",
+                        "Article 14 / آرٹیکل 14",
+                        "Article 15 / آرٹیکل 15"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "What does Article 17 guarantee to every citizen? / آرٹیکل 17 ہر شہری کو کیا ضمانت دیتا ہے؟",
+        "options":  [
+                        "Freedom of assembly / اجتماع کی آزادی",
+                        "Freedom of expression / اظہار رائے کی آزادی",
+                        "Right to property / جائیداد کا حق",
+                        "Right to vote / ووٹ کا حق"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "Under which article is the protection of religious minorities guaranteed? / کس آرٹیکل کے تحت مذہبی اقلیتوں کے حقوق کا تحفظ کیا گیا ہے؟",
+        "options":  [
+                        "Article 25 / آرٹیکل 25",
+                        "Article 36 / آرٹیکل 36",
+                        "Article 37 / آرٹیکل 37",
+                        "Article 38 / آرٹیکل 38"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "What does Article 19 of the Constitution of Pakistan focus on? / پاکستان کے آئین کا آرٹیکل 19 کس چیز پر مرکوز ہے؟",
+        "options":  [
+                        "Freedom of press / صحافت کی آزادی",
+                        "Right to property / جائیداد کا حق",
+                        "Right to work / کام کرنے کا حق",
+                        "Right to education / تعلیم کا حق"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "Which article allows the state to impose reasonable restrictions on fundamental rights? / کون سا آرٹیکل ریاست کو بنیادی حقوق پر معقول پابندیاں عائد کرنے کی اجازت دیتا ہے؟",
+        "options":  [
+                        "Article 19 / آرٹیکل 19",
+                        "Article 20 / آرٹیکل 20",
+                        "Article 21 / آرٹیکل 21",
+                        "Article 22 / آرٹیکل 22"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "Which of the following is a principle of state policy mentioned in the Constitution of Pakistan? / پاکستان کے آئین میں درج ذیل میں سے کون سا ریاستی پالیسی کا اصول ہے؟",
+        "options":  [
+                        "Social welfare / سماجی فلاح",
+                        "Political freedom / سیاسی آزادی",
+                        "Environmental sustainability / ماحولیاتی پائیداری",
+                        "All of the above / مندرجہ بالا تمام"
+                    ],
+        "correctAnswer":  3
+    }
+]

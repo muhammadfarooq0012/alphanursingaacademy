@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the pH of pure water?",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which element is most abundant in the human body?",
+    "options": ["Carbon", "Hydrogen", "Nitrogen", "Oxygen"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "DNA stands for:",
+    "options": ["Deoxyribonucleic Acid", "Dinitro Acid", "Deoxyribose Nucleic Atom", "None of these"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The basic unit of life is:",
+    "options": ["Tissue", "Organ", "Cell", "Molecule"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which vitamin is produced by sunlight?",
+    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "correctAnswer": 3
+  }
+]

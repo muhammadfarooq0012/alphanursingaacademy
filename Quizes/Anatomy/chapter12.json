@@ -1,0 +1,502 @@
+[
+  {
+    "question": "What is the anatomical relationship between the hypothalamus and the pituitary gland?",
+    "options": [
+      "The pituitary gland lies inferior to the hypothalamus and is connected to it by a stalk.",
+      "The hypothalamus lies inferior to the pituitary gland.",
+      "The pituitary gland is located within the thyroid gland.",
+      "The hypothalamus is located within the adrenal cortex."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The anterior pituitary develops embryologically from:",
+    "options": [
+      "Nervous tissue arising from the brain",
+      "Glandular epithelium derived from the pharynx",
+      "Mesoderm forming the adrenal cortex",
+      "Neural crest cells of the spinal cord"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which statement best describes the embryological origin of the posterior pituitary?",
+    "options": [
+      "It develops from pharyngeal epithelium.",
+      "It produces TSH and ACTH.",
+      "It develops as a downward extension of nervous tissue from the brain.",
+      "It receives its blood supply exclusively through the portal system."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Hypothalamic hormones reach the anterior pituitary through a specialized vascular arrangement. What is the main advantage of this system?",
+    "options": [
+      "It increases systemic blood pressure.",
+      "It prevents oxygen from reaching the pituitary.",
+      "It regulates the temperature of the pituitary gland.",
+      "It delivers hypothalamic releasing and inhibiting hormones directly to the anterior pituitary."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which vascular system carries hypothalamic hormones to the anterior pituitary?",
+    "options": [
+      "Coronary portal system",
+      "Renal portal system",
+      "Hypophyseal (pituitary) portal system",
+      "Hepatic portal system"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Unlike the anterior pituitary, the posterior pituitary receives its blood supply primarily:",
+    "options": [
+      "Directly from arterial vessels",
+      "Exclusively from venous blood",
+      "Through lymphatic vessels",
+      "From no vascular supply"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "When the level of a target-gland hormone falls, which event normally initiates the negative-feedback response?",
+    "options": [
+      "The target gland automatically increases hormone secretion.",
+      "Anterior pituitary secretion is immediately inhibited.",
+      "The hypothalamus increases secretion of the appropriate releasing hormone.",
+      "The posterior pituitary releases ADH."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which hypothalamic hormone promotes the secretion of growth hormone from the anterior pituitary?",
+    "options": [
+      "Thyrotropin-releasing hormone (TRH)",
+      "Corticotropin-releasing hormone (CRH)",
+      "Growth hormone-releasing hormone (GHRH)",
+      "Prolactin-inhibiting hormone (PIH)"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Growth hormone exerts its effects primarily on:",
+    "options": [
+      "The thyroid gland alone",
+      "A wide range of tissues, particularly bones and skeletal muscles",
+      "The adrenal cortex alone",
+      "The pancreatic islets alone"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which anterior pituitary hormone stimulates the thyroid gland to grow and secrete thyroid hormones?",
+    "options": [
+      "ACTH",
+      "Prolactin",
+      "FSH",
+      "TSH"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Thyrotropin-releasing hormone (TRH) from the hypothalamus primarily stimulates the anterior pituitary to release:",
+    "options": [
+      "TSH",
+      "ACTH",
+      "GH",
+      "LH"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Corticotropin-releasing hormone (CRH) primarily stimulates the anterior pituitary to secrete:",
+    "options": [
+      "Prolactin",
+      "ACTH",
+      "TSH",
+      "Oxytocin"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Adrenocorticotropic hormone (ACTH) acts primarily on the:",
+    "options": [
+      "Thyroid gland",
+      "Pancreatic islets",
+      "Adrenal cortex",
+      "Parathyroid glands"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Prolactin-releasing hormone (PRH) promotes increased secretion of:",
+    "options": [
+      "FSH",
+      "GH",
+      "ACTH",
+      "Prolactin"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which anterior pituitary hormone primarily stimulates milk production by the mammary glands?",
+    "options": [
+      "Prolactin",
+      "TSH",
+      "ACTH",
+      "GH"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Prolactin-inhibiting hormone (PIH) primarily:",
+    "options": [
+      "Stimulates prolactin secretion",
+      "Suppresses prolactin secretion",
+      "Stimulates ACTH secretion",
+      "Stimulates TSH secretion"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Gonadotropin-releasing hormone (GnRH/LHRH) stimulates the anterior pituitary to release:",
+    "options": [
+      "GH and TSH",
+      "FSH and LH",
+      "ACTH and prolactin",
+      "ADH and oxytocin"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which anterior pituitary hormone primarily promotes sperm production in the testes?",
+    "options": [
+      "ACTH",
+      "TSH",
+      "FSH",
+      "Prolactin"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which anterior pituitary hormone stimulates testosterone secretion by the testes?",
+    "options": [
+      "GH",
+      "FSH",
+      "ACTH",
+      "LH"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The posterior pituitary is composed mainly of:",
+    "options": [
+      "Nervous tissue containing supporting pituicytes",
+      "Follicular epithelial tissue",
+      "Cuboidal thyroid cells",
+      "Smooth muscle tissue"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The cell bodies of neurons that send axons to the posterior pituitary are located in the:",
+    "options": [
+      "Thyroid follicles",
+      "Supraoptic and paraventricular nuclei of the hypothalamus",
+      "Adrenal cortex",
+      "Pancreatic islets"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The release of hormones stored in the posterior pituitary is directly triggered by:",
+    "options": [
+      "A fall in blood glucose",
+      "An increase in thyroid hormone levels",
+      "A rise in blood calcium",
+      "Nerve impulses causing exocytosis of secretory vesicles"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The thyroid gland is anatomically positioned:",
+    "options": [
+      "Posterior to the kidneys",
+      "Anterior to the larynx and trachea in the neck",
+      "Within the cranial cavity",
+      "Posterior to the heart"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The overall shape of the thyroid gland is most commonly described as:",
+    "options": [
+      "Spherical",
+      "Crescent-shaped",
+      "Butterfly-shaped",
+      "Pyramidal"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The right and left lobes of the thyroid gland are joined by the:",
+    "options": [
+      "Hilum",
+      "Cortex",
+      "Medulla",
+      "Isthmus"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A typical thyroid follicle consists mainly of:",
+    "options": [
+      "Stratified squamous epithelial cells",
+      "Cuboidal epithelial cells surrounding colloid",
+      "Nervous tissue",
+      "Skeletal muscle fibers"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The protein-rich material stored within the lumen of thyroid follicles is called:",
+    "options": [
+      "Plasma",
+      "Cytosol",
+      "Colloid",
+      "Lymph"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Parafollicular cells, also known as C cells, primarily secrete:",
+    "options": [
+      "Thyroxine",
+      "Thyroid-stimulating hormone (TSH)",
+      "Antidiuretic hormone (ADH)",
+      "Calcitonin"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which clinical finding is most consistent with hyperthyroidism?",
+    "options": [
+      "Weight loss despite an increased appetite",
+      "Constipation",
+      "Bradycardia",
+      "Cold, dry skin"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Exophthalmos is most characteristically associated with:",
+    "options": [
+      "Diabetes mellitus",
+      "Graves’ disease",
+      "Addison’s disease",
+      "Acromegaly"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The parathyroid glands are normally located:",
+    "options": [
+      "Embedded in the posterior surface of the thyroid gland",
+      "Within the adrenal cortex",
+      "Inside the pituitary gland",
+      "Attached to the pancreas"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "In a typical person, the total number of parathyroid glands is:",
+    "options": [
+      "Two",
+      "Six",
+      "Four",
+      "Eight"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The adrenal glands are situated:",
+    "options": [
+      "On the superior poles of the kidneys",
+      "Within the thoracic cavity",
+      "Embedded within the pancreas",
+      "Posterior to the thyroid gland"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The two major regions of the adrenal gland, from outside to inside, are the:",
+    "options": [
+      "Medulla and cortex",
+      "Cortex and medulla",
+      "Capsule and cortex",
+      "Cortex and pelvis"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The endocrine portion of the pancreas is formed by clusters of cells called:",
+    "options": [
+      "Thyroid follicles",
+      "Adrenal nodules",
+      "Islets of Langerhans",
+      "Renal corpuscles"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which cells of the pancreatic islets are primarily responsible for glucagon secretion?",
+    "options": [
+      "Beta cells",
+      "Delta cells",
+      "Acinar cells",
+      "Alpha cells"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which cell type is most abundant within the pancreatic islets?",
+    "options": [
+      "Alpha cells",
+      "Beta cells",
+      "Delta cells",
+      "Acinar cells"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which hormone primarily raises the concentration of glucose in the blood?",
+    "options": [
+      "Insulin",
+      "ADH",
+      "Calcitonin",
+      "Glucagon"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which region of the adrenal gland is essential for maintaining life?",
+    "options": [
+      "Adrenal medulla",
+      "Adrenal capsule",
+      "Adrenal cortex",
+      "Adrenal blood vessels"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which hormone–organ pairing is correctly matched?",
+    "options": [
+      "Erythropoietin — Kidney",
+      "Gastrin — Heart",
+      "ANP — Pancreas",
+      "Thymosin — Thyroid gland"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The release of oxytocin during labor is an example of which feedback mechanism?",
+    "options": [
+      "Negative feedback",
+      "Positive feedback",
+      "Neutral feedback",
+      "Inhibitory feedback"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which part of the pituitary gland develops as a downward extension of nervous tissue from the brain?",
+    "options": [
+      "Anterior pituitary (adenohypophysis)",
+      "Posterior pituitary (neurohypophysis)",
+      "Pars intermedia",
+      "Hypophyseal fossa"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Growth hormone (GH) secretion is generally greatest during:",
+    "options": [
+      "Early morning",
+      "Afternoon",
+      "Deep sleep at night",
+      "Immediately after meals"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which hormone is secreted in the greatest amount by the anterior pituitary?",
+    "options": [
+      "Thyroid-stimulating hormone (TSH)",
+      "Prolactin",
+      "Growth hormone (GH)",
+      "Adrenocorticotropic hormone (ACTH)"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Calcitonin is secreted by which specialized cells of the thyroid gland?",
+    "options": [
+      "Follicular cells",
+      "Parafollicular (C) cells",
+      "Cuboidal epithelial cells",
+      "Pituicytes"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Calcitonin has its greatest physiological importance during:",
+    "options": [
+      "Infancy",
+      "Childhood",
+      "Adulthood",
+      "Old age"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Thyroid hormone secretion begins during which stage of development?",
+    "options": [
+      "At birth",
+      "During adulthood",
+      "At puberty",
+      "Around the third month of fetal life"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which endocrine gland is the primary source of melatonin?",
+    "options": [
+      "Pituitary gland",
+      "Pineal gland",
+      "Thyroid gland",
+      "Thymus gland"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Melatonin secretion normally reaches its highest level during:",
+    "options": [
+      "Midday",
+      "Evening",
+      "Night",
+      "Early morning"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which glucocorticoid is secreted in the greatest amount by the adrenal cortex?",
+    "options": [
+      "Aldosterone",
+      "Cortisol",
+      "Adrenaline",
+      "Testosterone"
+    ],
+    "correctAnswer": 1
+  }
+]

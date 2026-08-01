@@ -1,0 +1,66 @@
+{
+  "subjects": [
+    {
+      "name": "Anatomy",
+      "icon": "fa-bone",
+      "color": "#e74c3c",
+      "folder": "Anatomy",
+      "chapters": [
+        "chapter01",
+        "chapter02",
+        "chapter03",
+        "chapter04",
+        "chapter05",
+        "chapter06",
+        "chapter07",
+        "chapter08",
+        "chapter09",
+        "chapter10",
+        "chapter11",
+        "chapter12"
+      ]
+    },
+    {
+      "name": "Ideology & PAK Study",
+      "icon": "fa-flag",
+      "color": "#2ecc71",
+      "folder": "Ideology & PAK Study",
+      "chapters": []
+    },
+    {
+      "name": "B.Science",
+      "icon": "fa-flask",
+      "color": "#9b59b6",
+      "folder": "B.Science",
+      "chapters": []
+    },
+    {
+      "name": "Biophysics",
+      "icon": "fa-atom",
+      "color": "#3498db",
+      "folder": "Biophysics",
+      "chapters": []
+    },
+    {
+      "name": "English",
+      "icon": "fa-book-open",
+      "color": "#e67e22",
+      "folder": "English",
+      "chapters": []
+    },
+    {
+      "name": "FON 1",
+      "icon": "fa-heartbeat",
+      "color": "#1abc9c",
+      "folder": "FON 1",
+      "chapters": []
+    },
+    {
+      "name": "QR 1",
+      "icon": "fa-clipboard-list",
+      "color": "#f39c12",
+      "folder": "QR 1",
+      "chapters": []
+    }
+  ]
+}

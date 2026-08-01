@@ -1,0 +1,352 @@
+[
+  {
+    "question": "Interstitial (tissue) fluid is most closely similar in composition to:",
+    "options": [
+      "Synovial fluid",
+      "Blood plasma",
+      "Intracellular fluid",
+      "Serum"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Interstitial fluid is officially termed lymph after it enters:",
+    "options": [
+      "Postcapillary venules",
+      "Blood capillaries",
+      "Lymphatic capillaries",
+      "Collecting veins"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Approximately how much fluid is filtered from blood capillaries into the interstitial spaces each day?",
+    "options": [
+      "5 L",
+      "10 L",
+      "15 L",
+      "21 L"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Approximately how much excess interstitial fluid is returned to the bloodstream daily through the lymphatic system?",
+    "options": [
+      "1 L",
+      "2 L",
+      "3–4 L",
+      "8–10 L"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which plasma component is present in much lower concentration in normal lymph compared with plasma?",
+    "options": [
+      "Water",
+      "Electrolytes",
+      "Plasma proteins",
+      "Glucose"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A major homeostatic function of the lymphatic system is to:",
+    "options": [
+      "Return excess plasma proteins from tissue spaces to the bloodstream",
+      "Transport oxygen from the lungs to body tissues",
+      "Maintain the cellular concentration of plasma proteins",
+      "Return erythrocytes from tissues to the venous circulation"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The milky appearance of lymph within intestinal lacteals is primarily caused by the presence of:",
+    "options": [
+      "Emulsified dietary lipids",
+      "Large quantities of plasma proteins",
+      "Increased numbers of lymphocytes",
+      "Cellular debris from the intestinal mucosa"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The lipid-rich lymph absorbed from intestinal lacteals is specifically called:",
+    "options": [
+      "Serum",
+      "Chyle",
+      "Plasma",
+      "Transudate"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Compared with blood capillaries, lymphatic capillaries are particularly adapted to:",
+    "options": [
+      "Prevent the passage of plasma proteins",
+      "Permit entry of proteins, fluid, and cellular debris from tissues",
+      "Maintain a higher intraluminal pressure",
+      "Restrict the movement of large molecules"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following tissues is normally considered to lack conventional lymphatic vessels?",
+    "options": [
+      "Skin",
+      "Liver",
+      "Central nervous system",
+      "Gastrointestinal mucosa"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which avascular structure normally lacks lymphatic vessels?",
+    "options": [
+      "Cornea",
+      "Spleen",
+      "Thyroid gland",
+      "Lymph node"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The walls of larger lymphatic vessels most closely resemble the walls of:",
+    "options": [
+      "Arteries",
+      "Veins",
+      "Arterioles",
+      "Blood capillaries"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The primary role of valves within lymphatic vessels is to:",
+    "options": [
+      "Maintain one-way movement of lymph",
+      "Increase the filtration pressure of lymph",
+      "Regulate lymphocyte production",
+      "Increase the rate of lymph formation"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which mechanism contributes significantly to the movement of lymph through larger lymphatic vessels?",
+    "options": [
+      "Direct pumping by the heart",
+      "Rhythmic contraction of smooth muscle in their walls",
+      "Continuous filtration from arteries",
+      "Gravity alone"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which type of lymphatic vessel is normally absent from the spleen?",
+    "options": [
+      "Efferent lymphatic vessels",
+      "Afferent lymphatic vessels",
+      "Collecting lymphatic vessels",
+      "Lymphatic vessels accompanying blood vessels"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The thoracic duct originates inferiorly from the:",
+    "options": [
+      "Right lymphatic duct",
+      "Cisterna chyli",
+      "Left lumbar trunk",
+      "Aortic arch"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The thoracic duct normally terminates at the junction of the:",
+    "options": [
+      "Right internal jugular and right subclavian veins",
+      "Left internal jugular and left subclavian veins",
+      "Left brachiocephalic and superior vena cava",
+      "Right subclavian and superior vena cava"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which region is NOT drained by the thoracic duct?",
+    "options": [
+      "Left upper limb",
+      "Both lower limbs",
+      "Left side of the head and neck",
+      "Right upper limb"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The right lymphatic duct drains lymph from the:",
+    "options": [
+      "Entire body inferior to the diaphragm",
+      "Left side of the thorax and left upper limb",
+      "Right upper quadrant of the body",
+      "Entire body superior to the diaphragm"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Before entering the venous circulation, lymph commonly passes through approximately:",
+    "options": [
+      "1–2 lymph nodes",
+      "3–4 lymph nodes",
+      "8–10 lymph nodes",
+      "15–20 lymph nodes"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which cells within lymph nodes are primarily responsible for phagocytosing foreign particles and cellular debris?",
+    "options": [
+      "Reticular cells",
+      "Macrophages",
+      "Plasma cells",
+      "Fibroblasts"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Lymph nodes contain more afferent than efferent lymphatic vessels primarily because this arrangement:",
+    "options": [
+      "Increases the time available for lymph filtration",
+      "Increases the pressure within the lymph node",
+      "Allows lymph to bypass the lymph node more rapidly",
+      "Directly increases antibody secretion"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "At the hilum of a typical lymph node:",
+    "options": [
+      "Afferent lymphatic vessels enter and arteries leave",
+      "The artery enters, while the vein and efferent lymphatic vessel leave",
+      "Only efferent lymphatic vessels enter",
+      "The vein enters, while the artery and afferent vessels leave"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The majority of lymphatic drainage from the breast is directed primarily to the:",
+    "options": [
+      "Parasternal lymph nodes",
+      "Axillary lymph nodes",
+      "Supraclavicular lymph nodes",
+      "Posterior mediastinal lymph nodes"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which is the largest lymphatic organ in the human body?",
+    "options": [
+      "Thymus",
+      "Spleen",
+      "Tonsils",
+      "Lymph nodes"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The splenic region characterized by blood-filled sinusoids is the:",
+    "options": [
+      "White pulp",
+      "Red pulp",
+      "Splenic capsule",
+      "Trabecular region"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Splenic sinusoids are particularly important because they facilitate the:",
+    "options": [
+      "Filtration of lymph entering the spleen",
+      "Removal of aged and damaged blood cells",
+      "Maturation of T lymphocytes",
+      "Absorption of dietary lipids"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The thymus normally reaches its maximum development around:",
+    "options": [
+      "The neonatal period",
+      "Early childhood",
+      "Puberty",
+      "Late adulthood"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Following puberty, the thymus normally undergoes:",
+    "options": [
+      "Progressive enlargement with increased T-cell production",
+      "Gradual involution and replacement by fatty tissue",
+      "Complete destruction of its lymphoid tissue",
+      "Transformation into a secondary lymphatic organ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Unlike lymph nodes, tonsils and Peyer’s patches are not considered filters of lymph because they:",
+    "options": [
+      "Lack lymphocytes and macrophages",
+      "Lack both blood vessels and lymphatic vessels",
+      "Possess no afferent lymphatic vessels",
+      "Contain only B lymphocytes"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which lymphatic organ lies between the fundus of the stomach and the diaphragm?",
+    "options": [
+      "Thymus gland",
+      "Tonsils",
+      "Spleen",
+      "Peyer’s patches"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the maximum weight of the thymus gland at puberty?",
+    "options": [
+      "15–20 grams",
+      "30–40 grams",
+      "70–80 grams",
+      "100–120 grams"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which lymphatic organ has no afferent lymphatic vessels entering it?",
+    "options": [
+      "Lymph nodes",
+      "Spleen",
+      "Thoracic duct",
+      "Lacteals"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the name of the lymphatic capillaries found in the villi of the small intestine?",
+    "options": [
+      "Lacteals",
+      "Cisterna chyli",
+      "Thoracic duct",
+      "Afferent lymphatic vessels"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the name of the large collections of lymphoid tissue found in the small intestine?",
+    "options": [
+      "Tonsils",
+      "Peyer’s patches",
+      "Cisterna chyli",
+      "Lacteals"
+    ],
+    "correctAnswer": 1
+  }
+]

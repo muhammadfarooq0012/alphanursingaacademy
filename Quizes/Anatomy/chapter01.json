@@ -1,0 +1,652 @@
+[
+  {
+    "question": "Which of the following is/are the contents of the dorsal body cavity?",
+    "options": [
+      "Heart and lungs",
+      "Brain and spinal cord",
+      "Viscera",
+      "Gut, kidneys, liver, pancreas, spleen, bladder, internal reproductive organs."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following is/are the contents of the ventral cavity?",
+    "options": [
+      "Heart and lungs",
+      "Brain and spinal cord",
+      "Viscera",
+      "Gut, kidneys, liver, pancreas, spleen, bladder, internal reproductive organs."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which choice best describes the location of the majority of the musculoskeletal system?",
+    "options": [
+      "It is in the dorsal cavity",
+      "It is in the ventral cavity",
+      "It is in the abdominopelvic cavity",
+      "It is not located in a body cavity"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which one of the following statements is correct?",
+    "options": [
+      "Diaphragm separates the brain and spinal cord",
+      "Ventral cavity contains the male and female reproductive system",
+      "Abdominopelvic cavity contains the spinal cord.",
+      "Dorsal cavity contains the brain and spinal cord"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What structure separates the thoracic cavity from the abdominal cavity?",
+    "options": [
+      "The mediastinum",
+      "The diaphragm",
+      "The peritoneum",
+      "The pylorus"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Spleen is located in which body cavity?",
+    "options": [
+      "Abdominal",
+      "Thoracic",
+      "Pelvic",
+      "Cranial"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of the following terms is NOT used to identify a region of the abdomen?",
+    "options": [
+      "Left hypochondriac",
+      "Hypogastric",
+      "Epigastric",
+      "Right sacral"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The dorsal body cavity contains which of the following organs?",
+    "options": [
+      "The brain.",
+      "The brain and spinal cord",
+      "The brain, spinal cord and heart.",
+      "The brain, spinal cord, heart and kidneys."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The “anatomical position” could be described as which of the following?",
+    "options": [
+      "Lying down prone",
+      "Lying down supine",
+      "Standing displaying the ventral surface of the body",
+      "Standing with arms and legs abducted"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which of the following best describes the “anatomical position”?",
+    "options": [
+      "Standing vertically, arms held horizontally, legs apart so that the tips of the head, hands and feet lie on an imaginary circle, drawn around the body.",
+      "Standing “to attention”, with hands held so that thumbs are ventral while the fifth digit is dorsal.",
+      "Standing “at ease” with hands clasped behind your back while adjacent and dorsal to the sacrum.",
+      "Standing vertically, arms parallel and lateral to the ribs with hands inferior to the elbows and supinated."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which term describes the location of the adrenal glands with reference to the kidneys?",
+    "options": [
+      "Proximal",
+      "Distal",
+      "Superior",
+      "Inferior"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which of the following correctly describes the two named body parts?",
+    "options": [
+      "Elbow is proximal to the shoulder",
+      "Phalanges are distal to the carpals",
+      "Ribs are proximal to the sternum",
+      "Elbow is distal to the knee"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the stated relationships is correct?",
+    "options": [
+      "Heart is superior to the large intestine",
+      "Shoulder is distal to the metacarpals",
+      "Phalanges are proximal to the carpals",
+      "Eye is medial to the nose"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of the stated relationships is correct?",
+    "options": [
+      "Heart is inferior to the clavicle",
+      "Shoulder is distal to the carpals",
+      "Phalanges are proximal to the metacarpals",
+      "Eye is medial to the eyebrows"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of the following is NOT a bone of the axial skeleton?",
+    "options": [
+      "Deltoid",
+      "Ethmoid",
+      "Sphenoid",
+      "Hyoid"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "In which of the following bone structures do osteocytes live?",
+    "options": [
+      "Osteons",
+      "Canaliculi",
+      "Lacunae",
+      "Lamellae"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which bone is most superior?",
+    "options": [
+      "Manubrium",
+      "Occipital Bone",
+      "Cervical Vertebra",
+      "Patella"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following is NOT a “long” bone?",
+    "options": [
+      "The Humerus",
+      "The Tibia",
+      "A Carpal",
+      "A Metacarpal"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which one of the following is a bone that is embedded within a tendon?",
+    "options": [
+      "Sphenoid",
+      "Hyoid",
+      "Ethmoid",
+      "Sesamoid"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What are the bones of the fingers known as?",
+    "options": [
+      "Short Bones",
+      "Metacarpals",
+      "Carpals",
+      "Phalanges"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which of the following comprise seven bones?",
+    "options": [
+      "Cervical vertebrae",
+      "Carpals",
+      "Cranial bones",
+      "Lumbar vertebrae"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What body part is able to perform pronation and supination?",
+    "options": [
+      "Forearm",
+      "Foot",
+      "Thigh",
+      "Wrist"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Where are blood vessels in compact bone found?",
+    "options": [
+      "Canaliculi",
+      "Periosteum",
+      "Lacunae",
+      "Central Canal"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "One of the following lists contains only bones in the appendicular skeleton.",
+    "options": [
+      "Patella, Ethmoid, Femur, Coccyx, Tibia",
+      "Clavicle, Fibula, Metatarsal, Phalange, Radius",
+      "Humerus, Scapula, Occipital, Metacarpal, Sternum",
+      "Ulna, Radius, Phalange, Mandible, Coxal"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A synovial joint is also known as one of the following, which one?",
+    "options": [
+      "Synarthrosis",
+      "Immovable Joint",
+      "Slightly Moveable Joint",
+      "Freely Moveable Joint"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Where in the skeleton is the scapula located?",
+    "options": [
+      "Axial Skeleton",
+      "Appendicular Skeleton",
+      "Carpal Region",
+      "Shoulder Girdle"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "In which structure are osteoclasts and osteoblasts found?",
+    "options": [
+      "Periosteum",
+      "Haversian Canals",
+      "Lacunae Of Osteons",
+      "Trabeculae Of Osteons"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of the listed bones is superior to the rest?",
+    "options": [
+      "Manubrium",
+      "Xiphoid Process",
+      "Coccyx",
+      "Femur"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Choose the correct sentence. Compact bone contains",
+    "options": [
+      "Lamellae and osteocytes but no osteons.",
+      "Trabeculae, canaliculi and osteons.",
+      "Haversian systems and canaliculi but no osteons.",
+      "Osteons and lamellae but no trabeculae."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which of the list below is a cell that reabsorbs bone?",
+    "options": [
+      "Osteon",
+      "Osteoblast",
+      "Osteocyte",
+      "Osteoclast"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Choose the correct sentence. Cancellous bone contains",
+    "options": [
+      "Lamellae and osteocytes but no trabeculae",
+      "Trabeculae, canaliculi and osteons",
+      "Haversian systems and canaliculi but no osteons",
+      "Trabeculae and lamellae but no osteons"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which of the listed bones is the most inferior?",
+    "options": [
+      "Ethmoid",
+      "Sphenoid",
+      "Femoid",
+      "Hyoid"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which of the following bones is part of the cranium?",
+    "options": [
+      "Occipital",
+      "Mandible",
+      "Hyoid",
+      "Carpal"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The appendicular skeleton includes all of the following EXCEPT one.",
+    "options": [
+      "Pectoral Girdle",
+      "Thoracic Cage",
+      "Phalanges",
+      "Lower Limbs"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the name given to the central tunnel of an osteon that contains blood vessels?",
+    "options": [
+      "Canaliculus",
+      "Endosteum",
+      "Haversian Canal",
+      "Medullary Canal"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which list contains the bones of the pelvic and pectoral girdles?",
+    "options": [
+      "Coxal, Scapulae, Manubrium, Ilium",
+      "Clavicles, Cervical, Coccyx, Innominate",
+      "Clavicles, Scapulae, Coxal",
+      "Clavicles, Scapulae, Sacrum, Coxal"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Synovial joints have all of the following features EXCEPT one.",
+    "options": [
+      "Are surrounded by an articular capsule",
+      "Have synovial fluid filling the space between articulating bones",
+      "Have synovial membrane covering the articulating bone surfaces",
+      "Are supported by reinforcing ligaments"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The manubrium and the xiphoid process are located on which part of the skeleton?",
+    "options": [
+      "Lower Jaw",
+      "Sternum",
+      "Pelvis",
+      "Hand"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Carpals refers to",
+    "options": [
+      "Points of attachment of ribs to vertebrae",
+      "Bones of the wrist",
+      "Bones that are embedded within a tendon",
+      "Thumbs"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Articulating bones are joined by",
+    "options": [
+      "Aponeuroses",
+      "Tendons",
+      "Fasciculi",
+      "Ligaments"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "To which bones does the word phalanges apply?",
+    "options": [
+      "Fingers and toes",
+      "Wrist and ankle",
+      "Ankle and foot",
+      "Fingers and hand"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The axial skeleton groups together which sets of bones?",
+    "options": [
+      "Arms and hands, the legs and feet, shoulder girdle and pelvic girdle.",
+      "Head, shoulder girdle, arms and hands.",
+      "Thoracic cage, vertebral column, shoulder girdle, the pelvic girdle, the skull and facial bones.",
+      "Bones of the skull and face, thoracic cage and vertebral column."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What is the structure that attaches one bone to another?",
+    "options": [
+      "Ligament",
+      "Cartilage",
+      "Tendon",
+      "Diaphysis"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of the following describes what an “epiphysis” is?",
+    "options": [
+      "The shaft of a long bone.",
+      "The line that separates the shaft from the end of a long bone.",
+      "The membrane that surrounds a bone.",
+      "The end of a long bone."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Blood formation (hematopoiesis) occurs in which of the following structures?",
+    "options": [
+      "Red Marrow",
+      "Yellow Marrow",
+      "Medullary Cavity",
+      "Epiphyseal Plate"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What are bone forming cells called?",
+    "options": [
+      "Osteons",
+      "Osteocytes",
+      "Osteoclasts",
+      "Osteoblasts"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What is true of synovial joints?",
+    "options": [
+      "Known as amphiarthroses",
+      "Have an articular disc to aid shock absorption.",
+      "Have a fluid-filled space between the articulating bones.",
+      "Have articulating bones held together by cartilage."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "On what bone does the acetabulum occur?",
+    "options": [
+      "Occipital",
+      "Humerus",
+      "Pelvis",
+      "Tibia"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Where is the xiphoid process?",
+    "options": [
+      "On the sternum",
+      "On the humerus",
+      "On the temporal bone",
+      "On the tibia"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What term is applied to moving the thigh laterally away from the midline of the body?",
+    "options": [
+      "Extension",
+      "Adduction",
+      "Abduction",
+      "Flexion"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Where is the hyoid bone?",
+    "options": [
+      "In the sternum",
+      "In the wrist",
+      "In the knee",
+      "In the neck"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What is the occipital bone?",
+    "options": [
+      "It is one of the carpals",
+      "It is a bone of the cranium",
+      "It is one of the vertebrae",
+      "It is a facial bone"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is a “foramen”?",
+    "options": [
+      "Basin-like depression serving as an articular surface.",
+      "Raised roughening which is a site for muscle attachment.",
+      "Hole through a bone for a nerve or blood vessel.",
+      "Sharp slender projection of bone."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "By what name is the plasma membrane of a muscle cell known?",
+    "options": [
+      "Sarcoplasm",
+      "Sarcomere",
+      "Sarcoplasmic Reticulum",
+      "Sarcolemma"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Smooth muscle is different from skeletal muscle because smooth muscle",
+    "options": [
+      "Found in the walls of arteries",
+      "Can be voluntarily contracted",
+      "Has many nuclei in a cell",
+      "Has intercalated discs between cells"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is a “sarcomere”?",
+    "options": [
+      "Cancer of connective tissue",
+      "Cytoplasm of a muscle cell",
+      "Section of a myofilament.",
+      "Plasma membrane of a muscle cell."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Smooth muscle cells may be described by which of the following?",
+    "options": [
+      "Striated, voluntary, multinucleate",
+      "Not striated, voluntary, multinucleate",
+      "Striated, involuntary, uninucleate",
+      "Not striated, involuntary, uninucleate"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "By which term is a muscle that opposes or reverses a particular movement called?",
+    "options": [
+      "Agonist",
+      "Synergist",
+      "Antagonist",
+      "Fixator"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which protein(s) are found in thin myofilaments?",
+    "options": [
+      "Actin",
+      "Actin and tropomyosin",
+      "Actin, tropomyosin, and troponin",
+      "Actin, myosin, tropomyosin and troponin"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What characteristic of a smooth muscle cell distinguishes it from cardiac and from skeletal muscle?",
+    "options": [
+      "Being Branched",
+      "Being Under Involuntary Control",
+      "Lack Of Striations",
+      "Being Uninucleate"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which of the following muscles is a common intra-muscular injection site?",
+    "options": [
+      "Deltoid",
+      "Gluteus Maximus",
+      "Vastus Medialis",
+      "Latissimus Dorsi"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of the muscles listed below is named according to its action?",
+    "options": [
+      "Adductor Longus",
+      "Temporalis",
+      "Sternocleidomastoid",
+      "Peroneus Longus"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of the following muscles is named according to its origin and insertion?",
+    "options": [
+      "Transversus Abdominus",
+      "Semimembranosus",
+      "Sternocleidomastoid",
+      "Deltoid"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What are the muscles known as triceps brachii, biceps femoris and quadriceps femoris named according to their:",
+    "options": [
+      "Relative size and location of muscle’s origin",
+      "Number of origins and location in the body",
+      "Shape of muscle and direction of muscle fibers",
+      "Number of insertions and location in the body"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What are the muscles known as gluteus maximus, gluteus medius and gluteus minimus named according to their:",
+    "options": [
+      "Size",
+      "Shape",
+      "Whimsy",
+      "Direction of their muscle fibers"
+    ],
+    "correctAnswer": 0
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Plasma proteins remain within the bloodstream mainly because they:",
+    "options": [
+      "Are actively transported back into the circulation",
+      "Are insoluble in the plasma",
+      "Are too large to pass readily through capillary walls",
+      "Are continuously synthesized by the liver"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which plasma protein contributes most significantly to maintaining colloid osmotic pressure?",
+    "options": [
+      "Globulins",
+      "Fibrinogen",
+      "Albumins",
+      "Immunoglobulins"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which group of plasma proteins includes antibodies produced by plasma cells derived from B lymphocytes?",
+    "options": [
+      "Albumins",
+      "Globulins",
+      "Fibrinogen",
+      "Clotting factors"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which plasma protein is converted into fibrin during blood coagulation?",
+    "options": [
+      "Albumin",
+      "Immunoglobulin",
+      "Fibrinogen",
+      "Transferrin"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Immature erythrocytes that have recently entered the bloodstream are called:",
+    "options": [
+      "Erythroblasts",
+      "Normoblasts",
+      "Reticulocytes",
+      "Megakaryocytes"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which combination of vitamins is particularly essential for normal red blood cell production?",
+    "options": [
+      "Vitamins C and D",
+      "Vitamins A and E",
+      "Vitamin B12 and folic acid",
+      "Vitamin K and vitamin B6"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Absorption of vitamin B12 from the ileum depends primarily on:",
+    "options": [
+      "Bile salts",
+      "Iron-binding proteins",
+      "Intrinsic factor",
+      "Plasma albumin"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The specific process by which red blood cells are produced is called:",
+    "options": [
+      "Hematopoiesis",
+      "Erythropoiesis",
+      "Thrombopoiesis",
+      "Leucopoiesis"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The most important physiological stimulus for increased erythropoietin secretion is:",
+    "options": [
+      "Increased arterial pressure",
+      "Reduced blood glucose concentration",
+      "Tissue hypoxia",
+      "Increased carbon dioxide concentration alone"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which ABO blood group lacks both A and B antigens on the surface of its red blood cells?",
+    "options": [
+      "Group A",
+      "Group B",
+      "Group AB",
+      "Group O"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "In the ABO blood group system, which group can generally receive red blood cells from all ABO groups?",
+    "options": [
+      "Group O",
+      "Group A",
+      "Group B",
+      "Group AB"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which combination consists entirely of granulocytes?",
+    "options": [
+      "Monocytes and lymphocytes",
+      "Neutrophils, eosinophils and basophils",
+      "Neutrophils and monocytes",
+      "Lymphocytes and basophils"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which type of leukocyte normally constitutes the largest proportion of circulating white blood cells?",
+    "options": [
+      "Eosinophils",
+      "Basophils",
+      "Neutrophils",
+      "Monocytes"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which leukocyte is generally the earliest and most prominent cellular defender against many bacterial infections?",
+    "options": [
+      "Basophil",
+      "Neutrophil",
+      "Lymphocyte",
+      "Monocyte"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The passage of leukocytes through intact endothelial junctions from the bloodstream into tissues is called:",
+    "options": [
+      "Chemotaxis",
+      "Phagocytosis",
+      "Diapedesis",
+      "Opsonisation"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which leukocyte is particularly important in defence against parasites that are too large to be engulfed by phagocytosis?",
+    "options": [
+      "Basophils",
+      "Neutrophils",
+      "Eosinophils",
+      "Monocytes"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which circulating leukocytes can migrate into tissues and differentiate into macrophages?",
+    "options": [
+      "Neutrophils",
+      "Eosinophils",
+      "Basophils",
+      "Monocytes"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The monocyte–macrophage system is primarily composed of:",
+    "options": [
+      "Neutrophils and eosinophils",
+      "Platelets and lymphocytes",
+      "Monocytes and tissue macrophages",
+      "Basophils and mast cells"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Unlike erythrocytes, lymphocytes are normally distributed:",
+    "options": [
+      "Exclusively within circulating blood",
+      "Exclusively within the bone marrow",
+      "Between blood and lymphoid tissues",
+      "Exclusively within the spleen"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The common origin of all lymphocyte lineages is the:",
+    "options": [
+      "Megakaryocyte",
+      "Myeloblast",
+      "Pluripotent hematopoietic stem cell",
+      "Reticulocyte"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Circulating platelets are formed by fragmentation of the cytoplasm of:",
+    "options": [
+      "Monocytes",
+      "Megakaryocytes",
+      "Lymphocytes",
+      "Neutrophils"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which feature distinguishes platelets from most mature blood cells?",
+    "options": [
+      "They contain no cytoplasmic granules",
+      "They lack metabolic enzymes",
+      "They contain no cytoplasm",
+      "They lack a nucleus"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Under normal conditions, circulating platelets survive for approximately:",
+    "options": [
+      "1–3 days",
+      "4–6 days",
+      "8–11 days",
+      "20–30 days"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Under normal conditions, approximately one-third of the body's platelets are temporarily stored in the:",
+    "options": [
+      "Liver",
+      "Bone marrow",
+      "Kidneys",
+      "Spleen"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "During platelet plug formation, which platelet-released substance promotes further platelet activation and aggregation?",
+    "options": [
+      "Histamine",
+      "ADP",
+      "Heparin",
+      "Plasmin"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The extrinsic coagulation pathway is initiated primarily by the release of:",
+    "options": [
+      "Collagen from intact connective tissue",
+      "Tissue factor from damaged tissues",
+      "Plasmin from activated platelets",
+      "Heparin from endothelial cells"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The intrinsic coagulation pathway is initiated mainly when:",
+    "options": [
+      "Tissue factor enters the circulation from damaged tissue",
+      "Blood comes into contact with damaged endothelium or exposed surfaces",
+      "Vitamin K is activated in the liver",
+      "Plasminogen is converted to plasmin"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Vitamin K is required for the hepatic synthesis of which group of coagulation factors?",
+    "options": [
+      "Factors I, II, III and IV",
+      "Factors II, VII, IX and X",
+      "Factors VIII, IX, XI and XII",
+      "Factors V, VI, VII and VIII"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "During fibrinolysis, the enzyme that directly digests the fibrin meshwork is:",
+    "options": [
+      "Thrombin",
+      "Prothrombin",
+      "Plasmin",
+      "Heparin"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which naturally occurring anticoagulant primarily inhibits several activated coagulation factors?",
+    "options": [
+      "Serotonin",
+      "Heparin",
+      "ADP",
+      "Thromboxane"
+    ],
+    "correctAnswer": 1
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "Which is the correct spelling?",
+    "options": ["Accomodation", "Accommodation", "Acomodation", "Accommadation"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Choose the correct sentence:",
+    "options": ["She go to school daily.", "She goes to school daily.", "She going to school daily.", "She gone to school daily."],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The synonym of 'Happy' is:",
+    "options": ["Sad", "Angry", "Joyful", "Tired"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The antonym of 'Ancient' is:",
+    "options": ["Old", "Modern", "Historic", "Classic"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "An 'autobiography' is:",
+    "options": ["A story about animals", "A self-written life story", "A fictional novel", "A poetry collection"],
+    "correctAnswer": 1
+  }
+]

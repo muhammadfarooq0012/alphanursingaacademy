@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Which statement best explains the primary functional difference between the nervous and endocrine systems?",
+    "options": [
+      "The nervous system produces long-lasting responses, whereas the endocrine system produces rapid responses.",
+      "The nervous system produces rapid, short-term responses, whereas the endocrine system generally produces slower, longer-lasting responses.",
+      "Both systems produce only rapid responses through electrical impulses.",
+      "Both systems maintain homeostasis exclusively through hormonal mechanisms."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which arrangement correctly represents the direction of information flow in a typical reflex pathway?",
+    "options": [
+      "Effector → sensory receptor → CNS → motor neuron",
+      "Sensory receptor → afferent neuron → CNS → efferent neuron → effector",
+      "CNS → sensory receptor → afferent neuron → effector",
+      "Afferent neuron → effector → CNS → sensory receptor"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the main intracellular cation involved in maintaining the resting membrane potential and nerve impulse transmission?",
+    "options": [
+      "Sodium",
+      "Calcium",
+      "Potassium",
+      "Magnesium"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The motor division of the peripheral nervous system is functionally divided into:",
+    "options": [
+      "Sensory and motor systems",
+      "Somatic and autonomic systems",
+      "Sympathetic and sensory systems",
+      "Parasympathetic and somatic sensory systems"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which type of nerve fibres are typically unmyelinated in the peripheral nervous system?",
+    "options": [
+      "Preganglionic autonomic fibres",
+      "Postganglionic autonomic fibres",
+      "Somatic motor fibres",
+      "Myelinated sensory fibres"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A collection of neuronal cell bodies located within the peripheral nervous system is called a:",
+    "options": [
+      "Nucleus",
+      "Ganglion",
+      "Tract",
+      "Fascicle"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A collection of neuronal cell bodies located within the CNS is generally called a:",
+    "options": [
+      "Ganglion",
+      "Nucleus",
+      "Plexus",
+      "Fascicle"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which statement correctly describes a typical neuron?",
+    "options": [
+      "It usually contains many axons and one dendrite.",
+      "It generally contains one axon and multiple dendrites.",
+      "It lacks a cell body when located in the CNS.",
+      "It primarily functions by secreting hormones into the blood."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The region of a neuron where the axon originates and where action potentials are commonly initiated is the:",
+    "options": [
+      "Synaptic terminal",
+      "Axon hillock",
+      "Dendritic spine",
+      "Cell nucleus"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which structural feature of a myelinated axon allows an impulse to appear to “jump” from one region to another, increasing conduction speed?",
+    "options": [
+      "Axon hillocks",
+      "Neurilemma",
+      "Nodes of Ranvier",
+      "Dendritic branches"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which combination correctly matches the myelin-forming cell with its location?",
+    "options": [
+      "Schwann cell — CNS; oligodendrocyte — PNS",
+      "Astrocyte — CNS; Schwann cell — PNS",
+      "Oligodendrocyte — CNS; Schwann cell — PNS",
+      "Microglia — CNS; ependymal cell — PNS"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The connective tissue sheath surrounding an individual nerve fiber is called:",
+    "options": [
+      "Epineurium",
+      "Perineurium",
+      "Endoneurium",
+      "Neurilemma"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A fascicle of nerve fibers is surrounded primarily by the:",
+    "options": [
+      "Endoneurium",
+      "Perineurium",
+      "Epineurium",
+      "Neurilemma"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which neuroglial cell is most closely associated with maintaining the blood-brain barrier?",
+    "options": [
+      "Microglia",
+      "Astrocyte",
+      "Oligodendrocyte",
+      "Ependymal cell"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A phagocytic cell removes damaged tissue, microbes, and cellular debris from the CNS. This cell is most likely a:",
+    "options": [
+      "Microglial cell",
+      "Schwann cell",
+      "Astrocyte",
+      "Ependymal cell"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which neuroglial cells line the ventricles and central canal and are associated with CSF production?",
+    "options": [
+      "Astrocytes",
+      "Microglia",
+      "Ependymal cells",
+      "Oligodendrocytes"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which substance is most likely to cross the blood-brain barrier relatively easily?",
+    "options": [
+      "Large plasma proteins",
+      "Many toxins",
+      "Oxygen",
+      "Large molecules"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which sequence correctly arranges the meninges from outermost to innermost?",
+    "options": [
+      "Pia mater → Arachnoid mater → Dura mater",
+      "Dura mater → Pia mater → Arachnoid mater",
+      "Dura mater → Arachnoid mater → Pia mater",
+      "Arachnoid mater → Dura mater → Pia mater"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which meningeal space normally contains cerebrospinal fluid?",
+    "options": [
+      "Epidural space",
+      "Subdural space",
+      "Subarachnoid space",
+      "Intradural space"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which sequence correctly describes the normal flow of CSF?",
+    "options": [
+      "Lateral ventricles → Third ventricle → Cerebral aqueduct → Fourth ventricle",
+      "Third ventricle → Lateral ventricles → Cerebral aqueduct → Fourth ventricle",
+      "Lateral ventricles → Fourth ventricle → Third ventricle → Subarachnoid space",
+      "Fourth ventricle → Third ventricle → Cerebral aqueduct → Lateral ventricles"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the approximate weight of the adult human brain?",
+    "options": [
+      "0.8 kg",
+      "1.4 kg",
+      "2.0 kg",
+      "2.5 kg"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which part of the brain is primarily responsible for coordinating voluntary movements, maintaining posture, and controlling balance?",
+    "options": [
+      "Cerebrum",
+      "Thalamus",
+      "Cerebellum",
+      "Medulla oblongata"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the name of the narrow canal that connects the third ventricle to the fourth ventricle?",
+    "options": [
+      "Interventricular foramen",
+      "Cerebral aqueduct",
+      "Median aperture",
+      "Lateral aperture"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The principal site of CSF production is the:",
+    "options": [
+      "Arachnoid villi",
+      "Choroid plexus",
+      "Dural venous sinuses",
+      "Pia mater"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "CSF is returned to the venous circulation mainly through the:",
+    "options": [
+      "Choroid plexus",
+      "Arachnoid villi",
+      "Cerebral aqueduct",
+      "Central canal"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Approximately what proportion of cardiac output is received by the brain under normal conditions?",
+    "options": [
+      "5%",
+      "10%",
+      "15%",
+      "25%"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Venous blood from the brain is ultimately drained mainly through the dural venous sinuses into the:",
+    "options": [
+      "External jugular veins",
+      "Internal jugular veins",
+      "Subclavian veins",
+      "Vertebral arteries"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the name of the deep cleft that separates the cerebrum into the right and left cerebral hemispheres?",
+    "options": [
+      "Central sulcus",
+      "Lateral sulcus",
+      "Longitudinal cerebral fissure",
+      "Parieto-occipital sulcus"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the general name for the venous channels that drain blood from the brain?",
+    "options": [
+      "Carotid sinuses",
+      "Dural venous sinuses",
+      "Cavernous sinuses",
+      "Coronary sinuses"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which structure provides the major anatomical connection between the right and left cerebral hemispheres?",
+    "options": [
+      "Internal capsule",
+      "Corpus callosum",
+      "Cerebral aqueduct",
+      "Medulla oblongata"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which cerebral lobe is most closely associated with primary visual processing?",
+    "options": [
+      "Frontal lobe",
+      "Parietal lobe",
+      "Temporal lobe",
+      "Occipital lobe"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The grooves separating the elevated folds on the cerebral surface are called:",
+    "options": [
+      "Gyri",
+      "Sulci",
+      "Fissures only",
+      "Tracts"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which white matter tract connects corresponding areas of the two cerebral hemispheres?",
+    "options": [
+      "Association fibres",
+      "Projection fibres",
+      "Commissural fibres",
+      "Descending fibres"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The corpus callosum is best classified as a:",
+    "options": [
+      "Projection tract",
+      "Commissural tract",
+      "Association tract",
+      "Sensory tract"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Damage to the basal ganglia would most likely interfere with:",
+    "options": [
+      "Initiation and smooth control of movement",
+      "Primary detection of sound",
+      "Production of cerebrospinal fluid",
+      "Transmission of visual impulses from the retina"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A patient who understands spoken language poorly despite hearing sounds normally may have dysfunction involving:",
+    "options": [
+      "Broca’s area",
+      "Wernicke’s area",
+      "Primary motor cortex",
+      "Primary visual cortex"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which cortical area is most directly involved in the motor production of speech?",
+    "options": [
+      "Wernicke’s area",
+      "Broca’s area",
+      "Primary auditory cortex",
+      "Primary somatosensory cortex"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The thalamus is best described as the major:",
+    "options": [
+      "Centre for voluntary muscle coordination",
+      "Sensory relay station to the cerebral cortex",
+      "Centre for CSF absorption",
+      "Site of pyramidal tract decussation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which brainstem region contains important cardiovascular and respiratory control centers?",
+    "options": [
+      "Midbrain",
+      "Pons",
+      "Medulla oblongata",
+      "Cerebellum"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which brainstem region acts as an important connection between the cerebrum and cerebellum?",
+    "options": [
+      "Medulla oblongata",
+      "Pons",
+      "Thalamus",
+      "Hypothalamus"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The crossing of the major pyramidal motor tracts occurs primarily in the:",
+    "options": [
+      "Midbrain",
+      "Pons",
+      "Medulla oblongata",
+      "Spinal cord"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A lesion affecting the cerebellum would most likely produce:",
+    "options": [
+      "Loss of smell",
+      "Ataxia and impaired balance",
+      "Complete loss of consciousness",
+      "Loss of pain sensation only"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The reticular activating system is particularly important for maintaining:",
+    "options": [
+      "Consciousness and alertness",
+      "Fine hearing discrimination",
+      "CSF secretion",
+      "Voluntary tongue movement"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "In the adult, the spinal cord normally extends approximately from:",
+    "options": [
+      "The medulla to the sacrum",
+      "C1 to approximately L1",
+      "T1 to approximately L5",
+      "The pons to the coccyx"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The characteristic H-shaped region of grey matter in the spinal cord contains mainly:",
+    "options": [
+      "Ascending and descending tracts",
+      "Neuronal cell bodies and interneurons",
+      "Only sensory nerve fibers",
+      "Only myelinated axons"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The white matter of the spinal cord is primarily composed of:",
+    "options": [
+      "Neuronal cell bodies",
+      "Ascending and descending nerve tracts",
+      "Dorsal root ganglia",
+      "Synaptic terminals only"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which combination correctly describes the roots of a typical spinal nerve?",
+    "options": [
+      "Anterior root — sensory; posterior root — motor",
+      "Anterior root — motor; posterior root — sensory",
+      "Both roots — purely motor",
+      "Both roots — purely sensory"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which combination correctly identifies the number of pairs of spinal nerves in each region?",
+    "options": [
+      "7 cervical, 12 thoracic, 5 lumbar, 5 sacral, 1 coccygeal",
+      "8 cervical, 12 thoracic, 5 lumbar, 5 sacral, 1 coccygeal",
+      "8 cervical, 10 thoracic, 5 lumbar, 5 sacral, 2 coccygeal",
+      "12 cervical, 8 thoracic, 5 lumbar, 5 sacral, 1 coccygeal"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which group of spinal nerves does not normally contribute to a major nerve plexus?",
+    "options": [
+      "Cervical nerves",
+      "Thoracic nerves",
+      "Lumbar nerves",
+      "Sacral nerves"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which peripheral nerve is most closely associated with the thenar muscles and the lateral aspect of the palm?",
+    "options": [
+      "Ulnar nerve",
+      "Median nerve",
+      "Axillary nerve",
+      "Radial nerve"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The largest nerve in the human body is the:",
+    "options": [
+      "Femoral nerve",
+      "Sciatic nerve",
+      "Median nerve",
+      "Vagus nerve"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which cranial nerve carries parasympathetic fibers to major structures in the thorax and abdomen?",
+    "options": [
+      "Glossopharyngeal nerve",
+      "Facial nerve",
+      "Vagus nerve",
+      "Hypoglossal nerve"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which cranial nerve is correctly matched with its major function?",
+    "options": [
+      "CN II — facial expression",
+      "CN V — facial sensation and mastication",
+      "CN VII — tongue movement",
+      "CN XII — hearing and balance"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which cranial nerve supplies the lateral rectus muscle of the eyeball?",
+    "options": [
+      "Oculomotor nerve (CN III)",
+      "Trochlear nerve (CN IV)",
+      "Abducens nerve (CN VI)",
+      "Optic nerve (CN II)"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which cranial nerve is the largest and primarily supplies the face and head?",
+    "options": [
+      "Facial nerve",
+      "Trigeminal nerve",
+      "Vagus nerve",
+      "Glossopharyngeal nerve"
+    ],
+    "correctAnswer": 1
+  }
+]

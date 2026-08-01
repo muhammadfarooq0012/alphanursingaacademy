@@ -1,0 +1,502 @@
+[
+  {
+    "question": "The bony framework forming the posterior portion of the nasal septum is mainly formed by the:",
+    "options": [
+      "Maxilla and palatine bones",
+      "Ethmoid bone and vomer",
+      "Nasal and frontal bones",
+      "Sphenoid and maxillary bones"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The anterior portion of the nasal septum is mainly formed by which type of cartilage?",
+    "options": [
+      "Elastic cartilage",
+      "Fibrocartilage",
+      "Hyaline cartilage",
+      "Calcified cartilage"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The cribriform plate is an important part of the nasal cavity because it contributes mainly to the:",
+    "options": [
+      "Floor",
+      "Lateral wall",
+      "Roof",
+      "Poster wall"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The bony hard palate, which separates the oral and nasal cavities, is formed mainly by the:",
+    "options": [
+      "Vomer and maxilla",
+      "Ethmoid and sphenoid bones",
+      "Maxillae and palatine bones",
+      "Nasal and frontal bones"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which part of the brainstem contains the respiratory rhythmicity centre that generates the basic rhythm of breathing?",
+    "options": [
+      "Pons",
+      "Medulla oblongata",
+      "Hypothalamus",
+      "Cerebellum"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The respiratory region of the nasal cavity is specially adapted for warming and cleaning inspired air and is lined mainly by:",
+    "options": [
+      "Stratified squamous epithelium",
+      "Ciliated columnar epithelium containing goblet cells",
+      "Simple cuboidal epithelium",
+      "Transitional epithelium"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The posterior openings of the nasal cavities, known as the posterior nares, open directly into the:",
+    "options": [
+      "Oropharynx",
+      "Laryngopharynx",
+      "Nasopharynx",
+      "Larynx"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which paranasal sinus is located in relation to the upper part of the lateral wall of the nasal cavity?",
+    "options": [
+      "Maxillary sinus",
+      "Ethmoidal sinus",
+      "Frontal sinus",
+      "Sphenoidal sinus"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Olfactory receptors are concentrated mainly in the superior part of the nasal cavity near the:",
+    "options": [
+      "Inferior concha and hard palate",
+      "Middle concha and maxillary sinus",
+      "Superior concha and cribriform plate",
+      "Nasal vestibule and inferior meatus"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The pharynx is a muscular passage extending from the base of the skull to approximately the level of:",
+    "options": [
+      "4–6 cm",
+      "8–10 cm",
+      "12–14 cm",
+      "18–20 cm"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The pharynx continues inferiorly as the esophagus at approximately which vertebral level?",
+    "options": [
+      "C3",
+      "C6",
+      "T3",
+      "T6"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The openings of the auditory (Eustachian) tubes are located in the:",
+    "options": [
+      "Oropharynx",
+      "Laryngopharynx",
+      "Nasopharynx",
+      "Oral cavity"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Enlargement of the pharyngeal tonsil, commonly called adenoids, occurs in the:",
+    "options": [
+      "Oropharynx",
+      "Nasopharynx",
+      "Laryngopharynx",
+      "Oral cavity"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The palatine tonsils are located in the region that serves as a common passage for air and food, the:",
+    "options": [
+      "Nasopharynx",
+      "Oropharynx",
+      "Nasal cavity",
+      "Laryngopharynx"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "During swallowing, elevation of the soft palate mainly prevents swallowed material from entering the:",
+    "options": [
+      "Larynx",
+      "Trachea",
+      "Nasal cavity",
+      "Esophagus"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Because the nasopharynx is primarily a passageway for air, its mucosa is mainly lined by:",
+    "options": [
+      "Stratified squamous epithelium",
+      "Simple cuboidal epithelium",
+      "Transitional epithelium",
+      "Ciliated columnar epithelium"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The oropharynx and laryngopharynx are exposed to friction from swallowed food and are therefore mainly lined by:",
+    "options": [
+      "Simple squamous epithelium",
+      "Ciliated columnar epithelium",
+      "Stratified squamous epithelium",
+      "Simple cuboidal epithelium"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The larynx is situated approximately between which vertebral levels?",
+    "options": [
+      "C1–C3",
+      "C3–C6",
+      "C6–T1",
+      "T1–T4"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which laryngeal cartilage forms the “Adam’s apple”?",
+    "options": [
+      "Cricoid cartilage",
+      "Arytenoid cartilage",
+      "Thyroid cartilage",
+      "Epiglottis"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The largest cartilage of the larynx, forming much of its anterior wall, is the:",
+    "options": [
+      "Cricoid cartilage",
+      "Arytenoid cartilage",
+      "Thyroid cartilage",
+      "Epiglottic cartilage"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The prominent projection visible on the anterior surface of the neck is formed mainly by the:",
+    "options": [
+      "Arytenoid cartilage",
+      "Cricoid cartilage",
+      "Thyroid cartilage",
+      "Epiglottis"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which laryngeal cartilage forms a complete ring around the airway?",
+    "options": [
+      "Thyroid cartilage",
+      "Arytenoid cartilage",
+      "Cricoid cartilage",
+      "Epiglottis"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Where are the central chemoreceptors located?",
+    "options": [
+      "Carotid bodies",
+      "Aortic arch",
+      "Medulla oblongata",
+      "Lungs"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which factor primarily determines the pitch (highness or lowness) of the human voice?",
+    "options": [
+      "Force of expired air",
+      "Length and tightness of the vocal cords",
+      "Shape of the mouth",
+      "Position of the tongue"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The epiglottis is flexible because it is mainly composed of:",
+    "options": [
+      "Hyaline cartilage",
+      "Fibrocartilage",
+      "Fibroelastic cartilage",
+      "Calcified cartilage"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "During swallowing, the epiglottis helps protect the lower respiratory tract by acting mainly as a:",
+    "options": [
+      "Vocal regulator",
+      "Lid over the laryngeal inlet",
+      "Covering of the esophagus",
+      "Resonating chamber"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The vocal ligaments extend between the thyroid cartilage and the:",
+    "options": [
+      "Cricoid cartilage",
+      "Hyoid bone",
+      "Epiglottis",
+      "Arytenoid cartilages"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "When the vocal folds are separated to allow air to pass freely during breathing, they are described as:",
+    "options": [
+      "Adducted",
+      "Abducted",
+      "Compressed",
+      "Tensed"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "When the vocal cords become tightly stretched and vibrate rapidly, the resulting sound is generally:",
+    "options": [
+      "Low-pitched",
+      "High-pitched",
+      "Silent",
+      "Unchanged"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The opening or space between the vocal cords is known as the:",
+    "options": [
+      "Vestibule",
+      "Glottis",
+      "Carina",
+      "Hilum"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The trachea normally divides into the two primary bronchi at approximately the level of:",
+    "options": [
+      "T3",
+      "T4–T5",
+      "T7",
+      "C6"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The internal ridge formed at the point where the trachea divides into the main bronchi is called the:",
+    "options": [
+      "Hilum",
+      "Glottis",
+      "Carina",
+      "Fissure"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The trachea remains open primarily because its wall contains incomplete rings of:",
+    "options": [
+      "Elastic cartilage",
+      "Fibrocartilage",
+      "Hyaline cartilage",
+      "Bone"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The smooth muscle connecting the posterior free ends of the C-shaped tracheal cartilage rings is the:",
+    "options": [
+      "Cricothyroid muscle",
+      "Trachealis muscle",
+      "Diaphragm",
+      "Scalene muscle"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The left lung has two lobes rather than three mainly because the heart produces a:",
+    "options": [
+      "Cardiac notch",
+      "Pulmonary groove",
+      "Hepatic impression",
+      "Costal fissure"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The serous membrane directly adherent to the external surface of the lungs is the:",
+    "options": [
+      "Parietal pleura",
+      "Costal pleura",
+      "Visceral pleura",
+      "Mediastinal pleura"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The pleural layer lining the inner surface of the thoracic wall is the:",
+    "options": [
+      "Visceral pleura",
+      "Pulmonary pleura",
+      "Parietal pleura",
+      "Fibrous pleura"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "An aspirated foreign body is more likely to enter the right primary bronchus because it is generally:",
+    "options": [
+      "Narrower and more horizontal",
+      "Wider, shorter, and more vertical",
+      "Longer and more curved",
+      "Narrower and more vertical"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "As the airways become progressively smaller, cartilage is normally absent beginning at the level of the:",
+    "options": [
+      "Primary bronchi",
+      "Secondary bronchi",
+      "Bronchioles",
+      "Trachea"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "In the smaller airways, the absence of cartilage is compensated mainly by a relatively greater amount of:",
+    "options": [
+      "Skeletal muscle",
+      "Smooth muscle",
+      "Fibrocartilage",
+      "Bone"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The respiratory membrane across which gases diffuse is formed mainly by the close association of the:",
+    "options": [
+      "Bronchial epithelium and venous wall",
+      "Alveolar wall and pulmonary capillary wall",
+      "Pleura and alveolar wall",
+      "Tracheal wall and arterial wall"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The large respiratory surface area of the adult lungs is mainly due to the presence of approximately:",
+    "options": [
+      "50 million alveoli",
+      "100 million alveoli",
+      "150 million alveoli",
+      "300 million alveoli"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "During quiet inspiration, the greatest contribution to expansion of the thoracic cavity comes from the:",
+    "options": [
+      "Abdominal muscles and internal intercostals",
+      "Diaphragm and external intercostal muscles",
+      "Sternocleidomastoid and scalene muscles",
+      "Pectoral and abdominal muscles"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Contraction of the external intercostal muscles primarily moves the ribs:",
+    "options": [
+      "Downward and inward",
+      "Upward and outward",
+      "Medially and downward",
+      "Posteriorly only"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The primary motor nerve supplying the diaphragm is the:",
+    "options": [
+      "Vagus nerve",
+      "Accessory nerve",
+      "Phrenic nerve",
+      "Intercostal nerve"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "During quiet breathing, approximately what proportion of the work of inspiration is performed by the diaphragm?",
+    "options": [
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The characteristic honeycomb appearance of healthy lung tissue is mainly due to the large number of:",
+    "options": [
+      "Bronchi",
+      "Bronchioles",
+      "Alveoli",
+      "Pleural cavities"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Where are the peripheral chemoreceptors located?",
+    "options": [
+      "Medulla oblongata",
+      "Arch of the aorta and carotid bodies",
+      "Hypothalamus",
+      "Laryngeal mucosa"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "When inspiration becomes forced, additional muscles are recruited, particularly the:",
+    "options": [
+      "Internal intercostals and abdominal muscles",
+      "Sternocleidomastoid and scalene muscles",
+      "Rectus abdominis and transversus abdominis",
+      "Pelvic floor muscles"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "During forced expiration, which muscles are recruited to actively decrease the volume of the thoracic cavity?",
+    "options": [
+      "External intercostal muscles",
+      "Internal intercostal muscles",
+      "Diaphragm",
+      "Scalene muscles"
+    ],
+    "correctAnswer": 1
+  }
+]

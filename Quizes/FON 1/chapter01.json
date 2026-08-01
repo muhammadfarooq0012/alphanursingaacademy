@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What does FON stand for in nursing?",
+    "options": ["Foundation of Nursing", "Fundamentals of Nursing", "Basics of Nursing", "Principles of Nursing"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Who is known as the founder of modern nursing?",
+    "options": ["Clara Barton", "Florence Nightingale", "Virginia Henderson", "Dorothea Dix"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The normal body temperature in Fahrenheit is:",
+    "options": ["95.6°F", "96.8°F", "98.6°F", "99.6°F"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The normal pulse rate in adults is:",
+    "options": ["40-60 bpm", "60-100 bpm", "100-120 bpm", "120-140 bpm"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Hand washing is an example of:",
+    "options": ["Surgical asepsis", "Medical asepsis", "Sterilization", "Disinfection"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The normal respiration rate in adults is:",
+    "options": ["8-12 breaths/min", "12-20 breaths/min", "20-30 breaths/min", "30-40 breaths/min"],
+    "correctAnswer": 1
+  }
+]

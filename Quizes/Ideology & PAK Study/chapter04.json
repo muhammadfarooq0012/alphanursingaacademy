@@ -1,0 +1,352 @@
+[
+    {
+        "question":  "What are the three main organs of the state? / ریاست کے تین بنیادی ستون کون سے ہیں؟",
+        "options":  [
+                        "Police, Army, Courts / پولیس، فوج، عدالتیں",
+                        "Parliament, Executive, Judiciary / پارلیمنٹ، انتظامیہ، عدلیہ",
+                        "President, Prime Minister, Governor / صدر، وزیر اعظم، گورنر",
+                        "Voters, Politicians, Media / ووٹر، سیاستدان، میڈیا"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "What type of government does the 1973 Constitution of Pakistan provide? / 1973 کا آئین پاکستان کس قسم کی حکومت فراہم کرتا ہے؟",
+        "options":  [
+                        "Presidential / صدارتی",
+                        "Monarchy / بادشاہت",
+                        "Parliamentary / پارلیمانی",
+                        "Military / فوجی"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "According to the Constitution, who is the head of state in Pakistan? / آئین کے مطابق پاکستان کا سربراہ مملکت کون ہوتا ہے؟",
+        "options":  [
+                        "Prime Minister / وزیر اعظم",
+                        "Chief Justice / چیف جسٹس",
+                        "President / صدر",
+                        "Army Chief / آرمی چیف"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "Who holds the real executive power in Pakistan? / پاکستان میں حقیقی انتظامی طاقت کس کے پاس ہوتی ہے؟",
+        "options":  [
+                        "President / صدر",
+                        "Prime Minister / وزیر اعظم",
+                        "Senate / سینیٹ",
+                        "Chief Justice / چیف جسٹس"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "What is the structure of Pakistan’s state? / پاکستان کا ریاستی ڈھانچہ کیسا ہے؟",
+        "options":  [
+                        "Unitary / وحدانی",
+                        "Federal / وفاقی",
+                        "Confederal / کنفیڈرل",
+                        "Mixed / مخلوط"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "What is the primary responsibility of the Executive branch of the government? / حکومت کی انتظامیہ شاخ کی بنیادی ذمہ داری کیا ہے؟",
+        "options":  [
+                        "Making laws / قوانین بنانا",
+                        "Enforcing laws / قوانین کا نفاذ",
+                        "Interpreting laws / قوانین کی تشریح",
+                        "Reviewing laws / قوانین کا جائزہ لینا"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "The Parliament of Pakistan is made up of how many houses? / پاکستان کی پارلیمنٹ کتنی ایوانوں پر مشتمل ہے؟",
+        "options":  [
+                        "One / ایک",
+                        "Two / دو",
+                        "Three / تین",
+                        "Four / چار"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "What is the role of the President in the legislative process? / قانون سازی کے عمل میں صدر کا کیا کردار ہوتا ہے؟",
+        "options":  [
+                        "Approves bills / بل کی منظوری دیتا ہے",
+                        "Introduces bills / بل پیش کرتا ہے",
+                        "Votes on bills / بل پر ووٹ ڈالتا ہے",
+                        "Chairs sessions of the assembly / اسمبلی کے اجلاس کی صدارت کرتا ہے"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "How are the members of the National Assembly of Pakistan elected? / پاکستان کے قومی اسمبلی کے اراکین کس طرح منتخب ہوتے ہیں؟",
+        "options":  [
+                        "Direct public vote / براہ راست عوامی ووٹ",
+                        "Appointed by the President / صدر کے ذریعے مقرر",
+                        "Elected by provincial assemblies / صوبائی اسمبلیوں کے ذریعے منتخب",
+                        "Elected by local councils / مقامی کونسلوں کے ذریعے منتخب"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "The primary function of the judiciary is to: / عدلیہ کا بنیادی کام کیا ہے؟",
+        "options":  [
+                        "Create laws / قوانین بنانا",
+                        "Implement laws / قوانین کا نفاذ کرنا",
+                        "Interpret laws / قوانین کی تشریح کرنا",
+                        "Amend laws / قوانین میں ترمیم کرنا"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "Which body is responsible for making amendments to the Constitution? / آئین میں ترمیم کرنے کا ذمہ دار ادارہ کونسا ہے؟",
+        "options":  [
+                        "The President / صدر",
+                        "The National Assembly / قومی اسمبلی",
+                        "The Senate / سینیٹ",
+                        "The Supreme Court / سپریم کورٹ"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "The 18th Amendment to the Constitution of Pakistan significantly impacted which of the following? / پاکستان کے آئین میں اٹھارویں ترمیم نے مندرجہ ذیل میں سے کس پر نمایاں اثر ڈالا؟",
+        "options":  [
+                        "The distribution of powers between the federal and provincial governments / وفاقی اور صوبائی حکومتوں کے درمیان اختیارات کی تقسیم",
+                        "The size of the National Assembly / قومی اسمبلی کا سائز",
+                        "The process of presidential elections / صدارتی انتخابات کا عمل",
+                        "The judicial review process / عدالتی نظرثانی کا عمل"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "What power does the Senate hold in Pakistan’s legislative process? / پاکستان کے قانون سازی کے عمل میں سینیٹ کے پاس کیا اختیار ہوتا ہے؟",
+        "options":  [
+                        "To veto bills / بلوں کو ویٹو کرنا",
+                        "To amend bills / بلوں میں ترمیم کرنا",
+                        "To introduce bills / بل پیش کرنا",
+                        "To interpret laws / قوانین کی تشریح کرنا"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "How are the powers of the federal and provincial governments distributed? / وفاقی اور صوبائی حکومتوں کے اختیارات کی تقسیم کس طرح کی جاتی ہے؟",
+        "options":  [
+                        "By the Constitution / آئین کے ذریعے",
+                        "By the President / صدر کے ذریعے",
+                        "By the judiciary / عدلیہ کے ذریعے",
+                        "By provincial assemblies / صوبائی اسمبلیوں کے ذریعے"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "The 18th Amendment has transferred many concurrent powers to which government level? / اٹھارویں ترمیم نے کئی مشترکہ اختیارات کس سطح کی حکومت کو منتقل کر دیے ہیں؟",
+        "options":  [
+                        "Federal government / وفاقی حکومت",
+                        "Provincial governments / صوبائی حکومتیں",
+                        "Local governments / مقامی حکومتیں",
+                        "The judiciary / عدلیہ"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "What is the role of the Prime Minister in Pakistan’s government? / پاکستان کی حکومت میں وزیرِ اعظم کا کیا کردار ہوتا ہے؟",
+        "options":  [
+                        "Head of the government / حکومت کا سربراہ",
+                        "Head of state / ریاست کا سربراہ",
+                        "Head of the judiciary / عدلیہ کا سربراہ",
+                        "Head of the military / فوج کا سربراہ"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "Which of the following is a function of the National Assembly? / مندرجہ ذیل میں سے کون سا قومی اسمبلی کا کام ہے؟",
+        "options":  [
+                        "Passing budgets / بجٹ کی منظوری",
+                        "Enforcing laws / قوانین کا نفاذ",
+                        "Appointing judges / ججوں کی تقرری",
+                        "Interpreting laws / قوانین کی تشریح"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "The system of government in Pakistan is best described as: / پاکستان میں حکومت کا نظام کس طرح بیان کیا جا سکتا ہے؟",
+        "options":  [
+                        "Unitary system / یک جماعتی نظام",
+                        "Federal system / وفاقی نظام",
+                        "Monarchy / بادشاہت",
+                        "Dictatorship / آمریت"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Which of the following is an example of the executive branch’s power? / مندرجہ ذیل میں سے کون سی مثال انتظامیہ شاخ کے اختیار کی ہے؟",
+        "options":  [
+                        "Declaring war / جنگ کا اعلان کرنا",
+                        "Passing laws / قوانین بنانا",
+                        "Interpreting laws / قوانین کی تشریح کرنا",
+                        "Appointing judges / ججوں کی تقرری کرنا"
+                    ],
+        "correctAnswer":  3
+    },
+    {
+        "question":  "How many members are there in the Senate of Pakistan? / پاکستان کی سینیٹ میں کتنے ارکان ہیں؟",
+        "options":  [
+                        "100 / 100",
+                        "104 / 104",
+                        "120 / 120",
+                        "150 / 150"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "What was the primary impact of the 18th Amendment on the President’s powers? / اٹھارویں ترمیم کا صدر کے اختیارات پر سب سے بڑا اثر کیا تھا؟",
+        "options":  [
+                        "The President’s power was significantly increased / صدر کے اختیارات میں نمایاں اضافہ ہوا",
+                        "The President’s power was reduced / صدر کے اختیارات میں کمی آئی",
+                        "The President’s power remained the same / صدر کے اختیارات ویسے ہی رہے",
+                        "The President was given new executive powers / صدر کو نئے انتظامی اختیارات دیے گئے"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "The National Assembly of Pakistan consists of how many seats? / پاکستان کی قومی اسمبلی میں کتنی نشستیں ہیں؟",
+        "options":  [
+                        "342 / 342",
+                        "350 / 350",
+                        "360 / 360",
+                        "400 / 400"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "The executive branch of Pakistan is headed by the: / پاکستان کی انتظامیہ شاخ کا سربراہ کون ہوتا ہے؟",
+        "options":  [
+                        "President / صدر",
+                        "Prime Minister / وزیرِ اعظم",
+                        "Chief Justice / چیف جسٹس",
+                        "Speaker of the National Assembly / قومی اسمبلی کے اسپیکر"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "What is the primary purpose of judicial review in Pakistan? / پاکستان میں عدالتی نظرثانی کا بنیادی مقصد کیا ہے؟",
+        "options":  [
+                        "To make laws / قوانین بنانا",
+                        "To interpret the Constitution / آئین کی تشریح کرنا",
+                        "To ensure the legality of executive actions / انتظامیہ کے اقدامات کی قانونی حیثیت کو یقینی بنانا",
+                        "To impeach public officials / عوامی عہدیداروں کو معزول کرنا"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "The concurrent list, which was abolished by the 18th Amendment, refers to: / مشترکہ فہرست، جسے اٹھارویں ترمیم کے ذریعے ختم کر دیا گیا، کس کو ظاہر کرتی ہے؟",
+        "options":  [
+                        "Powers shared by both federal and provincial governments / وفاقی اور صوبائی حکومتوں کے مشترکہ اختیارات",
+                        "Exclusive powers of the federal government / وفاقی حکومت کے خصوصی اختیارات",
+                        "Local government powers / مقامی حکومت کے اختیارات",
+                        "Powers of the judiciary / عدلیہ کے اختیارات"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "Which institution is responsible for making final decisions in constitutional matters? / آئینی معاملات میں حتمی فیصلے کرنے کا ذمہ دار کون سا ادارہ ہے؟",
+        "options":  [
+                        "The National Assembly / قومی اسمبلی",
+                        "The President / صدر",
+                        "The Supreme Court / سپریم کورٹ",
+                        "The Prime Minister / وزیرِ اعظم"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "The judiciary in Pakistan is independent, as guaranteed by: / پاکستان میں عدلیہ آزاد ہے، جیسا کہ کس چیز میں ضمانت دی گئی ہے؟",
+        "options":  [
+                        "The Constitution / آئین",
+                        "The President’s orders / صدر کے احکامات",
+                        "The Parliament / پارلیمنٹ",
+                        "The military / فوج"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "Which of the following powers is exclusive to the federal government in Pakistan? / مندرجہ ذیل میں سے کون سا اختیار پاکستان میں وفاقی حکومت کا خاص اختیار ہے؟",
+        "options":  [
+                        "Managing foreign affairs / غیر ملکی معاملات کا انتظام",
+                        "Regulating local businesses / مقامی کاروبار کو ضابطہ بنانا",
+                        "Managing local police / مقامی پولیس کا انتظام",
+                        "Regulating education systems / تعلیمی نظام کو ضابطہ بنانا"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "What is the role of the provincial assemblies in Pakistan? / پاکستان میں صوبائی اسمبلیوں کا کیا کردار ہوتا ہے؟",
+        "options":  [
+                        "Passing local laws / مقامی قوانین منظور کرنا",
+                        "Interpreting the Constitution / آئین کی تشریح کرنا",
+                        "Managing foreign relations / غیر ملکی تعلقات کا انتظام",
+                        "Appointing judges / ججوں کی تقرری"
+                    ],
+        "correctAnswer":  0
+    },
+    {
+        "question":  "Who has the power to dissolve the National Assembly in Pakistan? / پاکستان میں قومی اسمبلی کو تحلیل کرنے کا اختیار کس کے پاس ہوتا ہے؟",
+        "options":  [
+                        "The Prime Minister / وزیرِ اعظم",
+                        "The President / صدر",
+                        "The Chief Justice / چیف جسٹس",
+                        "The Speaker of the National Assembly / قومی اسمبلی کے اسپیکر"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "What type of democracy does Pakistan follow? / پاکستان کس قسم کی جمہوریت پر عمل کرتا ہے؟",
+        "options":  [
+                        "Direct democracy / براہ راست جمہوریت",
+                        "Representative democracy / نمائندہ جمہوریت",
+                        "Absolute monarchy / مکمل بادشاہت",
+                        "Military dictatorship / فوجی آمریت"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "How long is the term for a member of the National Assembly in Pakistan? / پاکستان میں قومی اسمبلی کے رکن کی مدت کتنی ہوتی ہے؟",
+        "options":  [
+                        "3 years / 3 سال",
+                        "4 years / 4 سال",
+                        "5 years / 5 سال",
+                        "6 years / 6 سال"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "Who appoints the Chief Justice of Pakistan? / پاکستان کے چیف جسٹس کو کون مقرر کرتا ہے؟",
+        "options":  [
+                        "The Prime Minister / وزیرِ اعظم",
+                        "The National Assembly / قومی اسمبلی",
+                        "The President / صدر",
+                        "The Supreme Court / سپریم کورٹ"
+                    ],
+        "correctAnswer":  2
+    },
+    {
+        "question":  "Provincial governments primarily deal with which of the following? / صوبائی حکومتیں بنیادی طور پر کس سے نمٹتی ہیں؟",
+        "options":  [
+                        "National defense / قومی دفاع",
+                        "Education and health / تعلیم اور صحت",
+                        "Foreign relations / غیر ملکی تعلقات",
+                        "Currency management / کرنسی کا انتظام"
+                    ],
+        "correctAnswer":  1
+    },
+    {
+        "question":  "Which article of the Constitution of Pakistan defines the judiciary\u0027s independence? / پاکستان کے آئین کا کون سا آرٹیکل عدلیہ کی آزادی کو بیان کرتا ہے؟",
+        "options":  [
+                        "Article 175 / آرٹیکل 175",
+                        "Article 50 / آرٹیکل 50",
+                        "Article 58 / آرٹیکل 58",
+                        "Article 62 / آرٹیکل 62"
+                    ],
+        "correctAnswer":  0
+    }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "question": "QR in nursing stands for:",
+    "options": ["Quality Review", "Quick Response", "Qualitative Research", "Quality Report"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which type of research uses numerical data?",
+    "options": ["Qualitative", "Quantitative", "Mixed method", "Case study"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A hypothesis is:",
+    "options": ["A proven fact", "A testable prediction", "A research conclusion", "A data collection method"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The first step in the research process is:",
+    "options": ["Data collection", "Identifying the problem", "Literature review", "Data analysis"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A variable that is manipulated by the researcher is called:",
+    "options": ["Dependent variable", "Independent variable", "Confounding variable", "Controlled variable"],
+    "correctAnswer": 1
+  }
+]

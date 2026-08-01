@@ -1,0 +1,342 @@
+[
+  {
+    "question": "The kidneys normally extend vertically from approximately which vertebral level?",
+    "options": [
+      "T10 to L1",
+      "T11 to L2",
+      "T12 to L3",
+      "T12 to L2"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which structure is located superiorly in relation to the right kidney?",
+    "options": [
+      "Liver",
+      "Right suprarenal (adrenal) gland",
+      "Diaphragm",
+      "Stomach"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which structure is related to the anterior surface of the right kidney?",
+    "options": [
+      "Stomach",
+      "Spleen",
+      "Duodenum",
+      "Pancreas"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which organ is related to the anterior surface of the left kidney?",
+    "options": [
+      "Liver",
+      "Spleen",
+      "Duodenum",
+      "Gallbladder"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The blind-ended beginning of a nephron that encloses the glomerulus is called the:",
+    "options": [
+      "Proximal convoluted tubule",
+      "Distal convoluted tubule",
+      "Loop of Henle",
+      "Bowman's capsule"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which region of the kidney lies immediately deep to the renal capsule and surrounds the renal pyramids?",
+    "options": [
+      "Renal cortex",
+      "Renal medulla",
+      "Renal sinus",
+      "Renal pelvis"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The pale, cone-shaped structures that form the major part of the renal medulla are called:",
+    "options": [
+      "Renal columns",
+      "Renal pyramids",
+      "Renal papillae",
+      "Minor calyces"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The renal calyces and renal pelvis are lined mainly by which type of epithelium?",
+    "options": [
+      "Simple squamous epithelium",
+      "Simple columnar epithelium",
+      "Transitional epithelium",
+      "Stratified squamous epithelium"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Approximately how many nephrons are present in each human kidney?",
+    "options": [
+      "0.5–1 million",
+      "1–2 million",
+      "2–3 million",
+      "3–4 million"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The afferent arteriole enters the renal corpuscle and forms a capillary network known as the:",
+    "options": [
+      "Peritubular capillary network",
+      "Vasa recta",
+      "Glomerulus",
+      "Renal sinus"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The glomeruli of the nephrons are located primarily in the:",
+    "options": [
+      "Renal medulla",
+      "Renal pyramids",
+      "Renal cortex",
+      "Renal papillae"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which statement best distinguishes cortical nephrons from juxtamedullary nephrons?",
+    "options": [
+      "Cortical nephrons are located mainly in the renal cortex and have shorter loops of Henle.",
+      "Cortical nephrons have longer loops of Henle extending deep into the medulla.",
+      "Cortical nephrons are fewer in number than juxtamedullary nephrons.",
+      "Cortical nephrons are the main nephrons associated with long vasa recta."
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which sequence correctly describes the passage of urine from the renal papilla to the urinary bladder?",
+    "options": [
+      "Papilla → major calyx → minor calyx → renal pelvis → ureter",
+      "Papilla → minor calyx → major calyx → renal pelvis → ureter",
+      "Minor calyx → papilla → major calyx → renal pelvis → ureter",
+      "Papilla → renal pelvis → minor calyx → major calyx → ureter"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which statement correctly describes the renal medulla?",
+    "options": [
+      "It is the superficial region containing all renal corpuscles.",
+      "It contains the renal pyramids and renal columns.",
+      "It contains the renal hilum and renal pelvis only.",
+      "It is composed mainly of glomeruli and convoluted tubules."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which group correctly contains structures of the renal tubule?",
+    "options": [
+      "Glomerulus, Bowman's capsule, PCT, DCT",
+      "PCT, loop of Henle, DCT, collecting duct",
+      "Afferent arteriole, glomerulus, PCT, DCT",
+      "Bowman's capsule, glomerulus, vasa recta, DCT"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Blood enters the peritubular capillary network from the:",
+    "options": [
+      "Afferent arteriole",
+      "Efferent arteriole",
+      "Arcuate artery",
+      "Interlobular artery"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which vessel carries blood away from the glomerulus after filtration has occurred?",
+    "options": [
+      "Afferent arteriole",
+      "Efferent arteriole",
+      "Peritubular venule",
+      "Renal vein"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "In juxtamedullary nephrons, the vasa recta arise mainly from the:",
+    "options": [
+      "Afferent arterioles",
+      "Efferent arterioles",
+      "Interlobular arteries",
+      "Arcuate veins"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The mucosal lining of the ureter is specially adapted to allow stretching and is composed mainly of:",
+    "options": [
+      "Simple squamous epithelium",
+      "Stratified squamous epithelium",
+      "Transitional epithelium",
+      "Simple columnar epithelium"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The thick smooth muscle layer responsible for contraction of the urinary bladder is called the:",
+    "options": [
+      "Internal sphincter muscle",
+      "Detrusor muscle",
+      "External urethral muscle",
+      "Cremasteric muscle"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "At rest, the kidneys receive approximately what percentage of the cardiac output?",
+    "options": [
+      "10%",
+      "15%",
+      "20%",
+      "30%"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which structure lies anterior to the urinary bladder in both males and females?",
+    "options": [
+      "Rectum",
+      "Small intestine",
+      "Pubic symphysis",
+      "Uterus"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The proximal part of the urethra is primarily lined by:",
+    "options": [
+      "Transitional epithelium",
+      "Stratified squamous epithelium",
+      "Simple columnar epithelium",
+      "Simple squamous epithelium"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "As the urethra approaches its external opening, its epithelium generally changes to:",
+    "options": [
+      "Transitional epithelium",
+      "Stratified squamous epithelium",
+      "Simple cuboidal epithelium",
+      "Simple squamous epithelium"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which statement best distinguishes the male urethra from the female urethra?",
+    "options": [
+      "The male urethra is shorter and carries only urine.",
+      "The male urethra is longer and carries both urine and semen.",
+      "The male urethra is longer but carries only urine.",
+      "The male and female urethras have the same length and function."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The urethra begins at which part of the urinary bladder?",
+    "options": [
+      "Apex",
+      "Neck",
+      "Fundus",
+      "Superior surface"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which fibrous connective tissue layer encloses the kidney and the surrounding renal fat?",
+    "options": [
+      "Fibrous renal capsule",
+      "Renal fascia",
+      "Renal sinus",
+      "Perirenal membrane"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The shape of the urinary bladder when filled with urine is:",
+    "options": [
+      "Cylindrical",
+      "Flat",
+      "Balloon-shaped",
+      "Pear-shaped"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Backflow of urine from the bladder into the ureters is prevented mainly by:",
+    "options": [
+      "Continuous contraction of the ureteric muscles",
+      "The external urethral sphincter",
+      "The internal urethral sphincter",
+      "Oblique entry of the ureters into the bladder wall"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The apex of a renal pyramid, where urine enters a minor calyx, is called the:",
+    "options": [
+      "Renal column",
+      "Renal papilla",
+      "Renal sinus",
+      "Renal hilum"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The approximate weight of an adult kidney is:",
+    "options": [
+      "50 g",
+      "100 g",
+      "150 g",
+      "250 g"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which structure forms the tough fibrous covering immediately surrounding the kidney itself?",
+    "options": [
+      "Renal fascia",
+      "Fibrous renal capsule",
+      "Renal sinus",
+      "Perirenal fat"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which sphincter is composed of smooth muscle and is not under voluntary control?",
+    "options": [
+      "External urethral sphincter",
+      "Internal urethral sphincter",
+      "External anal sphincter",
+      "Pelvic floor sphincter"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Venous blood from the kidneys is drained primarily through the:",
+    "options": [
+      "Renal veins into the inferior vena cava",
+      "Renal veins into the superior vena cava",
+      "Renal veins into the portal vein",
+      "Renal veins into the azygos system"
+    ],
+    "correctAnswer": 0
+  }
+]

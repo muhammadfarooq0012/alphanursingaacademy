@@ -1,0 +1,501 @@
+[
+  {
+    "question": "Which blood vessels provide an alternative route of blood flow when a main artery is gradually blocked?",
+    "options": [
+      "End arteries",
+      "Anastomotic arteries",
+      "Capillaries",
+      "Venules"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Arteries and veins both possess three tissue layers in their walls. The inner layer lining both vessels is called the:",
+    "options": [
+      "Tunica media",
+      "Tunica adventitia",
+      "Myocardium",
+      "Tunica intima"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What is the name of an artery that is the sole source of blood to a tissue, such as the central artery to the retina?",
+    "options": [
+      "Anastomotic artery",
+      "End artery",
+      "Collateral artery",
+      "Resistance vessel"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The vasomotor center controlling blood vessel diameter is located in the:",
+    "options": [
+      "Cerebellum",
+      "Medulla oblongata",
+      "Hypothalamus",
+      "Cerebrum"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The heart lies within the thoracic cavity in the region known as the:",
+    "options": [
+      "Pleural cavity",
+      "Peritoneum",
+      "Mediastinum",
+      "Abdominal cavity"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The myocardium consists of specialized cardiac muscle that is striated but involuntary. Its cells are connected by:",
+    "options": [
+      "Synovial joints",
+      "Tendons",
+      "Intercalated discs",
+      "Ligaments"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The tricuspid valve is located between the:",
+    "options": [
+      "Left atrium and left ventricle",
+      "Right atrium and right ventricle",
+      "Left ventricle and aorta",
+      "Right ventricle and pulmonary artery"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The pulmonary artery is unique among arteries because it carries:",
+    "options": [
+      "Oxygenated blood",
+      "Nutrient-rich blood only",
+      "Deoxygenated blood",
+      "Blood directly from veins"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Pulmonary veins return blood from the lungs to the:",
+    "options": [
+      "Right atrium",
+      "Left atrium",
+      "Right ventricle",
+      "Pulmonary artery"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Into which chamber of the heart does the coronary sinus open?",
+    "options": [
+      "Right atrium",
+      "Left atrium",
+      "Right ventricle",
+      "Left ventricle"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Most venous blood from the heart is collected by cardiac veins forming the:",
+    "options": [
+      "Coronary sinus",
+      "Aortic arch",
+      "Pulmonary trunk",
+      "Ductus arteriosus"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The aorta is the largest artery of the body and originates from the:",
+    "options": [
+      "Right atrium",
+      "Left ventricle",
+      "Right ventricle",
+      "Left atrium"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The superior and inferior venae cava return systemic blood to the:",
+    "options": [
+      "Left ventricle",
+      "Pulmonary artery",
+      "Right atrium",
+      "Left atrium"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The umbilical cord normally contains:",
+    "options": [
+      "Two veins and one artery",
+      "One vein and two arteries",
+      "One artery and one vein",
+      "Three veins only"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The umbilical vein carries blood that is:",
+    "options": [
+      "Oxygenated and nutrient-rich",
+      "Deoxygenated and waste-filled",
+      "Mixed with maternal blood",
+      "Free of nutrients"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Human chorionic gonadotrophin (hCG) maintains early pregnancy by stimulating the:",
+    "options": [
+      "Corpus luteum",
+      "Thyroid gland",
+      "Adrenal gland",
+      "Pituitary gland"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The ductus venosus allows fetal blood to bypass the:",
+    "options": [
+      "Lungs",
+      "Heart",
+      "Liver",
+      "Brain"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The foramen ovale permits blood flow directly between the fetal:",
+    "options": [
+      "Ventricles",
+      "Atria",
+      "Aorta and vena cava",
+      "Pulmonary veins"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Fetal circulatory adaptations exist mainly because the lungs, kidneys, and gastrointestinal tract are:",
+    "options": [
+      "Overactive before birth",
+      "Non-functional before birth",
+      "Larger than adult organs",
+      "The main oxygen source"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A substance that causes abnormal fetal development is called a:",
+    "options": [
+      "Antibody",
+      "Teratogen",
+      "Enzyme",
+      "Antigen"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The placenta takes over secretion of progesterone and estrogen after approximately:",
+    "options": [
+      "2 weeks of pregnancy",
+      "6 weeks of pregnancy",
+      "12 weeks of pregnancy",
+      "Birth"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Atrial natriuretic peptide (ANP) is secreted by specialized cells located in the:",
+    "options": [
+      "Ventricles",
+      "Coronary arteries",
+      "Atria",
+      "Pericardium"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The apex of the heart is mainly formed by the:",
+    "options": [
+      "Left ventricle",
+      "Right atrium",
+      "Pulmonary trunk",
+      "Superior vena cava"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The exchange of gases in the lungs occurs between alveolar air and blood in the:",
+    "options": [
+      "Coronary arteries",
+      "Pulmonary capillaries",
+      "Aorta",
+      "Venae cava"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "During systemic circulation, oxygenated blood leaves the heart through the aorta and returns deoxygenated blood via the:",
+    "options": [
+      "Pulmonary veins",
+      "Coronary arteries",
+      "Superior and inferior venae cava",
+      "Pulmonary trunk"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Occlusion of an end artery usually results in:",
+    "options": [
+      "Increased collateral circulation",
+      "Venous congestion",
+      "Tissue death due to lack of blood supply",
+      "Increased capillary pressure"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Precapillary sphincters open mainly in response to:",
+    "options": [
+      "High oxygen levels",
+      "Low tissue activity",
+      "Hypoxia and accumulation of wastes",
+      "Increased blood viscosity"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The three layers of an artery from outside to inside are:",
+    "options": [
+      "Intima, media, adventitia",
+      "Media, adventitia, intima",
+      "Adventitia, media, intima",
+      "Media, intima, adventitia"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Approximately how much of the body's blood volume is present in the venous system at one time?",
+    "options": [
+      "One-third",
+      "One-fourth",
+      "Two-thirds",
+      "Three-fourths"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Venous valves are especially abundant in the:",
+    "options": [
+      "Veins of the lower limbs",
+      "Thoracic veins",
+      "Coronary veins",
+      "Large abdominal veins"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The main site for exchange of gases, nutrients, and wastes is the:",
+    "options": [
+      "Artery",
+      "Vein",
+      "Venule",
+      "Capillary bed"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What percentage of the blood pumped from the heart do the coronary arteries receive?",
+    "options": [
+      "2%",
+      "5%",
+      "10%",
+      "15%"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The coronary arteries arise from the:",
+    "options": [
+      "Pulmonary trunk",
+      "Superior vena cava",
+      "Aorta just beyond the aortic valve",
+      "Right atrium"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Pulmonary circulation begins at the:",
+    "options": [
+      "Left ventricle",
+      "Left atrium",
+      "Right ventricle",
+      "Aorta"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Deoxygenated blood leaves the fetus through the:",
+    "options": [
+      "Umbilical vein",
+      "Umbilical arteries",
+      "Pulmonary veins",
+      "Ductus venosus"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The sequence of blood flow through the heart is:",
+    "options": [
+      "Ventricles -> atria -> arteries",
+      "Atria -> ventricles -> arteries",
+      "Arteries -> atria -> ventricles",
+      "Veins -> arteries -> ventricles"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The ductus arteriosus connects the pulmonary artery to the:",
+    "options": [
+      "Superior vena cava",
+      "Descending thoracic aorta",
+      "Pulmonary vein",
+      "Left atrium"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The semilunar valve guarding the pulmonary artery is the:",
+    "options": [
+      "Mitral valve",
+      "Tricuspid valve",
+      "Pulmonary valve",
+      "Atrioventricular valve"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The average diameter of a capillary is approximately equal to the size of a:",
+    "options": [
+      "Leukocyte",
+      "Platelet",
+      "Erythrocyte",
+      "Plasma protein"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the name of the network of blood vessels that supplies the outer layers of thick-walled blood vessels?",
+    "options": [
+      "Coronary arteries",
+      "Vasa vasorum",
+      "Pulmonary vessels",
+      "Sinusoids"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the normal capillary refill time after pressing the skin until it blanches?",
+    "options": [
+      "Less than 1 second",
+      "Less than 2 seconds",
+      "Less than 3 seconds",
+      "Less than 4 seconds"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is the approximate weight of the heart in an adult male?",
+    "options": [
+      "200 g",
+      "250 g",
+      "300 g",
+      "350 g"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "At what intercostal space does the apex of the heart lie?",
+    "options": [
+      "3rd intercostal space",
+      "4th intercostal space",
+      "5th intercostal space",
+      "6th intercostal space"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which chamber of the heart has the thickest myocardium?",
+    "options": [
+      "Right atrium",
+      "Left atrium",
+      "Right ventricle",
+      "Left ventricle"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The portal vein is formed by the union of which two main veins?",
+    "options": [
+      "Superior mesenteric vein and gastric vein",
+      "Splenic vein and inferior mesenteric vein",
+      "Superior mesenteric vein and splenic vein"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Where is the sinoatrial (SA) node located?",
+    "options": [
+      "In the interventricular septum",
+      "In the wall of the right atrium near the opening of the superior vena cava",
+      "In the wall of the left atrium",
+      "At the apex of the heart"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Where is the atrioventricular (AV) node located?",
+    "options": [
+      "In the wall of the right ventricle",
+      "In the wall of the atrial septum near the atrioventricular valves",
+      "In the interventricular septum",
+      "In the apex of the heart"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which artery arises directly from the arch of the aorta on the left side?",
+    "options": [
+      "Left subclavian artery",
+      "Left common carotid artery",
+      "Brachiocephalic artery",
+      "Left vertebral artery"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Where is the carotid pulse felt?",
+    "options": [
+      "At the wrist",
+      "At the groin",
+      "At the neck where the facial artery crosses the jaw bone",
+      "At the neck where the common carotid artery passes up the side"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which artery arises from the brachiocephalic artery and supplies the right side of the head and neck?",
+    "options": [
+      "Right subclavian artery",
+      "Right common carotid artery",
+      "Right vertebral artery",
+      "Right internal thoracic artery"
+    ],
+    "correctAnswer": 1
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "question": "During which phase of the cell cycle does DNA replication occur?",
+    "options": [
+      "G1 phase",
+      "S phase",
+      "G2 phase",
+      "G0 phase"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A cell enters a resting phase but continues performing its specific functions, such as secretion and absorption. Which phase is this?",
+    "options": [
+      "G1 phase",
+      "S phase",
+      "G2 phase",
+      "G0 phase"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "During which stage of mitosis do chromosomes align at the centre of the spindle?",
+    "options": [
+      "Prophase",
+      "Metaphase",
+      "Anaphase",
+      "Telophase"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "During which stage of mitosis do the centromeres separate and sister chromatids migrate to opposite poles?",
+    "options": [
+      "Prophase",
+      "Metaphase",
+      "Anaphase",
+      "Telophase"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A cell has completed DNA replication and is growing and preparing for mitosis. Which phase is it in?",
+    "options": [
+      "G1 phase",
+      "S phase",
+      "G2 phase",
+      "G0 phase"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "During which stage of mitosis does the nuclear envelope break down and the mitotic spindle become organized?",
+    "options": [
+      "Prophase",
+      "Metaphase",
+      "Anaphase",
+      "Telophase"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the final process in which the cytoplasm and cell membrane divide to form two daughter cells?",
+    "options": [
+      "Karyokinesis",
+      "Cytokinesis",
+      "DNA replication",
+      "Chromosome duplication"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which type of tissue covers the body surface and lines cavities, hollow organs, and tubes?",
+    "options": [
+      "Connective tissue",
+      "Epithelial tissue",
+      "Muscle tissue",
+      "Nervous tissue"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which type of epithelium is best suited for rapid diffusion because it consists of a single layer of flattened cells?",
+    "options": [
+      "Simple cuboidal epithelium",
+      "Simple columnar epithelium",
+      "Simple squamous epithelium",
+      "Stratified squamous epithelium"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The alveoli of the lungs are mainly lined by:",
+    "options": [
+      "Simple cuboidal epithelium",
+      "Simple squamous epithelium",
+      "Pseudostratified columnar epithelium",
+      "Non-keratinised stratified squamous epithelium"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which type of epithelium is commonly found in kidney tubules and is involved in secretion and absorption?",
+    "options": [
+      "Simple squamous epithelium",
+      "Simple cuboidal epithelium",
+      "Simple columnar epithelium",
+      "Stratified cuboidal epithelium"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Microvilli on epithelial cells of the small intestine primarily:",
+    "options": [
+      "Propel mucus along the epithelial surface",
+      "Increase the surface area for absorption",
+      "Move particles along the respiratory tract",
+      "Allow the epithelium to stretch"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The lining of blood vessels is known as:",
+    "options": [
+      "Mesothelium",
+      "Endothelium",
+      "Endocardium",
+      "Pericardium"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The main function of stratified epithelium is to:",
+    "options": [
+      "Facilitate rapid diffusion",
+      "Protect underlying tissues from mechanical wear and tear",
+      "Increase the surface area for absorption",
+      "Allow rapid filtration"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which type of stratified squamous epithelium is found on dry surfaces such as the skin?",
+    "options": [
+      "Non-keratinised stratified squamous epithelium",
+      "Transitional epithelium",
+      "Keratinised stratified squamous epithelium",
+      "Simple squamous epithelium"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The tough and relatively waterproof protective layer of the skin is mainly formed by:",
+    "options": [
+      "Collagen",
+      "Keratin",
+      "Elastin",
+      "Mucus"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which type of epithelium protects moist surfaces subjected to mechanical wear and tear?",
+    "options": [
+      "Keratinised stratified squamous epithelium",
+      "Non-keratinised stratified squamous epithelium",
+      "Simple cuboidal epithelium",
+      "Transitional epithelium"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following is lined by non-keratinised stratified squamous epithelium?",
+    "options": [
+      "Skin",
+      "Kidney tubules",
+      "Oesophagus",
+      "Alveoli"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which type of epithelium allows stretching of the urinary bladder as it fills?",
+    "options": [
+      "Simple squamous epithelium",
+      "Simple cuboidal epithelium",
+      "Stratified squamous epithelium",
+      "Transitional epithelium"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which feature best distinguishes connective tissue from epithelial tissue?",
+    "options": [
+      "Cells are closely packed with minimal matrix",
+      "Cells are separated by abundant extracellular matrix",
+      "Cells form continuous sheets with little matrix",
+      "Cells are arranged in multiple layers"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which connective tissue cell produces collagen fibres, elastic fibres, and extracellular matrix?",
+    "options": [
+      "Macrophage",
+      "Plasma cell",
+      "Fibroblast",
+      "Mast cell"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "During wound healing, which cells are particularly active in forming new connective tissue?",
+    "options": [
+      "Fibroblasts",
+      "Macrophages",
+      "Mast cells",
+      "Plasma cells"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A connective tissue cell actively engulfs and digests bacteria, cell debris, and foreign bodies. Which cell is this?",
+    "options": [
+      "Fibroblast",
+      "Macrophage",
+      "Mast cell",
+      "Plasma cell"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "During an acute infection, which leukocytes commonly migrate into connective tissue to help fight invading microorganisms?",
+    "options": [
+      "Neutrophils",
+      "Erythrocytes",
+      "Platelets",
+      "Plasma cells"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A connective tissue cell releases histamine and heparin from cytoplasmic granules. Which cell is involved?",
+    "options": [
+      "Plasma cell",
+      "Macrophage",
+      "Mast cell",
+      "Fibroblast"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which substance released by mast cells has an anticoagulant effect?",
+    "options": [
+      "Histamine",
+      "Heparin",
+      "Collagen",
+      "Fibrinogen"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which type of connective tissue is widely distributed under the skin and between muscles?",
+    "options": [
+      "Dense regular connective tissue",
+      "Loose areolar connective tissue",
+      "Reticular connective tissue",
+      "Elastic connective tissue"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The main function of adipose tissue beneath the skin is to:",
+    "options": [
+      "Store calcium and phosphate",
+      "Act as thermal insulation and an energy store",
+      "Produce antibodies",
+      "Form strong collagen bundles"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which type of adipose tissue produces considerably more heat and is especially important in newborns?",
+    "options": [
+      "White adipose tissue",
+      "Brown adipose tissue",
+      "Reticular adipose tissue",
+      "Yellow adipose tissue"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Reticular tissue is mainly found in:",
+    "options": [
+      "Tendons and ligaments",
+      "Lymph nodes and lymphoid organs",
+      "Alveoli and respiratory surfaces",
+      "Kidney tubules"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which type of connective tissue contains closely packed bundles of collagen fibres and forms ligaments?",
+    "options": [
+      "Loose areolar tissue",
+      "Adipose tissue",
+      "Dense fibrous connective tissue",
+      "Reticular tissue"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which cells are found embedded within the matrix of cartilage?",
+    "options": [
+      "Osteocytes",
+      "Chondrocytes",
+      "Osteoblasts",
+      "Fibroblasts"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which type of cartilage provides smooth surfaces for movement at joints and is found at the ends of long bones?",
+    "options": [
+      "Fibrocartilage",
+      "Elastic cartilage",
+      "Hyaline cartilage",
+      "Dense regular connective tissue"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which type of cartilage forms the intervertebral discs?",
+    "options": [
+      "Hyaline cartilage",
+      "Fibrocartilage",
+      "Elastic cartilage",
+      "Compact bone"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A tissue contains abundant elastic fibres and helps maintain the shape of the external ear. Which tissue is this?",
+    "options": [
+      "Hyaline cartilage",
+      "Fibrocartilage",
+      "Elastic cartilage",
+      "Dense regular connective tissue"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which type of cartilage is found in the costal cartilages that attach the ribs to the sternum?",
+    "options": [
+      "Hyaline cartilage",
+      "Fibrocartilage",
+      "Elastic cartilage",
+      "Dense fibrous tissue"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The strength and rigidity of bone are mainly due to collagen fibres strengthened by:",
+    "options": [
+      "Sodium and potassium salts",
+      "Calcium and phosphate salts",
+      "Iron and magnesium salts",
+      "Chloride and bicarbonate ions"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The mature cells of bone are called:",
+    "options": [
+      "Chondrocytes",
+      "Osteocytes",
+      "Osteoblasts",
+      "Osteoclasts"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which type of bone has a solid and dense appearance?",
+    "options": [
+      "Spongy bone",
+      "Cancellous bone",
+      "Compact bone",
+      "Trabecular bone"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which type of bone has a fine honeycomb or spongy appearance?",
+    "options": [
+      "Compact bone",
+      "Spongy or cancellous bone",
+      "Cortical bone",
+      "Dense bone"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which type of cartilage is found in the epiglottis and helps maintain its shape?",
+    "options": [
+      "Hyaline cartilage",
+      "Fibrocartilage",
+      "Elastic cartilage",
+      "Dense connective tissue"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which type of muscle tissue is striated and normally under conscious control?",
+    "options": [
+      "Cardiac muscle",
+      "Smooth muscle",
+      "Skeletal muscle",
+      "Visceral muscle"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A muscle fibre is cylindrical, multinucleated, and stimulated by motor nerve impulses. Which type of muscle is this?",
+    "options": [
+      "Smooth muscle",
+      "Cardiac muscle",
+      "Skeletal muscle",
+      "Visceral muscle"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which type of muscle is non-striated and involuntary?",
+    "options": [
+      "Skeletal muscle",
+      "Smooth muscle",
+      "Cardiac muscle",
+      "Striated muscle"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Smooth muscle is mainly found in the walls of:",
+    "options": [
+      "Long bones",
+      "Hollow organs",
+      "Tendons",
+      "Skeletal muscles"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which type of muscle can initiate its own contractions, a property known as automaticity?",
+    "options": [
+      "Skeletal muscle",
+      "Smooth muscle",
+      "Cardiac muscle",
+      "Voluntary muscle"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which type of muscle is primarily responsible for propelling contents through the alimentary tract?",
+    "options": [
+      "Skeletal muscle",
+      "Smooth muscle",
+      "Cardiac muscle",
+      "Striated muscle"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which connective tissue cell is specialized for storing energy mainly as triglycerides?",
+    "options": [
+      "Fibroblast",
+      "Adipocyte",
+      "Mast cell",
+      "Macrophage"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Cardiac muscle is similar to skeletal muscle because both:",
+    "options": [
+      "Are under conscious control",
+      "Are non-striated",
+      "Have striations",
+      "Are multinucleated"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The specialized connections between cardiac muscle cells that help spread contraction from cell to cell are called:",
+    "options": [
+      "Neuromuscular junctions",
+      "Intercalated discs",
+      "Synaptic clefts",
+      "Tendinous junctions"
+    ],
+    "correctAnswer": 1
+  }
+]
