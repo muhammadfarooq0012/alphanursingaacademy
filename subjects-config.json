@@ -5,27 +5,21 @@
       "icon": "fa-bone",
       "color": "#e74c3c",
       "folder": "Anatomy",
-      "chapters": [
-        "chapter01",
-        "chapter02",
-        "chapter03",
-        "chapter04",
-        "chapter05",
-        "chapter06",
-        "chapter07",
-        "chapter08",
-        "chapter09",
-        "chapter10",
-        "chapter11",
-        "chapter12"
-      ]
+      "chapters": []
     },
     {
       "name": "Ideology & PAK Study",
       "icon": "fa-flag",
       "color": "#2ecc71",
       "folder": "Ideology & PAK Study",
-      "chapters": []
+      "chapters": [
+        "chapter01",
+        "chapter02",
+        "chapter03",
+        "chapter04",
+        "chapter05",
+        "chapter06"
+      ]
     },
     {
       "name": "B.Science",
