@@ -1,0 +1,717 @@
+[
+    {
+      "question": "According to the text, what does \"Comprehension\" mean?",
+      "options": [
+        "The ability to speak fluently",
+        "The ability to understand written words",
+        "The process of listening carefully",
+        "The ability to write without grammatical errors",
+        "The method of scanning for specific keywords"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which reading comprehension strategy involves \"condensing the main idea of the text into a summary\"?",
+      "options": [
+        "Paraphrasing",
+        "Active reading",
+        "Visualizing",
+        "Previewing",
+        "Summarizing"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "question": "If a reader is \"creating mental images during reading,\" which strategy are they using?",
+      "options": [
+        "Summarizing",
+        "Paraphrasing",
+        "Visualizing",
+        "Active reading",
+        "Previewing"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What does \"Paraphrasing\" entail in the context of reading comprehension?",
+      "options": [
+        "Engaging with the text by underlining",
+        "Restating information in your own words",
+        "Scanning the text to understand its structure",
+        "Reading horizontally and vertically",
+        "Looking over titles and headings"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which of the following is an active reading strategy mentioned in the text?",
+      "options": [
+        "Using peripheral vision",
+        "Engaging with the text by underlining important information",
+        "Reading in chunks",
+        "Skipping irrelevant information",
+        "Writing down key points randomly"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which factor causing the failure of reading comprehension involves missing important information because you are not paying attention?",
+      "options": [
+        "Complex Text",
+        "Poor Vocabulary",
+        "Language Barriers",
+        "Reading Quickly",
+        "Lack of Focus"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "question": "How do \"Language Barriers\" affect reading comprehension?",
+      "options": [
+        "They make the text structure invisible",
+        "They make it difficult to understand the text",
+        "They cause the reader to read too quickly",
+        "They prevent the reader from creating mental images",
+        "They lead to information overload"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "According to the text, what happens if you are \"Reading Quickly\"?",
+      "options": [
+        "You easily condense the main idea",
+        "You improve your vocabulary",
+        "You may miss the important information",
+        "You are practicing extensive reading",
+        "You avoid cognitive bias"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "How is \"Audience\" defined in the text?",
+      "options": [
+        "A group of people who write reports",
+        "A group of people who interpret complex texts",
+        "A group of people who are gathered to watch, listen or to participate in a performance, presentation or an event",
+        "A single person evaluating a speaker",
+        "People who solely provide feedback"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which of the following is NOT listed as a purpose of the audience?",
+      "options": [
+        "Gain knowledge",
+        "Give feedback",
+        "Make decisions",
+        "Write the formal presentation",
+        "Be influenced or persuaded"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Changing beliefs, attitudes, or behavior falls under which purpose of the audience?",
+      "options": [
+        "Receive the message",
+        "Gain knowledge",
+        "Give feedback",
+        "Make decisions",
+        "Be influenced or persuaded"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "question": "Which of the following is a characteristic of an audience?",
+      "options": [
+        "They all share the exact same beliefs.",
+        "They have identical levels of knowledge.",
+        "They are not influenced by political factors.",
+        "They have different age, gender and culture.",
+        "They have the exact same needs and motivations."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "\"Contextual interpretations\" refer to techniques used to understand and interpret text in relation to:",
+      "options": [
+        "The speaker's appearance",
+        "Their surrounding context",
+        "The audience's gender",
+        "Cognitive biases",
+        "The speed of reading"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which tone is described as \"Professional, objective, and polished\"?",
+      "options": [
+        "Distant tone",
+        "Formal tone",
+        "Serious tone",
+        "Informinal tone",
+        "Encouraging tone"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "A text message typically utilizes which type of tone?",
+      "options": [
+        "Distant tone",
+        "Formal tone",
+        "Serious tone",
+        "Informal tone",
+        "Discouraging tone"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Which tone is \"Professional and solemn, conveys importance and gravity\"?",
+      "options": [
+        "Serious tone",
+        "Formal tone",
+        "Distant tone",
+        "Encouraging tone",
+        "Humorous tone"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Comedy writing and memes are examples of which tone?",
+      "options": [
+        "Friendly tone",
+        "Informal tone",
+        "Humorous tone",
+        "Distant tone",
+        "Encouraging tone"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "A customer service representative using a \"Warm, approachable and engaging\" voice is utilizing a:",
+      "options": [
+        "Encouraging tone",
+        "Formal tone",
+        "Humorous tone",
+        "Friendly tone",
+        "Distant tone"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Which tone creates a sense of separation and is \"Impersonal and detached\"?",
+      "options": [
+        "Serious tone",
+        "Formal tone",
+        "Discouraging tone",
+        "Distant tone",
+        "Informal tone"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "A motivational speech aiming to inspire hope and confidence uses an:",
+      "options": [
+        "Encouraging tone",
+        "Friendly tone",
+        "Humorous tone",
+        "Informal tone",
+        "Distant tone"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "A preconceived idea that influences our thinking and action, resulting in unfair judgement, is called:",
+      "options": [
+        "A stereotype",
+        "An assumption",
+        "A tone",
+        "A bias",
+        "An inference"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Buying a product just because it is popular without considering its value is an example of:",
+      "options": [
+        "Social bias",
+        "Cognitive bias",
+        "Conformation bias",
+        "Anchoring bias",
+        "Implicit assumption"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Prejudices that influence our understanding about people based on their social identity is known as:",
+      "options": [
+        "Anchoring bias",
+        "Cognitive bias",
+        "Social bias",
+        "Conformation bias",
+        "Cultural assumption"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "\"Focusing on information that supports your belief\" describes which bias?",
+      "options": [
+        "Anchoring bias",
+        "Social bias",
+        "Cognitive bias",
+        "Conformation bias",
+        "Personal assumption"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Relying too much on the 1st piece of information (like buying a shirt just because it was marked down from its original price) is an example of:",
+      "options": [
+        "Social bias",
+        "Conformation bias",
+        "Cognitive bias",
+        "Explicit assumption",
+        "Anchoring bias"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "question": "Which of the following is a recommended strategy to avoid biases?",
+      "options": [
+        "Rely on personal feelings",
+        "Make quick judgements to save time",
+        "Avoid checking the source of information",
+        "Be open minded and accept that you are wrong",
+        "Form opinions before collecting complete information"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "To avoid biases, you should use facts instead of:",
+      "options": [
+        "Logic",
+        "Evidences",
+        "Feelings",
+        "Reliable sources",
+        "Complete information"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "A generalized, fixed or oversimplified belief about a group of people that may be positive or negative is called a:",
+      "options": [
+        "Bias",
+        "Stereotype",
+        "Concept",
+        "Context",
+        "Phonation"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "The statement \"All scientists are genius\" is provided in the text as an example of a:",
+      "options": [
+        "Negative stereotype",
+        "Negative bias",
+        "Positive stereotype",
+        "Cognitive bias",
+        "Theoretical assumption"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "The statement \"Males are stronger. Females are weak.\" is an example of which specific type of stereotype?",
+      "options": [
+        "Age stereotype",
+        "Religious stereotype",
+        "Nationality stereotype",
+        "Sexual stereotype",
+        "Racial stereotype"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Believing that \"Elder people are weak\" represents an:",
+      "options": [
+        "Age stereotype",
+        "Gender stereotype",
+        "Racial stereotype",
+        "Nationality stereotype",
+        "Positive stereotype"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "According to the text, how can one challenge stereotypes?",
+      "options": [
+        "By using generalized language",
+        "By keeping an open mind",
+        "By speaking up when you hear or see stereotyping",
+        "By judging people based on appearance",
+        "By relying on implicit assumptions"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Using inclusive language helps to avoid stereotypes by avoiding:",
+      "options": [
+        "Formal tone",
+        "Generalize language",
+        "Specific details",
+        "Complex text",
+        "Mental images"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Beliefs or ideas we accept as true without any proof or evidence are called:",
+      "options": [
+        "Inferences",
+        "Stereotypes",
+        "Biases",
+        "Assumptions",
+        "Facts"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Unconscious assumptions that influence our thinking or idea are known as:",
+      "options": [
+        "Explicit Assumptions",
+        "Personal Assumptions",
+        "Implicit Assumptions",
+        "Cultural Assumptions",
+        "Theoretical Assumptions"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Assuming that students must pass a test to graduate is an example of an:",
+      "options": [
+        "Implicit Assumption",
+        "Explicit Assumption",
+        "Personal Assumption",
+        "Cognitive bias",
+        "Conceptual Assumption"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "The belief that \"all Asians eat rice daily\" is an example of a:",
+      "options": [
+        "Cultural Assumption",
+        "Theoretical Assumption",
+        "Personal Assumption",
+        "Implicit Assumption",
+        "Positive Stereotype"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "\"Assuming that health means only physical wellness\" represents which type of assumption?",
+      "options": [
+        "Cultural Assumption",
+        "Theoretical Assumption",
+        "Conceptual Assumption",
+        "Explicit Assumption",
+        "Personal Assumption"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Logical conclusions drawn from observations, facts, or evidences rather than direct statements are called:",
+      "options": [
+        "Biases",
+        "Assumptions",
+        "Inferences",
+        "Stereotypes",
+        "Tones"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Seeing dark clouds and concluding it is about to rain is an example of making a/an:",
+      "options": [
+        "Explicit assumption",
+        "Cultural assumption",
+        "Cognitive bias",
+        "Inference",
+        "Conformation bias"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "The process of looking at a series of written symbols and getting meaning from them is defined as:",
+      "options": [
+        "Listening",
+        "Reading",
+        "Comprehension",
+        "Visualizing",
+        "Skimming"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which of the following is a characteristic of Passive Reading?",
+      "options": [
+        "Critical thinking and analysis",
+        "Engaged and focused",
+        "Takes notes and summarizes",
+        "Seeks for completion or entertainment",
+        "Retains the information"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "A reader who takes notes, summarizes, and retains information is practicing:",
+      "options": [
+        "Passive reading",
+        "Active reading",
+        "Extensive reading",
+        "Scanning",
+        "Skimming"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Reading a textbook is given as an example of:",
+      "options": [
+        "Extensive Reading",
+        "Intensive Reading",
+        "Skimming",
+        "Scanning",
+        "Passive Reading"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which of the following is a key characteristic of Extensive Reading?",
+      "options": [
+        "Reading small quantities of text",
+        "Focus on understanding author's intent, tone and style",
+        "Improves reading fluency and speed",
+        "Used strictly for finding specific information",
+        "Used for writing skills improvement"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Reading a novel primarily for pleasure or general understanding is an example of:",
+      "options": [
+        "Intensive Reading",
+        "Extensive Reading",
+        "Critical Reading",
+        "Skimming",
+        "Scanning"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "\"Reading with curious and questioning mind, thinking deeply and making your own judgement\" defines:",
+      "options": [
+        "Passive Reading",
+        "Skimming",
+        "Scanning",
+        "Critical reading",
+        "Extensive reading"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "In the SQ4R Reading technique, what does the 'S' stand for?",
+      "options": [
+        "Skim",
+        "Scan",
+        "Survey",
+        "Summarize",
+        "Synthesize"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Formulating questions from headings and subheadings occurs during which step of SQ4R?",
+      "options": [
+        "Survey",
+        "Question",
+        "Read",
+        "Recite",
+        "Review"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "During the \"Recite\" step of the SQ4R method, a reader should:",
+      "options": [
+        "Look over titles and headings",
+        "Read the text carefully to find answers",
+        "Summarize the main idea of text into your own words",
+        "Write down the key points of text",
+        "Review the text by re-reading it"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which step in the SQ4R method involves writing down the key points of the text?",
+      "options": [
+        "Question",
+        "Read",
+        "Recite",
+        "Record",
+        "Review"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Reading a text quickly to get general information is called:",
+      "options": [
+        "Scanning",
+        "Intensive reading",
+        "Skimming",
+        "Active reading",
+        "Reviewing"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which of the following is a \"How to skim\" technique?",
+      "options": [
+        "Read in chunks",
+        "Skip irrelevant information entirely to find a specific keyword",
+        "Read first sentence of each paragraph",
+        "Highlight important specific information",
+        "Summarize the main idea of text into your own words"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Reading a text quickly to get specific information (like looking at a timetable) is called:",
+      "options": [
+        "Skimming",
+        "Scanning",
+        "Intensive reading",
+        "Critical reading",
+        "Surveying"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which of the following is an advantage of Scanning?",
+      "options": [
+        "Enhances retention of the entire text",
+        "Saves time by ignoring general headings",
+        "Improves research skills",
+        "Enhances cultural awareness",
+        "Allows one to read horizontally as well as vertically"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "\"Reading horizontally as well as vertically\" is a technique recommended for:",
+      "options": [
+        "Scanning",
+        "Skimming",
+        "Intensive Reading",
+        "Extensive Reading",
+        "SQ4R Reading"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "The process of receiving, interpreting and giving reaction to a message from the speaker is called:",
+      "options": [
+        "Comprehension",
+        "Reading",
+        "Listening",
+        "Scanning",
+        "Feedback"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Hearing words without paying attention or focusing on the message describes:",
+      "options": [
+        "Intensive listening",
+        "Extensive listening",
+        "Active/focused listening",
+        "Passive listening",
+        "Critical listening"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Asking clarifying questions and giving good feedback are characteristics of:",
+      "options": [
+        "Passive listening",
+        "Extensive listening",
+        "Active/focused listening",
+        "Distracted listening",
+        "Implicit listening"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which type of listening is used for a specific purpose or goal, often in classrooms?",
+      "options": [
+        "Extensive listening",
+        "Passive listening",
+        "Intensive listening",
+        "Unfocused listening",
+        "Skimming"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Listening to a full English movie for enjoyment and general understanding is an example of:",
+      "options": [
+        "Active listening",
+        "Intensive listening",
+        "Extensive listening",
+        "Passive listening",
+        "Critical reading"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which of the following is listed as a factor affecting listening (listening barrier)?",
+      "options": [
+        "Engaging with the text",
+        "Information overload",
+        "Asking questions",
+        "Using positive body language",
+        "Maintaining eye contact"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "How can emotional stress impact communication?",
+      "options": [
+        "It improves reading fluency",
+        "It can affect the listening process",
+        "It enhances critical thinking",
+        "It creates a formal tone",
+        "It causes confirmation bias"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Nodding, smiling, and moving to show you are engaged in listening are examples of:",
+      "options": [
+        "Cognitive bias",
+        "Providing negative feedback",
+        "Using positive body language",
+        "An implicit assumption",
+        "Skimming"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "To overcome listening barriers, what should you do regarding personal assumptions or biases?",
+      "options": [
+        "Embrace them to understand the speaker",
+        "Use them to form quick judgements",
+        "Avoid them because they affect understanding",
+        "Speak up and share them immediately",
+        "Use them to evaluate the speaker's tone"
+      ],
+      "correctAnswer": 2
+    }
+  ]

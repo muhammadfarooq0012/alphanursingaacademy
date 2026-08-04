@@ -12,14 +12,7 @@
       "icon": "fa-flag",
       "color": "#2ecc71",
       "folder": "Ideology & PAK Study",
-      "chapters": [
-        "chapter01",
-        "chapter02",
-        "chapter03",
-        "chapter04",
-        "chapter05",
-        "chapter06"
-      ]
+      "chapters": []
     },
     {
       "name": "B.Science",
@@ -40,7 +33,7 @@
       "icon": "fa-book-open",
       "color": "#e67e22",
       "folder": "English",
-      "chapters": []
+      "chapters": ["chapter01", "chapter02", "chapter03"]
     },
     {
       "name": "FON 1",

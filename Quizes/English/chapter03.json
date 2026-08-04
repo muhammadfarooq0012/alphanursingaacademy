@@ -1,0 +1,970 @@
+[
+    {
+      "question": "How is \"Communication\" defined according to the text?",
+      "options": [
+        "The process of organizing content into a logical manner",
+        "Exchange of information, message, ideas or thoughts between two or more people",
+        "Unstructured, unofficial exchange of personal news",
+        "Using verbal techniques to persuade an audience",
+        "Connection with others to achieve specific interests"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which principle of communication emphasizes using clear and concise language for better understanding?",
+      "options": [
+        "Correctness",
+        "Coherence",
+        "Clarity",
+        "Courteousness",
+        "Conciseness"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "If a speaker ensures their message is brief and strictly to the point, which of the 5C's are they practicing?",
+      "options": [
+        "Coherence",
+        "Conciseness",
+        "Courteousness",
+        "Correctness",
+        "Clarity"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "The \"Correctness\" principle in communication ensures that:",
+      "options": [
+        "The message is logical and well-organized",
+        "Respect and politeness are shown",
+        "The language used is gender-neutral",
+        "The information is true and accurate",
+        "The communication channel is secure"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Being logical, consistent, and well-organized in communication refers to which principle?",
+      "options": [
+        "Clarity",
+        "Conciseness",
+        "Coherence",
+        "Courteousness",
+        "Correctness"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "In the communication process, what induces a person to communicate?",
+      "options": [
+        "Sender",
+        "Feedback",
+        "Channel",
+        "Stimulus",
+        "Message"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Which component is responsible for decoding and translating the message?",
+      "options": [
+        "Sender",
+        "Receiver",
+        "Channel",
+        "Stimulus",
+        "Feedback"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "The medium which transmits the message is called the:",
+      "options": [
+        "Channel",
+        "Receiver",
+        "Feedback",
+        "Sender",
+        "Stimulus"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "What is \"Feedback\" in the context of communication elements?",
+      "options": [
+        "The information being conveyed",
+        "The medium of transmission",
+        "The response or reaction of the receiver",
+        "The prejudice affecting understanding",
+        "The encoding of the message"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "External factors that divert attention from the conversation are known as:",
+      "options": [
+        "Assumptions",
+        "Stereotypes",
+        "Distractions",
+        "Biases",
+        "Stimuli"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Prejudiced thoughts that affect your understanding act as which type of barrier?",
+      "options": [
+        "Stereotypes",
+        "Language difference",
+        "Distractions",
+        "Biases",
+        "Assumptions"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Believing something without verifying facts is categorized as:",
+      "options": [
+        "Stereotypes",
+        "Biases",
+        "Culture difference",
+        "Distractions",
+        "Assumptions"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "question": "Oversimplified and inaccurate views of others refer to:",
+      "options": [
+        "Culture differences",
+        "Stereotypes",
+        "Distractions",
+        "Biases",
+        "Assumptions"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Exchange of information through spoken language or face-to-face conversation is defined as:",
+      "options": [
+        "Non-verbal communication",
+        "Intrapersonal communication",
+        "Oral/Verbal communication",
+        "Written communication",
+        "Implicit communication"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which of the following is an example of Non-Verbal communication?",
+      "options": [
+        "Phone calls",
+        "Business meetings",
+        "Presentations",
+        "Tone of voice",
+        "Social media chat"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "A key characteristic of Non-Verbal communication is that its meaning is often:",
+      "options": [
+        "Explicit",
+        "Language-based",
+        "Linear",
+        "Documented",
+        "Implicit"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "question": "Verbal communication is typically ________, while non-verbal communication is often ________.",
+      "options": [
+        "Unintentional, Intentional",
+        "Intentional, Unintentional",
+        "Multi-channel, Linear",
+        "Internal, External",
+        "Implicit, Explicit"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which communication type is described as \"Linear (sender-receiver)\"?",
+      "options": [
+        "Non-verbal communication",
+        "Intrapersonal communication",
+        "Interpersonal communication",
+        "Verbal communication",
+        "Informal communication"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Communication within oneself is called:",
+      "options": [
+        "Interpersonal communication",
+        "Informal communication",
+        "Intrapersonal communication",
+        "Non-verbal communication",
+        "Formal communication"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is the primary purpose of Interpersonal communication?",
+      "options": [
+        "Self-reflection",
+        "Personal growth",
+        "Building relationships and conveying ideas",
+        "Internal meditation",
+        "Maintaining organizational hierarchies"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Daydreaming and self-talking are examples of:",
+      "options": [
+        "Informal communication",
+        "Interpersonal communication",
+        "Non-verbal communication",
+        "Intrapersonal communication",
+        "Formal communication"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "A unique characteristic of Intrapersonal communication is that it:",
+      "options": [
+        "Involves external feedback",
+        "Is interactive",
+        "Is private and involves no external feedback",
+        "Follows organizational protocols",
+        "Is always documented"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Structured, official, and professional exchange of information is called:",
+      "options": [
+        "Interpersonal communication",
+        "Formal communication",
+        "Informal communication",
+        "Verbal communication",
+        "Network communication"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which of the following is a characteristic of Informal Communication?",
+      "options": [
+        "Hierarchical structure",
+        "Standardized language and tone",
+        "Follows organizational protocols",
+        "Unofficial channels",
+        "Documented (recorded)"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Business meetings, reports, and emails are primarily examples of:",
+      "options": [
+        "Informal communication",
+        "Formal communication",
+        "Intrapersonal communication",
+        "Non-verbal communication",
+        "Gossip chains"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "The process of organizing content into a clear and logical manner to facilitate effective communication is called:",
+      "options": [
+        "Networking",
+        "Presentation formatting",
+        "Structuring document",
+        "Voice modulation",
+        "Professional writing"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "In structuring a document, which of the following is a method used for the Introduction?",
+      "options": [
+        "Summarize the main points",
+        "Start with a hook",
+        "Provide a conclusion sentence",
+        "Apply consistent spacing",
+        "Leave a lasting impression"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "The purpose of the \"Body\" in a structured document is to:",
+      "options": [
+        "Provide context and background information",
+        "Define key terms",
+        "Present the main idea in a clear and logical way",
+        "Leave a lasting impression",
+        "End with a positive note"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Applying consistent font, spacing, and margin styles throughout a document refers to:",
+      "options": [
+        "Formatting",
+        "Structuring",
+        "Introducing",
+        "Concluding",
+        "Summarizing"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Communication that involves sensitivity, respect, and clarity by avoiding stereotypes and bias is called:",
+      "options": [
+        "Cross Cultural Communication",
+        "Intrapersonal Communication",
+        "Inclusive Communication",
+        "Network Communication",
+        "Probability Chain Communication"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Using \"they\" and \"them\" instead of \"he\" or \"she\" is an example of:",
+      "options": [
+        "Cross cultural communication",
+        "Gender neutral language",
+        "Informal communication",
+        "Conversational skills",
+        "Formatting"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Exchange of information between individuals from different cultural backgrounds is known as:",
+      "options": [
+        "Inclusive communication",
+        "Professional writing",
+        "Cross cultural communication",
+        "Small talk",
+        "Interpersonal communication"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "The act of communicating information to a group in a structured and intentional manner to engage, persuade, or inform is called:",
+      "options": [
+        "Informal communication",
+        "Networking",
+        "Public speaking",
+        "Small talk",
+        "Voice modulation"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which of the following is a recommended tip for building confidence in public speaking?",
+      "options": [
+        "Avoid using body language",
+        "Practice in front of a mirror",
+        "Speak as fast as possible",
+        "Use highly complex language",
+        "Keep a monotonous tone"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which of the following is NOT one of the 4P's of Public Speaking?",
+      "options": [
+        "Prepare",
+        "Present",
+        "Persuade",
+        "Pitch",
+        "Pause"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "In the 4P's of Public Speaking, \"Convincing your audience with strong arguments\" describes:",
+      "options": [
+        "Prepare",
+        "Persuade",
+        "Present",
+        "Pause",
+        "Pitch"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Fear or anxiety of performing in front of an audience is known as:",
+      "options": [
+        "Cognitive bias",
+        "Cross cultural barrier",
+        "Stage fright",
+        "Stereotype threat",
+        "Intrapersonal anxiety"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which of the following is listed as a physiological symptom of stage fright?",
+      "options": [
+        "Lack of preparation",
+        "Fear of making mistakes",
+        "Rapid heart beat",
+        "Pressure to perform perfectly",
+        "Belief in oneself"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "What is a common cause of stage fright?",
+      "options": [
+        "Over-preparation",
+        "Lack of preparation",
+        "Focus on the present moment",
+        "Using simple language",
+        "Believing in yourself"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "To overcome stage fright, the text suggests that a speaker should:",
+      "options": [
+        "Focus on their nervousness",
+        "Focus on the past",
+        "Focus on the message",
+        "Avoid thorough preparation",
+        "Expect to perform perfectly"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Changing your voice to convey information, message, idea or thought when speaking is called:",
+      "options": [
+        "Stage fright",
+        "Public speaking",
+        "Voice modulation",
+        "Networking",
+        "Articulation"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Variation in the speed of voice is specifically referred to as:",
+      "options": [
+        "Tone modulation",
+        "Volume modulation",
+        "Pace modulation",
+        "Pitch modulation",
+        "Congruence modulation"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Among the 5P's of Voice Modulation, which one refers to \"the physical distance between you and your audience\"?",
+      "options": [
+        "Pitch",
+        "Pace",
+        "Personality",
+        "Proximity",
+        "Placement"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "\"The direction of your voice\" relates to which of the 5P's of Voice Modulation?",
+      "options": [
+        "Pace",
+        "Proximity",
+        "Placement",
+        "Personality",
+        "Pitch"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Non-verbal communication involving physical movements, gestures, and facial expressions is called:",
+      "options": [
+        "Voice modulation",
+        "Body language",
+        "Intrapersonal communication",
+        "Implicit modulation",
+        "Oral presentation"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Which type of body language involves hand movements and arm movements?",
+      "options": [
+        "Facial Body Language",
+        "Postural Body Language",
+        "Touch Body Language",
+        "Gestural Body Language",
+        "Proximity Body Language"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Postural Body Language specifically involves:",
+      "options": [
+        "Eye contact and eye movements",
+        "Postures, stance, and body orientation",
+        "Physical distance and personal space",
+        "Hand movements and gestures",
+        "Physical contact and hugging"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Matching your body language with the words you are speaking falls under which of the 5C's of Body Language?",
+      "options": [
+        "Context",
+        "Clusters",
+        "Culture",
+        "Congruence",
+        "Consistency"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Recognizing that gestures can vary across different regions corresponds to which of the 5C's of Body Language?",
+      "options": [
+        "Clusters",
+        "Consistency",
+        "Congruence",
+        "Context",
+        "Culture"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "question": "\"Look for groups of body language gestures rather than relying on a single gesture\" describes:",
+      "options": [
+        "Congruence",
+        "Context",
+        "Clusters",
+        "Consistency",
+        "Culture"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "A communication process where a speaker shares information through verbal, visual, and auditory tools is a:",
+      "options": [
+        "Memo",
+        "Presentation",
+        "Networking event",
+        "Gossiping chain",
+        "Small talk"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Tools like slides, graphs, or images that support your message are referred to as:",
+      "options": [
+        "Content",
+        "Delivery",
+        "Visual Aids",
+        "Organization",
+        "Formatting"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which element of a good presentation involves \"the structure and sequence of your presentation\"?",
+      "options": [
+        "Delivery",
+        "Organization",
+        "Confidence",
+        "Content",
+        "Visual Aids"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "A presentation that \"focuses on key points, is brief and to the point\" possesses which quality?",
+      "options": [
+        "Organized",
+        "Interactive",
+        "Concise",
+        "Clear",
+        "Visual"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Encouraging audience participation and engagement makes a presentation:",
+      "options": [
+        "Interactive",
+        "Relevant",
+        "Concise",
+        "Well-rehearsed",
+        "Clear"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "A good presenter ensures \"Time management\" by:",
+      "options": [
+        "Using storytelling",
+        "Completing the presentation within the given time",
+        "Presenting ideas in a logical way",
+        "Using gestures and postures",
+        "Varying tone and pace"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "To engage an audience during a presentation, a speaker can use:",
+      "options": [
+        "Strict hierarchical structure",
+        "Monotonous tone",
+        "Storytelling and supporting evidence",
+        "Only verbal cues",
+        "Documented protocols"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which of the 5P's of Presentation involves researching, rehearsing, and refining delivery?",
+      "options": [
+        "Purpose",
+        "Plan",
+        "Prepare",
+        "Present",
+        "Perform"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "In the 5P's of Presentation, engaging, persuading, and leaving a lasting impression defines:",
+      "options": [
+        "Purpose",
+        "Plan",
+        "Prepare",
+        "Present",
+        "Perform"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "question": "When preparing a good presentation, \"gathering relevant information and data\" falls under:",
+      "options": [
+        "Content Creation",
+        "Visual Aids Design",
+        "Rehearsal and Refinement",
+        "Planning and Research",
+        "Delivery"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Designing clear, concise, and visually appealing slides is part of:",
+      "options": [
+        "Planning and Research",
+        "Content Creation",
+        "Visual Aids Design",
+        "Rehearsal and Refinement",
+        "Presentation Delivery"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "In organizing a presentation, where should you \"Introduce the topic and grab attention\"?",
+      "options": [
+        "Conclusion",
+        "Visual Aids",
+        "Body",
+        "Delivery",
+        "Introduction"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "question": "Providing a \"call to action\" and leaving a lasting impression typically happens in the:",
+      "options": [
+        "Introduction",
+        "Body",
+        "Visual aids selection",
+        "Preparation phase",
+        "Conclusion"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "question": "To ensure \"Clarity\" as a presentation strategy, one should:",
+      "options": [
+        "Start with a hook",
+        "Use storytelling",
+        "Use simple language",
+        "Use props and demos",
+        "Gather relevant data"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which presentation format is defined as a visual display of information in a concise and engaging manner, typically in a public setting?",
+      "options": [
+        "Oral presentation",
+        "Informal presentation",
+        "Poster presentation",
+        "Networking presentation",
+        "Extemporaneous presentation"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "An oral presentation style is described as ________, while a poster presentation style is described as ________.",
+      "options": [
+        "Static, Dynamic",
+        "Visual, Verbal",
+        "Dynamic, Static",
+        "Low pressure, High pressure",
+        "Flexible, Strict"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Which environment is typically associated with a Poster presentation?",
+      "options": [
+        "High pressure environment",
+        "Low pressure environment",
+        "Real-time audience interaction",
+        "Strict hierarchical structure",
+        "Time-limited schedule"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "A key feature of an Oral presentation is that it:",
+      "options": [
+        "Has flexible timing",
+        "Viewers can visit at their own pace",
+        "Lacks real-time audience feedback",
+        "Is time limited and has a strict schedule",
+        "Focuses solely on visual display"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Which type of presentation focuses primarily on the speaker's delivery?",
+      "options": [
+        "Poster presentation",
+        "Formal communication",
+        "Implicit communication",
+        "Oral presentation",
+        "Cluster chain"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "A communication network where rumors or personal news pass from one person to another is known as a:",
+      "options": [
+        "Cluster Chain",
+        "Gossip Chain",
+        "Single Strand Chain",
+        "Probability Chain",
+        "Formal Network"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "If information passes from a central person to multiple individuals, creating interconnected chains, it is a:",
+      "options": [
+        "Cluster Chain",
+        "Gossip Chain",
+        "Probability Chain",
+        "Single Strand Chain",
+        "Decision Memo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "A network where information passes from one person to another in a linear sequence is called a:",
+      "options": [
+        "Cluster Chain",
+        "Probability Chain",
+        "Gossip Chain",
+        "Single Strand Chain",
+        "Small Talk"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Casual, friendly talk about everyday topics (like sports or weather) to build rapport is called:",
+      "options": [
+        "Formal communication",
+        "Networking",
+        "Small Talk",
+        "Gossip Chain",
+        "Professional writing"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Connection and interaction with others to exchange information to achieve interests or goals is defined as:",
+      "options": [
+        "Networking",
+        "Small Talk",
+        "Intrapersonal communication",
+        "Conversational skills",
+        "Presentation"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Exchange of information between individuals through an inter-connected channel like the Internet is called:",
+      "options": [
+        "Networking",
+        "Interpersonal communication",
+        "Network communication",
+        "Probability Chain",
+        "Cluster Chain"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Clear, concise, and effective communication used in a professional setting is termed:",
+      "options": [
+        "Informal communication",
+        "Small talk",
+        "Structural document",
+        "Professional writing",
+        "Conversational skill"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "A memo that tells people what to do (e.g., new rules for attendance) is a/an:",
+      "options": [
+        "Policy Memo",
+        "Progress Memo",
+        "Instruction Memo",
+        "Decision Memo",
+        "Information Memo"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Explaining a new rule or dress code is best done using a/an:",
+      "options": [
+        "Information Memo",
+        "Request Memo",
+        "Progress Memo",
+        "Policy Memo",
+        "Decision Memo"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "A memo stating that a project is \"70% finished\" is an example of a:",
+      "options": [
+        "Progress Memo",
+        "Problem-Solution Memo",
+        "Decision Memo",
+        "Confirmation Memo",
+        "Policy Memo"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which business email type reports a problem or issue (e.g., a damaged product)?",
+      "options": [
+        "Inquiry Email",
+        "Complaint Email",
+        "Follow-up Email",
+        "Request Email",
+        "Reply/Response Email"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "An email asking for product prices is classified as an:",
+      "options": [
+        "Invitation Email",
+        "Complaint Email",
+        "Inquiry Email",
+        "Confirmation Email",
+        "Follow-up Email"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "Following up after a job interview requires which type of email?",
+      "options": [
+        "Follow-up Email",
+        "Thank You Email",
+        "Request Email",
+        "Confirmation Email",
+        "Inquiry Email"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "A report that explains a problem and suggests a solution (e.g., low employee performance) is a/an:",
+      "options": [
+        "Informational Report",
+        "Analytical Report",
+        "Progress Report",
+        "Incident Report",
+        "Feasibility Report"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "question": "Describing a workplace accident requires which type of report?",
+      "options": [
+        "Research Report",
+        "Feasibility Report",
+        "Annual Report",
+        "Recommendation Report",
+        "Incident Report"
+      ],
+      "correctAnswer": 4
+    },
+    {
+      "question": "Checking if a plan or project (like opening a new branch) is possible is the purpose of a/an:",
+      "options": [
+        "Recommendation Report",
+        "Informational Report",
+        "Feasibility Report",
+        "Annual Report",
+        "Progress Report"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "A report that gives advice or suggests the best option (like new software) is a:",
+      "options": [
+        "Recommendation Report",
+        "Progress Report",
+        "Incident Report",
+        "Feasibility Report",
+        "Analytical Report"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "Which of the following is listed as a benefit of letters, memos, business emails, and reports?",
+      "options": [
+        "They rely on implicit meaning",
+        "They utilize non-language based cues",
+        "They provide a high-pressure environment",
+        "They keep a written record",
+        "They create rumors and gossip"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "question": "Professional writing is important because it:",
+      "options": [
+        "Encourages stereotyping",
+        "Uses unstructured formatting",
+        "Relies on visual body language",
+        "Decreases the need for network communication",
+        "Reduces misunderstandings"
+      ],
+      "correctAnswer": 4
+    }
+  ]

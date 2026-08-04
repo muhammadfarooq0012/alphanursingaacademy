@@ -1,27 +1,772 @@
 [
   {
-    "question": "Which is the correct spelling?",
-    "options": ["Accomodation", "Accommodation", "Acomodation", "Accommadation"],
-    "correctAnswer": 1
-  },
-  {
-    "question": "Choose the correct sentence:",
-    "options": ["She go to school daily.", "She goes to school daily.", "She going to school daily.", "She gone to school daily."],
-    "correctAnswer": 1
-  },
-  {
-    "question": "The synonym of 'Happy' is:",
-    "options": ["Sad", "Angry", "Joyful", "Tired"],
+    "question": "According to the text, which strategy involves guessing a word's meaning from its surrounding text?",
+    "options": [
+      "Active reading",
+      "Using mnemonics",
+      "Learning from context",
+      "Repeating and reviewing",
+      "Engaging in conversation"
+    ],
     "correctAnswer": 2
   },
   {
-    "question": "The antonym of 'Ancient' is:",
-    "options": ["Old", "Modern", "Historic", "Classic"],
+    "question": "What is \"Contextual visage\" primarily concerned with?",
+    "options": [
+      "Using flashcards to memorize word origins",
+      "Using context clues to determine the meaning of an unfamiliar word or phrase",
+      "Learning grammar rules through communicative functions",
+      "Exaggerating expressions for literary effect",
+      "Writing down new words in a notebook"
+    ],
     "correctAnswer": 1
   },
   {
-    "question": "An 'autobiography' is:",
-    "options": ["A story about animals", "A self-written life story", "A fictional novel", "A poetry collection"],
+    "question": "Which type of grammar specifically focuses on teaching and learning the functions of language in communication?",
+    "options": [
+      "Traditional grammar",
+      "Descriptive grammar",
+      "Functional grammar",
+      "Communicative grammar",
+      "Structural grammar"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Communicative grammar focuses on:",
+    "options": [
+      "The formal aspects and structures of language",
+      "Adding prefixes and suffixes to root words",
+      "Teaching rules of subject-verb agreement",
+      "Using language to communicate effectively in real life",
+      "The rise and fall of voice pitch during speaking"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "How is traditional grammar defined in the notes?",
+    "options": [
+      "A system that ignores the structure of language",
+      "Grammar that focuses on using language in real life",
+      "Grammar focusing on rules, structures, and formal aspects of language",
+      "Grammar focusing entirely on vocabulary building",
+      "Grammar that teaches proper pronunciation and intonation"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What does the idiomatic expression \"Burn midnight oil\" mean?",
+    "options": [
+      "To feel ill",
+      "To work late",
+      "To start a fire accidentally",
+      "To reveal a secret",
+      "To do something difficult"
+    ],
     "correctAnswer": 1
+  },
+  {
+    "question": "If someone decides to \"Bite the bullet,\" what are they doing conceptually?",
+    "options": [
+      "Hoping for the best",
+      "Giving up on a task",
+      "Doing something exactly right",
+      "Doing something difficult",
+      "Feeling nervous"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which idiom perfectly describes a situation where something bad eventually turns into something good?",
+    "options": [
+      "A blessing disguise",
+      "Kick the bucket",
+      "The early bird catches the worm",
+      "Cost an arm and a leg",
+      "Hit the nail on the head"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What does it mean if someone tells you not to \"Cry over spilled milk\"?",
+    "options": [
+      "Stop being nervous about an upcoming event",
+      "Don't worry about something that you can't change",
+      "Make a decision because the ball is in your court",
+      "Refrain from revealing a secret by mistake",
+      "Do not give up easily"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What defines figurative language?",
+    "options": [
+      "Expressions that always carry literal meaning",
+      "A grammatical rule for matching subjects and verbs",
+      "Expressing ideas creatively by comparing things, exaggerating, or using non-literal expressions",
+      "Shortening a longer word to form a new one",
+      "The order and arrangement of clauses in a sentence"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "\"Life is a journey\" is an example of which type of figurative language?",
+    "options": [
+      "Simile",
+      "Metaphor",
+      "Personification",
+      "Idiom",
+      "Alliteration"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following is a key structural difference between a simile and a metaphor?",
+    "options": [
+      "Metaphors give human qualities to objects, similes do not",
+      "Similes use \"like\" or \"as\" for comparison, while metaphors make direct comparisons without them",
+      "Similes are literal, metaphors are figurative",
+      "Metaphors use prefixes, similes use suffixes",
+      "Similes compare similar things, metaphors compare identical things"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "\"The tree was dancing in the air\" logically demonstrates:",
+    "options": [
+      "A misplaced modifier",
+      "A simile",
+      "Front clipping",
+      "Personification",
+      "Back formation"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "According to subject-verb agreement rules, if singular subjects are connected by \"or\" or \"nor\", the verb must be:",
+    "options": [
+      "Plural",
+      "Infinite",
+      "Singular",
+      "Gerund",
+      "Auxiliary"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which sentence correctly applies the rule for indefinite pronouns (everybody, everyone, anyone)?",
+    "options": [
+      "Everybody are invited.",
+      "Everyone have been enjoying.",
+      "Anyone are welcome.",
+      "Everybody is invited.",
+      "Everyone were enjoying."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "How should verbs be used with singular nouns that have a plural form, such as \"physics\" or \"news\"?",
+    "options": [
+      "They take plural verbs exclusively.",
+      "They take singular verbs.",
+      "They depend on the surrounding prepositional phrase.",
+      "They take modal verbs only.",
+      "They require an infinite verb."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "\"Ten dollars ________ a high price to pay.\" Based on the rules for sums of money, which verb fits best?",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "have been",
+      "am"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What determines the verb form when the subject is a collective noun like \"team\" or \"committee\"?",
+    "options": [
+      "It is always plural.",
+      "It is always singular.",
+      "It depends entirely on the context.",
+      "It takes an infinite verb.",
+      "It is dictated by the first preposition in the sentence."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which rule correctly applies to uncountable nouns like \"water\" or \"education\"?",
+    "options": [
+      "They take plural verbs.",
+      "They take singular verbs.",
+      "They do not take verbs.",
+      "They take reflexive pronouns.",
+      "They require correlative conjunctions."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "When the subject is a fraction (e.g., \"One-half of the cake\"), what determines if the verb is singular or plural?",
+    "options": [
+      "The fraction itself always makes it singular.",
+      "The fraction itself always makes it plural.",
+      "The verb depends on the context of the sentence.",
+      "Fractions do not take verbs.",
+      "The tense of the sentence dictates the verb number."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the correct grammatical structure for the Negative Present Indefinite tense?",
+    "options": [
+      "Sub+is/am/are+not+1stv+ing+obj+etc.",
+      "Sub+do/does+not+1stv+obj+etc.",
+      "Sub+did+not+1stv+obj+etc.",
+      "Sub+has/have+not+3rd+obj+etc.",
+      "Sub+will/shall+not+1stv+obj+etc."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which tense uses the structure: Sub+had+been+1stv+ing+obj+since/for?",
+    "options": [
+      "Past Continuous",
+      "Present Perfect Continuous",
+      "Past Perfect Continuous",
+      "Future Perfect Continuous",
+      "Past Perfect"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "\"Will/shall+sub+have been+3rdv+obj+etc+?\" is the interrogative structure for which tense?",
+    "options": [
+      "Future Indefinite",
+      "Future Continuous",
+      "Future Perfect Continuous",
+      "Future Perfect",
+      "Present Perfect"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The affirmative structure \"Sub+has/have+3rdv+obj+etc.\" represents the:",
+    "options": [
+      "Present Indefinite",
+      "Present Perfect",
+      "Past Perfect",
+      "Present Continuous",
+      "Past Indefinite"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A group of words that expresses a complete thought and has a subject and a verb is called a:",
+    "options": [
+      "Phrase",
+      "Fragment Sentence",
+      "Complete Sentence",
+      "Dangling Modifier",
+      "Dependent Clause"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "\"Because I was late.\" is an example of what specific type of fragment?",
+    "options": [
+      "Missing Subject Fragment",
+      "Dependent Clause Fragment",
+      "Phrase Fragment",
+      "Missing Verb Fragment",
+      "Run-on Sentence"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is conceptually wrong with a \"Phrase Fragment\" like \"In the park.\"?",
+    "options": [
+      "It lacks subordinating conjunctions.",
+      "It contains a comma splice.",
+      "It lacks either a subject or a verb, or both, and does not have a complete thought.",
+      "It joins two independent clauses incorrectly.",
+      "It starts with a reflexive pronoun."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A sentence that occurs when two or more independent clauses are joined incorrectly without proper punctuation or a conjunction is called a:",
+    "options": [
+      "Compound-complex sentence",
+      "RUN-ON Sentence",
+      "Missing Verb Fragment",
+      "Fused Sentence only",
+      "Comma Splice only"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What distinguishes a \"Comma Splice\" from a \"Fused Sentence\"?",
+    "options": [
+      "A comma splice uses no punctuation; a fused sentence uses a full stop.",
+      "A fused sentence joins clauses with a comma; a comma splice joins them with a semicolon.",
+      "A comma splice joins two independent clauses using a comma; a fused sentence joins them without any punctuation or conjunction.",
+      "A comma splice uses coordinating conjunctions; a fused sentence uses subordinating conjunctions.",
+      "There is no difference; they are identical types of fragments."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which of the following is NOT listed as a way to avoid a RUN-ON sentence?",
+    "options": [
+      "Using a full stop",
+      "Using a comma and a coordinating conjunction",
+      "Using a semicolon",
+      "Using an exclamation mark mid-sentence",
+      "Using a subordinating conjunction"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A modifier that is placed too far from the word it intends to modify, causing confusion, is specifically known as a:",
+    "options": [
+      "Dangling Modifier",
+      "Misplaced Modifier",
+      "Phrase Fragment",
+      "Prepositional Phrase Modifier",
+      "Verb Phrase Modifier"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Identify the logical issue with a \"Dangling Modifier\":",
+    "options": [
+      "It is placed too far from the modified word.",
+      "It is not clearly attached to the word it intends to modify.",
+      "It lacks a subject completely.",
+      "It modifies an interjection.",
+      "It uses incorrect verb tenses."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "In the sentence \"He runs quickly,\" what type of modifier is \"quickly\"?",
+    "options": [
+      "Noun Phrase Modifier",
+      "Prepositional Phrase Modifier",
+      "Adjective Modifier",
+      "Adverb Modifier",
+      "Verb Phrase Modifier"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "According to the notes, how many total parts of speech (word classes) are there?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "12"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Nouns that cannot be perceived through the five senses and lack physical existence (e.g., love, fear) are categorized as:",
+    "options": [
+      "Concrete Nouns",
+      "Material Nouns",
+      "Proper Nouns",
+      "Abstract Nouns",
+      "Collective Nouns"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "\"Each, every, either, neither\" are examples of which type of pronoun?",
+    "options": [
+      "Reciprocal Pronouns",
+      "Distributive Pronouns",
+      "Indefinite Pronouns",
+      "Demonstrative Pronouns",
+      "Reflexive Pronouns"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which pronouns connect a dependent clause to a noun (e.g., who, which, that)?",
+    "options": [
+      "Relative Pronouns",
+      "Interrogative Pronouns",
+      "Possessive Pronouns",
+      "Personal Pronouns",
+      "Reciprocal Pronouns"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What defines a Transitive Verb logically?",
+    "options": [
+      "It does not take an object directly to complete its meaning.",
+      "It helps another verb make a complete sentence.",
+      "It connects the subject to additional information.",
+      "It takes an object directly to complete its meaning.",
+      "It expresses a complete thought without a subject."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A verb that follows the standard pattern of adding '-ed' to form past tense and past participle is called a:",
+    "options": [
+      "Finite Verb",
+      "Infinite Verb",
+      "Regular Verb",
+      "Irregular Verb",
+      "Linking Verb"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "An infinite verb typically ends in \"ing\" or \"ed\", does not express a complete thought, and notably lacks a:",
+    "options": [
+      "Prefix",
+      "Object",
+      "Suffix",
+      "Conjunction",
+      "Subject"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "Which adverb type describes when something is done (e.g., yesterday, soon)?",
+    "options": [
+      "Adverb of manners",
+      "Adverb of place",
+      "Adverb of frequency",
+      "Adverb of time",
+      "Adverb of degree"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which preposition should be used when indicating \"Movement inside something\"?",
+    "options": [
+      "Onto",
+      "Into",
+      "Through",
+      "Across",
+      "Over"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Based on the rules of preposition, which preposition is correct for specific dates (e.g., my birthday)?",
+    "options": [
+      "At",
+      "In",
+      "On",
+      "By",
+      "With"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "\"FANBOYS\" is an acronym used to remember which type of conjunctions?",
+    "options": [
+      "Subordinating Conjunctions",
+      "Correlative Conjunctions",
+      "Coordinating Conjunctions",
+      "Interrogative Conjunctions",
+      "Declarative Conjunctions"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "\"Both...and\" and \"not only...but also\" are examples of:",
+    "options": [
+      "Correlative Conjunctions",
+      "Interjections",
+      "Subordinating Conjunctions",
+      "Definite Articles",
+      "Proper Nouns"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A word that expresses emotions or feelings (e.g., Wow, oh, alas) is an:",
+    "options": [
+      "Article",
+      "Conjunction",
+      "Adverb",
+      "Interjection",
+      "Abstract Noun"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "When using indefinite articles, \"An\" is specifically used before words starting with a:",
+    "options": [
+      "Consonant sound",
+      "Prefix",
+      "Proper noun",
+      "Vowel sound",
+      "Collective noun"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "According to the rules for using \"The\", which of the following categories requires this definite article?",
+    "options": [
+      "Proper nouns (in general context)",
+      "Abstract nouns (in general context)",
+      "Comparative degrees of adjectives",
+      "Mountain Ranges",
+      "Single Country Names"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which newspaper name is explicitly mentioned as an exception to taking the article \"The\"?",
+    "options": [
+      "The New York Times",
+      "The Washington Post",
+      "Dawn",
+      "The Guardian",
+      "The Tribune"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The definite article \"The\" is NOT used before:",
+    "options": [
+      "Directions",
+      "Musical Instruments",
+      "The comparative degree of adjectives",
+      "Superlative degree of adjectives",
+      "Names of Seasons"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What differentiates a clause from a phrase?",
+    "options": [
+      "A phrase contains a subject and a verb; a clause does not.",
+      "A clause contains a subject and a verb; a phrase does not.",
+      "A phrase is an independent thought; a clause is always dependent.",
+      "A phrase uses gerunds; a clause uses auxiliary verbs.",
+      "There is no structural difference."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The doer of an action is called the:",
+    "options": [
+      "Predicate",
+      "Modifier",
+      "Subject",
+      "Gerund",
+      "Article"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The \"ing-form\" of a verb that strictly functions as a noun in a sentence is known as a:",
+    "options": [
+      "Infinitive",
+      "Conjunction",
+      "Gerund",
+      "Dangling modifier",
+      "Regular verb"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Affixation involves adding what to a root word to change its meaning?",
+    "options": [
+      "A prefix or suffix",
+      "Another root word",
+      "An interjection",
+      "A full independent clause",
+      "A preposition"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Creating the word \"Blackboard\" by combining \"Black\" + \"board\" is an example of:",
+    "options": [
+      "Clipping",
+      "Blending",
+      "Back formation",
+      "Compounding",
+      "Affixation"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Shortening the word \"influenza\" to \"Flue\" is an example of:",
+    "options": [
+      "Front clipping",
+      "Middle clipping",
+      "Back clipping",
+      "Blending",
+      "Compounding"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Removing an affix (typically a suffix) from a root word to form a new word (e.g., \"Edit\" from \"editor\") is conceptually called:",
+    "options": [
+      "Front clipping",
+      "Back formation",
+      "Affixation",
+      "Blending",
+      "Phrase clipping"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Creating the word \"smog\" from \"smoke\" + \"fog\" represents which word formation technique?",
+    "options": [
+      "Compounding",
+      "Affixation",
+      "Blending",
+      "Back formation",
+      "Back clipping"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which functional type of sentence is strictly used for commands, orders, or requests?",
+    "options": [
+      "Interrogative sentences",
+      "Exclamatory sentences",
+      "Declarative sentences",
+      "Imperative sentences",
+      "Assertive sentences"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Structurally, a sentence having one independent clause and at least one dependent clause is called a:",
+    "options": [
+      "Simple sentence",
+      "Compound sentence",
+      "Complex sentence",
+      "Compound-complex sentence",
+      "Fragment sentence"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A sentence containing exactly two or more independent clauses and zero dependent clauses is a:",
+    "options": [
+      "Simple sentence",
+      "Compound sentence",
+      "Complex sentence",
+      "Compound-complex sentence",
+      "Dependent sentence"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "\"If you heat ice, it melts.\" represents which type of conditional sentence used for universal truths?",
+    "options": [
+      "Zero Conditional",
+      "1st Conditional",
+      "2nd Conditional",
+      "3rd Conditional",
+      "4th Conditional"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the grammatical formula for a 3rd Conditional sentence?",
+    "options": [
+      "If+Present indefinite --Future indefinite",
+      "If+Present indefinite --Present Indefinite",
+      "If+Past Perfect --would/should/could/must/might have+3rd form of verb",
+      "If+Past Indefinite --would/should/could/must/might+1st form of verb",
+      "If+Future Indefinite --would have+3rd form of verb"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "According to the steps of sound production, what happens during the \"Phonation\" stage?",
+    "options": [
+      "Air is pushed out through the mouth to produce sound.",
+      "The tongue, lips, and teeth shape the sound.",
+      "The sound is amplified by resonating chambers.",
+      "Vocal cords vibrate as air passes through them to produce sound.",
+      "Air is simply taken into the lungs."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which of the following refers to shaping the sound produced by vocal cords through the throat, mouth, and nasal cavities?",
+    "options": [
+      "Breathing",
+      "Phonation",
+      "Articulation",
+      "Resonance",
+      "Rhythm"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "In pronunciation, the \"rise and fall of pitch of voice during speaking\" is defined as:",
+    "options": [
+      "Articulation",
+      "Stress",
+      "Intonation",
+      "Rhythm",
+      "Volume"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What does \"Pitch\" refer to in the context of pronunciation?",
+    "options": [
+      "The loudness or softness of speech",
+      "Emphasizing certain syllables or words",
+      "The physical movement of teeth and tongue",
+      "The perceived frequency of sound, which can be low or high",
+      "The pattern of stressed and unstressed syllables"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What is the correct Passive Voice structure for a sentence in the Past Continuous tense?",
+    "options": [
+      "O+is/are+being+V3+by+S",
+      "O+was/were+being+V3+by+S",
+      "O+had+been+V3+by+S",
+      "O+will+be+V3+by+S",
+      "O+was/were+V3+by+S"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "According to the notes, which tenses categorically do NOT have a passive voice?",
+    "options": [
+      "All continuous tenses",
+      "All perfect tenses",
+      "All perfect continuous tenses and Future continuous",
+      "Present indefinite and Past indefinite",
+      "Past perfect and Future perfect"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the passive voice structure for an Imperative Sentence?",
+    "options": [
+      "O+model verb+be+V3+by+sub",
+      "O+is/are/am+V3+by+S",
+      "S+has/have+V3+O",
+      "let+O+be+V3",
+      "let+S+be+O"
+    ],
+    "correctAnswer": 3
   }
 ]
