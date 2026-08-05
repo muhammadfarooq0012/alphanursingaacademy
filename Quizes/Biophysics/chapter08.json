@@ -1,0 +1,252 @@
+[
+  {
+    "question": "Which of the following best defines order in a biological system?",
+    "options": [
+      "A state characterized by random interactions and unpredictable behavior",
+      "A state characterized by organized arrangement and predictable relationships",
+      "A state characterized by maximum variability and irregularity",
+      "A state characterized by spontaneous changes without organization"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Increased disorder in a biological system is most closely associated with:",
+    "options": [
+      "Increased entropy and greater randomness",
+      "Decreased entropy and greater organization",
+      "Increased stability and reduced molecular movement",
+      "Reduced energy and increased structural organization"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of the following best represents order in a biological system?",
+    "options": [
+      "Randomly distributed molecules undergoing Brownian motion",
+      "A precisely organized arrangement of chromosomes during cell division",
+      "An irregular distribution of molecules throughout a solution",
+      "Random movement of particles caused by thermal energy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which term describes the tendency of a system toward greater randomness or disorder?",
+    "options": [
+      "Homeostasis",
+      "Entropy",
+      "Equilibrium",
+      "Kinetics"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which statement most accurately describes order and disorder in biological systems?",
+    "options": [
+      "Biological systems always become more ordered as time progresses",
+      "Any increase in disorder necessarily indicates biological dysfunction",
+      "Order and disorder remain fixed once a biological system is formed",
+      "Order and disorder are dynamic states that can change continuously"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Enzymes contribute to biological organization primarily by:",
+    "options": [
+      "Increasing the randomness of all molecular interactions",
+      "Catalyzing specific reactions that support regulated cellular processes",
+      "Maintaining an absolutely constant level of disorder in cells",
+      "Preventing all spontaneous molecular movements"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which example best demonstrates a biological system maintaining internal order despite external environmental changes?",
+    "options": [
+      "Regulation of body temperature in response to changes in environmental temperature",
+      "Random movement of molecules caused by thermal energy",
+      "Breakdown of all cellular structures during uncontrolled cell damage",
+      "Random distribution of particles in a gas"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The folding of a newly synthesized polypeptide into a specific three-dimensional structure is primarily an example of:",
+    "options": [
+      "Development of organized molecular structure",
+      "Complete loss of molecular organization",
+      "Randomization of the amino acid sequence",
+      "Elimination of all molecular interactions"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of the following is least characteristic of an ordered biological system?",
+    "options": [
+      "Predictable organization",
+      "Coordinated arrangement",
+      "Functional complexity",
+      "Randomness without pattern"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "According to the second law of thermodynamics, the entropy of an isolated system tends to:",
+    "options": [
+      "Decrease spontaneously",
+      "Remain exactly constant in all processes",
+      "Increase over time in spontaneous processes",
+      "Alternate regularly between increase and decrease"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The degree of randomness or disorder in a system is most directly represented by:",
+    "options": [
+      "Complexity",
+      "Entropy",
+      "Equilibrium",
+      "Kinetics"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Self-organization in a biological system refers to the:",
+    "options": [
+      "Spontaneous formation of organized structures through interactions among system components",
+      "Random breakdown of organized biological structures",
+      "Conversion of all complex molecules into simpler molecules",
+      "Complete loss of organization during cellular processes"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of the following is least characteristic of a disordered biological system?",
+    "options": [
+      "Random distribution of components",
+      "Lack of coordinated organization",
+      "Higher entropy",
+      "Predictable arrangement and behavior"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A biological system at equilibrium is best described as a system in which:",
+    "options": [
+      "No molecular movement occurs",
+      "Opposing processes occur at balanced rates",
+      "All components are arranged in maximum order",
+      "Entropy is always at its minimum possible value"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which statement most accurately describes the relationship between order and disorder in biological systems?",
+    "options": [
+      "Disorder always indicates disease or dysfunction",
+      "Order and disorder are permanently fixed states",
+      "Biological systems always move spontaneously toward greater order",
+      "Biological systems continuously maintain and reorganize order while undergoing processes that can increase disorder"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A scientist observes a system in which particles become increasingly randomly distributed over time without external intervention. Which thermodynamic quantity is most likely increasing?",
+    "options": [
+      "Internal energy",
+      "Gibbs free energy",
+      "Enthalpy",
+      "Entropy"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A cell continuously uses ATP to maintain ion concentration gradients across its membrane. This energy-dependent process primarily helps prevent:",
+    "options": [
+      "Loss of genetic information",
+      "Randomization of intracellular ion distribution",
+      "Inhibition of protein synthesis",
+      "Uncontrolled cellular reproduction"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A machine stops functioning because its components lose their proper coordination and arrangement. This situation is most analogous to:",
+    "options": [
+      "Biological disorder",
+      "Biological adaptation",
+      "Biological homeostasis",
+      "Biological organization"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Why do living organisms not violate the second law of thermodynamics while maintaining internal organization?",
+    "options": [
+      "Entropy does not apply to living systems",
+      "Organisms permanently decrease entropy in their surroundings",
+      "Organisms maintain internal order while increasing entropy in their surroundings",
+      "Organisms generate energy without any external input"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A properly folded enzyme loses its three-dimensional structure after exposure to high temperature. The most immediate consequence is:",
+    "options": [
+      "Increased ATP production",
+      "Increased substrate specificity",
+      "Loss of biological function",
+      "Increased catalytic efficiency"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A denatured protein differs from its properly folded form primarily because it:",
+    "options": [
+      "Has a substantially different molecular mass",
+      "Contains a different sequence of amino acids",
+      "Has lost or altered its functional three-dimensional conformation",
+      "Contains fewer peptide bonds due to unfolding"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "An increase in entropy within a biological system generally indicates:",
+    "options": [
+      "Greater structural organization",
+      "Increased molecular specialization",
+      "Reduced organization and increased randomness",
+      "Decreased molecular randomness"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The progression from cells to tissues and then to organs demonstrates:",
+    "options": [
+      "Random molecular assembly",
+      "Progressive increase in biological organization",
+      "Progressive increase in molecular disorder",
+      "Protein denaturation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which statement best describes the general relationship between biological order and entropy?",
+    "options": [
+      "Greater order is generally associated with lower entropy within the system",
+      "Greater order always causes entropy to increase within the same system",
+      "Order and entropy always increase by exactly the same amount",
+      "Biological order is completely independent of entropy"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A living organism is considered an open thermodynamic system because it:",
+    "options": [
+      "Maintains a completely constant entropy",
+      "Prevents the exchange of heat with the environment",
+      "Functions independently of external energy sources",
+      "Exchanges matter and energy continuously with its surroundings"
+    ],
+    "correctAnswer": 3
+  }
+]

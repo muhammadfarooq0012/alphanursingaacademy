@@ -1,0 +1,352 @@
+[
+  {
+    "question": "Which structural feature of an ion channel primarily determines which ion can pass through it?",
+    "options": [
+      "Voltage-sensing domain that detects changes in membrane potential",
+      "Selectivity filter that discriminates among ions",
+      "Gating domain that regulates channel opening",
+      "Pore-forming domain that creates the transmembrane pathway"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The pore region of an ion channel primarily functions to:",
+    "options": [
+      "Determine the ion selectivity of the channel",
+      "Detect changes in membrane voltage",
+      "Provide a pathway for ions across the membrane",
+      "Control the opening and closing of the channel"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which part of a voltage-gated ion channel detects changes in membrane potential?",
+    "options": [
+      "Selectivity filter",
+      "Pore domain",
+      "Voltage-sensing domain",
+      "Gating domain"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "If the selectivity filter of a potassium channel is damaged, the most likely consequence is:",
+    "options": [
+      "Failure to detect changes in membrane potential",
+      "Failure to open in response to stimulation",
+      "Loss of preferential permeability to potassium ions",
+      "Failure to form a transmembrane ion-conducting pathway"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which structural component of an ion channel directly controls whether the channel is open or closed?",
+    "options": [
+      "Selectivity filter",
+      "Voltage sensor",
+      "Pore-forming region",
+      "Gate"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Ion channels transport ions primarily by:",
+    "options": [
+      "Facilitated diffusion down a chemical gradient",
+      "Passive diffusion down an electrical gradient",
+      "Diffusion down an electrochemical gradient",
+      "Active transport against an electrochemical gradient"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Ion channels allow rapid ion movement mainly because they:",
+    "options": [
+      "Provide a selective hydrophilic pathway through the membrane",
+      "Reduce the concentration gradient across the membrane",
+      "Use ATP to increase the rate of ion movement",
+      "Provide a pathway that eliminates the electrochemical gradient"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "An ion channel that opens when a neurotransmitter binds to it is classified as:",
+    "options": [
+      "Voltage-gated channel",
+      "Mechanically gated channel",
+      "Ligand-gated channel",
+      "Chemically permeable leak channel"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The movement of potassium ions out of a neuron through an open potassium channel is driven primarily by:",
+    "options": [
+      "The chemical gradient alone",
+      "The electrical gradient alone",
+      "The combined electrochemical gradient",
+      "ATP-dependent potassium transport"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which statement best describes the function of an ion channel?",
+    "options": [
+      "It actively transports ions against their electrochemical gradient",
+      "It provides a selective pathway for passive ion movement",
+      "It maintains ion gradients by directly hydrolyzing ATP",
+      "It transports ions by coupling their movement to another solute"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The opening of a voltage-gated ion channel is primarily influenced by:",
+    "options": [
+      "The concentration gradient of the transported ion",
+      "The electrical potential across the membrane",
+      "The binding of a specific extracellular ligand",
+      "The mechanical deformation of the membrane"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which molecule most directly activates a ligand-gated ion channel?",
+    "options": [
+      "Neurotransmitter binding to the channel receptor",
+      "Intracellular ATP binding to the channel protein",
+      "A transported ion binding to the selectivity filter",
+      "A membrane phospholipid interacting with the channel"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which change would most directly decrease ion flow through an already open channel?",
+    "options": [
+      "Increase in the electrochemical driving force",
+      "Increase in the number of open channels",
+      "Decrease in the electrochemical driving force",
+      "Increase in membrane permeability to that ion"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Local anesthetics reduce nerve impulse conduction mainly by:",
+    "options": [
+      "Blocking voltage-gated sodium channels",
+      "Blocking voltage-gated potassium channels",
+      "Activating ligand-gated sodium channels",
+      "Increasing potassium leak-channel activity"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A mutation that prevents an ion channel from opening would most directly result in:",
+    "options": [
+      "Reduced permeability to the channel's ion",
+      "Reduced selectivity for the channel's ion",
+      "Increased permeability to the channel's ion",
+      "Increased active transport of the channel's ion"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which type of ion channel contributes to membrane permeability without requiring a specific activating stimulus?",
+    "options": [
+      "Ligand-gated channel",
+      "Voltage-gated channel",
+      "Mechanically gated channel",
+      "Leak channel"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Stretch receptors in the skin primarily contain channels activated by:",
+    "options": [
+      "Changes in membrane potential",
+      "Binding of extracellular ligands",
+      "Mechanical deformation of the membrane",
+      "Changes in intracellular ATP concentration"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which channel is primarily responsible for the rapid sodium influx during neuronal depolarization?",
+    "options": [
+      "Voltage-gated sodium channel",
+      "Voltage-gated potassium channel",
+      "Ligand-gated sodium channel",
+      "Potassium leak channel"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Acetylcholine at the neuromuscular junction directly activates:",
+    "options": [
+      "Voltage-gated sodium channels",
+      "Ligand-gated cation channels",
+      "Voltage-gated calcium channels",
+      "Potassium leak channels"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which channel type contributes most significantly to the resting membrane permeability of many neurons?",
+    "options": [
+      "Voltage-gated sodium channels",
+      "Voltage-gated potassium channels",
+      "Potassium leak channels",
+      "Ligand-gated potassium channels"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The first step in activation of a gated ion channel is usually:",
+    "options": [
+      "Opening of the ion-conducting pore",
+      "Detection of the appropriate gating stimulus",
+      "Movement of ions down their gradient",
+      "Closure of the channel after stimulation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which sequence best describes the operation of a gated ion channel?",
+    "options": [
+      "Stimulus → gate opens → ion diffusion → gate closes",
+      "Stimulus → ATP hydrolysis → ion pumping → gate closes",
+      "Gate opens → stimulus detected → active transport → gate closes",
+      "Ion diffusion → stimulus detected → gate opens → ATP hydrolysis"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Closure of an ion channel after stimulation primarily:",
+    "options": [
+      "Prevents further passive ion movement through that pathway",
+      "Reverses the ion concentration gradient",
+      "Restores the gradient by directly using ATP",
+      "Increases the selectivity of the channel"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "When the membrane potential returns toward the resting level, which event is most directly reduced?",
+    "options": [
+      "Opening of voltage-gated channels",
+      "Passive movement through leak channels",
+      "Activity of ATP-dependent ion pumps",
+      "Synthesis of new membrane channel proteins"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "During an action potential, sodium channels open before most potassium channels mainly because:",
+    "options": [
+      "Sodium channels have a more rapid activation response to depolarization",
+      "Sodium channels have a higher affinity for ATP",
+      "Potassium channels cannot respond to membrane depolarization",
+      "Potassium channels require ligand binding before opening"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which physiological process depends most directly on rapid ion channel activity?",
+    "options": [
+      "Protein synthesis",
+      "DNA replication",
+      "Nerve impulse conduction",
+      "Lipid metabolism"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Cardiac rhythm abnormalities may result from ion channel defects because ion channels regulate:",
+    "options": [
+      "Cardiac electrical excitability and conduction",
+      "Cardiac protein synthesis and degradation",
+      "Mitochondrial ATP production in all tissues",
+      "Calcium storage within the nucleus"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which organ system depends most directly on ion channels for rapid electrical communication?",
+    "options": [
+      "Digestive system",
+      "Nervous system",
+      "Skeletal system",
+      "Integumentary system"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which statement most accurately distinguishes ion channels from ion pumps?",
+    "options": [
+      "Channels transport ions passively, whereas pumps transport ions actively",
+      "Channels transport ions actively, whereas pumps transport ions passively",
+      "Both channels and pumps transport ions passively down gradients",
+      "Both channels and pumps require direct ATP hydrolysis for transport"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which process specifically requires an ion pump rather than an ion channel?",
+    "options": [
+      "Sodium entry through voltage-gated sodium channels",
+      "Potassium movement through potassium leak channels",
+      "Chloride movement through ligand-gated chloride channels",
+      "Maintenance of sodium and potassium concentration gradients"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "At the resting membrane potential of approximately –70 mV, the voltage-gated Na⁺ channel is:",
+    "options": [
+      "Open and allowing continuous Na⁺ influx",
+      "Inactivated and unable to respond to stimulation",
+      "Closed but capable of opening when adequately stimulated",
+      "Closed and permanently unable to conduct Na⁺"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "During the depolarization phase of an action potential, voltage-gated Na⁺ channels are primarily:",
+    "options": [
+      "Closed, preventing further Na⁺ entry",
+      "Open, allowing rapid Na⁺ influx into the cell",
+      "Inactivated, preventing Na⁺ movement",
+      "Recovered but unable to respond to voltage changes"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "At the peak of the action potential, around +30 mV, the voltage-gated Na⁺ channel becomes:",
+    "options": [
+      "Open and continues allowing rapid Na⁺ influx",
+      "Closed but immediately ready to reopen",
+      "Inactivated and temporarily unable to allow Na⁺ entry",
+      "Permanently closed due to membrane depolarization"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "During repolarization, the voltage-gated Na⁺ channel generally:",
+    "options": [
+      "Remains open while Na⁺ continues entering the cell",
+      "Changes from the inactivated state toward the closed state",
+      "Changes directly from closed to open",
+      "Becomes permanently inactivated"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "During hyperpolarization and the return to the resting membrane potential, the voltage-gated Na⁺ channel is:",
+    "options": [
+      "Open and continuously conducting Na⁺",
+      "Inactivated and unable to recover",
+      "Closed and recovered, ready for another action potential",
+      "Permanently blocked until ATP is produced"
+    ],
+    "correctAnswer": 2
+  }
+]

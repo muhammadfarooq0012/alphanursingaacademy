@@ -1,0 +1,502 @@
+[
+  {
+    "question": "DNA is a polymer composed of repeating units called:",
+    "options": [
+      "Codons",
+      "Nucleotides",
+      "Nucleosides",
+      "Amino acids"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The pentose sugar that distinguishes DNA from RNA is:",
+    "options": [
+      "Ribose",
+      "Deoxyribose",
+      "Glucose",
+      "Fructose"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "In a double-stranded DNA molecule, adenine normally forms a complementary base pair with:",
+    "options": [
+      "Cytosine",
+      "Guanine",
+      "Thymine",
+      "Uracil"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which nitrogenous base is present in RNA but normally absent from DNA?",
+    "options": [
+      "Uracil",
+      "Thymine",
+      "Cytosine",
+      "Guanine"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The repeating structural backbone of a DNA strand consists primarily of alternating:",
+    "options": [
+      "Nitrogenous bases and phosphate groups",
+      "Deoxyribose sugars and phosphate groups",
+      "Ribose sugars and nitrogenous bases",
+      "Phosphate groups and nitrogenous bases"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The double-helix model of DNA was proposed by Watson and Crick in:",
+    "options": [
+      "1945",
+      "1953",
+      "1961",
+      "1970"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which statement most accurately represents complementary base pairing in DNA?",
+    "options": [
+      "A pairs with G, while T pairs with C",
+      "Purines pair with purines to maintain stability",
+      "A pairs with T, and G pairs with C",
+      "The amounts of A, G, T, and C are always equal"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which enzyme adds complementary DNA nucleotides during DNA replication?",
+    "options": [
+      "DNA helicase",
+      "DNA ligase",
+      "RNA polymerase",
+      "DNA polymerase"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A complete nucleotide consists of:",
+    "options": [
+      "Pentose sugar and nitrogenous base",
+      "Pentose sugar, nitrogenous base, and phosphate group",
+      "Nitrogenous base and phosphate group only",
+      "Pentose sugar and phosphate group only"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following is a purine nitrogenous base?",
+    "options": [
+      "Cytosine",
+      "Thymine",
+      "Adenine",
+      "Uracil"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which component is not a structural component of a nucleotide?",
+    "options": [
+      "Pentose sugar",
+      "Amino acid",
+      "Phosphate group",
+      "Nitrogenous base"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "In RNA, which nitrogenous base takes the place of thymine found in DNA?",
+    "options": [
+      "Uracil",
+      "Guanine",
+      "Adenine",
+      "Cytosine"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The covalent linkage joining adjacent nucleotides in a nucleic acid strand is a:",
+    "options": [
+      "Peptide bond",
+      "Hydrogen bond",
+      "Phosphodiester bond",
+      "Glycosidic bond"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A nucleoside differs from a nucleotide because a nucleoside lacks a:",
+    "options": [
+      "Nitrogenous base",
+      "Pentose sugar",
+      "Glycosidic bond",
+      "Phosphate group"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which of the following is a nucleoside rather than a nitrogenous base or nucleotide?",
+    "options": [
+      "Adenine",
+      "ATP",
+      "Adenosine",
+      "AMP"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The sugar component of a nucleoside may be:",
+    "options": [
+      "Ribose or deoxyribose",
+      "Glucose or fructose",
+      "Only ribose",
+      "Only deoxyribose"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of the following is a nitrogenous base rather than a nucleoside?",
+    "options": [
+      "Guanosine",
+      "Thymine",
+      "Cytidine",
+      "Uridine"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The pentose sugar present in RNA is:",
+    "options": [
+      "Deoxyribose",
+      "Ribose",
+      "Glucose",
+      "Fructose"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which type of RNA carries genetic information from DNA to the ribosome for protein synthesis?",
+    "options": [
+      "Transfer RNA (tRNA)",
+      "Ribosomal RNA (rRNA)",
+      "Messenger RNA (mRNA)",
+      "Small nuclear RNA (snRNA)"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which type of RNA forms a major structural and functional component of ribosomes?",
+    "options": [
+      "mRNA",
+      "rRNA",
+      "tRNA",
+      "snRNA"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The enzyme that synthesizes an RNA strand using a DNA template is:",
+    "options": [
+      "DNA polymerase",
+      "RNA polymerase",
+      "DNA ligase",
+      "Helicase"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "During transcription, the DNA strand read by RNA polymerase is called the:",
+    "options": [
+      "Coding strand",
+      "Sense strand",
+      "Template strand",
+      "Leading strand"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which component is directly required for transcription but is not directly involved in synthesizing the RNA strand?",
+    "options": [
+      "DNA template",
+      "RNA nucleotides",
+      "RNA polymerase",
+      "Ribosome"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "How many possible codons can be formed from the four RNA bases?",
+    "options": [
+      "16",
+      "20",
+      "64",
+      "61"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The DNA region where RNA polymerase binds to initiate transcription is the:",
+    "options": [
+      "Enhancer",
+      "Start codon",
+      "Promoter",
+      "Terminator"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The usual initiation codon that signals the beginning of translation is:",
+    "options": [
+      "UGA",
+      "UAA",
+      "AUG",
+      "UAG"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which group contains only stop codons?",
+    "options": [
+      "AUG, UAA, UGA",
+      "UAA, UAG, UGA",
+      "UGG, UAG, AUG",
+      "UGA, AUG, UAG"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "In eukaryotic cells, transcription and translation occur primarily in the:",
+    "options": [
+      "Cytoplasm and nucleus, respectively",
+      "Nucleus and cytoplasm, respectively",
+      "Nucleus only",
+      "Cytoplasm only"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The AUG codon normally specifies the amino acid:",
+    "options": [
+      "Alanine",
+      "Glycine",
+      "Methionine",
+      "Valine"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The covalent bond formed between adjacent amino acids during translation is a:",
+    "options": [
+      "Peptide bond",
+      "Phosphodiester bond",
+      "Hydrogen bond",
+      "Disulfide bond"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of the following is an initiation codon rather than a termination codon?",
+    "options": [
+      "UGA",
+      "AUG",
+      "UAA",
+      "UAG"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The three-nucleotide sequence on tRNA that is complementary to an mRNA codon is called the:",
+    "options": [
+      "Intron",
+      "Codon",
+      "Exon",
+      "Anticodon"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which sequence correctly matches each process with its product?",
+    "options": [
+      "Replication → RNA; Transcription → protein; Translation → DNA",
+      "Replication → DNA; Transcription → RNA; Translation → protein",
+      "Replication → protein; Transcription → DNA; Translation → RNA",
+      "Replication → RNA; Transcription → DNA; Translation → protein"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The standard genetic code specifies how many commonly occurring amino acids used in protein synthesis?",
+    "options": [
+      "10",
+      "20",
+      "25",
+      "64"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The α-helix and β-pleated sheet are characteristic features of which level of protein structure?",
+    "options": [
+      "Primary structure",
+      "Secondary structure",
+      "Tertiary structure",
+      "Quaternary structure"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A polypeptide is best defined as:",
+    "options": [
+      "A linear chain of amino acids linked by peptide bonds",
+      "A branched chain of nucleotides linked by phosphodiester bonds",
+      "A chain of monosaccharides linked by glycosidic bonds",
+      "A chain of fatty acids linked by ester bonds"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A polypeptide becomes a functional protein primarily after it:",
+    "options": [
+      "Is converted into nucleotides",
+      "Folds into a specific three-dimensional structure",
+      "Is hydrolyzed into individual amino acids",
+      "Is converted into a carbohydrate"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following represents a process that is not part of the basic direction of information flow in the Central Dogma?",
+    "options": [
+      "DNA → RNA",
+      "RNA → Protein",
+      "DNA → DNA",
+      "Protein → RNA"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which cellular structure directly links amino acids together to synthesize a polypeptide?",
+    "options": [
+      "Golgi apparatus",
+      "Mitochondrion",
+      "Ribosome",
+      "Nucleus"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Hemoglobin is an example of a protein with:",
+    "options": [
+      "Only a primary structure",
+      "A single polypeptide with no higher organization",
+      "Quaternary structure involving multiple polypeptide subunits",
+      "Only secondary structure"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which protein is primarily responsible for the structural strength of hair and nails?",
+    "options": [
+      "Collagen",
+      "Elastin",
+      "Keratin",
+      "Fibroin"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Compared with fibrous proteins, globular proteins are generally characterized by:",
+    "options": [
+      "Compact three-dimensional folding and greater water solubility",
+      "Extended elongated structures and high mechanical strength",
+      "Repetitive structures specialized mainly for tensile support",
+      "Long, insoluble chains arranged into fibers"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of the following is a globular protein rather than a predominantly fibrous protein?",
+    "options": [
+      "Collagen",
+      "Keratin",
+      "Elastin",
+      "Albumin"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The genetic code is best described as the:",
+    "options": [
+      "Sequence of amino acids in a polypeptide",
+      "Set of rules by which nucleotide sequences specify amino acids",
+      "Sequence of nucleotides that forms the DNA backbone",
+      "Arrangement of proteins within a ribosome"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which protein is mainly responsible for providing tensile strength to connective tissues such as tendons and ligaments?",
+    "options": [
+      "Elastin",
+      "Collagen",
+      "Fibronectin",
+      "Fibrinogen"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following is best classified as a structural protein?",
+    "options": [
+      "Collagen",
+      "Hemoglobin",
+      "Insulin",
+      "Amylase"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The genetic code is read on mRNA in the direction:",
+    "options": [
+      "3′ → 5′",
+      "5′ → 3′",
+      "N-terminus → C-terminus",
+      "C-terminus → N-terminus"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The phenomenon in which one tRNA can recognize more than one codon is related to:",
+    "options": [
+      "The wobble hypothesis",
+      "DNA replication",
+      "RNA splicing",
+      "Protein denaturation"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which sequence correctly represents the Central Dogma?",
+    "options": [
+      "Protein → DNA → RNA",
+      "RNA → Protein → DNA",
+      "DNA → RNA → Protein",
+      "DNA → Protein → RNA"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Fibrous proteins are primarily specialized for:",
+    "options": [
+      "Catalyzing metabolic reactions",
+      "Providing structural support and mechanical strength",
+      "Transporting small molecules through body fluids",
+      "Acting as hormones and signaling molecules"
+    ],
+    "correctAnswer": 1
+  }
+]

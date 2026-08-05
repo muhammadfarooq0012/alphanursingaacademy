@@ -26,14 +26,14 @@
       "icon": "fa-atom",
       "color": "#3498db",
       "folder": "Biophysics",
-      "chapters": []
+      "chapters": ["chapter01", "chapter02", "chapter03","chapter04", "chapter05", "chapter06","chapter07", "chapter08"]
     },
     {
       "name": "English",
       "icon": "fa-book-open",
       "color": "#e67e22",
       "folder": "English",
-      "chapters": ["chapter01", "chapter02", "chapter03"]
+      "chapters": []
     },
     {
       "name": "FON 1",

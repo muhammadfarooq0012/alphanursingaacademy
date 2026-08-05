@@ -1,27 +1,342 @@
 [
   {
-    "question": "What is the SI unit of force?",
-    "options": ["Joule", "Watt", "Newton", "Pascal"],
+    "question": "Which law of thermodynamics deals with the concept of entropy?",
+    "options": ["Zeroth Law", "First Law", "Second Law", "Third Law"],
     "correctAnswer": 2
   },
   {
-    "question": "The unit of pressure is:",
-    "options": ["Newton", "Pascal", "Joule", "Watt"],
-    "correctAnswer": 1
-  },
-  {
-    "question": "What is the speed of light in vacuum?",
-    "options": ["3 × 10⁶ m/s", "3 × 10⁸ m/s", "3 × 10¹⁰ m/s", "3 × 10⁴ m/s"],
-    "correctAnswer": 1
-  },
-  {
-    "question": "Which radiation is used in X-rays?",
-    "options": ["Alpha rays", "Beta rays", "Gamma rays", "X-rays"],
+    "question": "According to the first law of thermodynamics, energy is conserved in which of the following processes?",
+    "options": [
+      "Isothermal process",
+      "Adiabatic process",
+      "Isobaric process",
+      "All of the above"
+    ],
     "correctAnswer": 3
   },
   {
-    "question": "The unit of energy is:",
-    "options": ["Watt", "Newton", "Joule", "Ampere"],
+    "question": "The Second Law of Thermodynamics implies that:",
+    "options": [
+      "Heat always flows from a hot body to a cold body",
+      "Heat always flows from a cold body to a hot body",
+      "Heat can flow from a cold body to a hot body under certain conditions",
+      "Heat transfer is not dependent on temperature difference"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A reversible process is one that:",
+    "options": [
+      "Occurs slowly",
+      "Occurs without any energy exchange",
+      "Can be undone without any effect on the surroundings",
+      "Generates maximum entropy"
+    ],
     "correctAnswer": 2
+  },
+  {
+    "question": "The third law of thermodynamics deals with the behavior of a system as it approaches:",
+    "options": [
+      "Absolute zero",
+      "Absolute infinity",
+      "Critical temperature",
+      "Boiling point"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The change in entropy for a reversible process is:",
+    "options": ["Zero", "Positive", "Negative", "Infinite"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The change in entropy of a system at constant temperature is given by:",
+    "options": ["ΔS = ΔH - TΔU", "ΔS = q/T", "ΔS = ΔG - TΔS", "ΔS = ΔG/T"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which process is accompanied by an increase in entropy?",
+    "options": [
+      "Freezing of water",
+      "Condensation of steam",
+      "Evaporation of water",
+      "None of the above"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The third law of thermodynamics states that the entropy of a perfect crystal at absolute zero is:",
+    "options": ["Zero", "Infinite", "Constant", "Variable"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The entropy change of the surroundings for a reversible process is:",
+    "options": ["Zero", "Positive", "Negative", "Infinite"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Enthalpy is defined as:",
+    "options": ["H = U + PV", "H = U - PV", "H = P - V", "H = U/V"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Enthalpy change at constant pressure is given by:",
+    "options": ["ΔH = ΔU - PΔV", "ΔH = Q", "ΔH = Q + PΔV", "ΔH = Q/T"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Enthalpy change in a reaction can be determined experimentally using which of the following techniques?",
+    "options": [
+      "Calorimetry",
+      "Spectroscopy",
+      "Chromatography",
+      "Electrophoresis"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The enthalpy change of a reaction is equal to the heat evolved or absorbed under which conditions?",
+    "options": [
+      "Constant volume",
+      "Constant temperature",
+      "Constant pressure",
+      "Constant entropy"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Enthalpy change is related to internal energy change by:",
+    "options": ["ΔH = ΔU - PΔV", "ΔH = ΔU + PΔV", "ΔH = q/T", "ΔH = q + PΔV"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Gibbs free energy is defined as:",
+    "options": ["G = H - TS", "G = H + TS", "G = U + PV", "G = U – TS"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Gibbs free energy change for a reversible process is:",
+    "options": ["Positive", "Negative", "Zero", "Infinite"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Standard conditions for enthalpy change include:",
+    "options": [
+      "0°C and 2 atm",
+      "25°C, 1 atm, 1 M concentration",
+      "1°C and 1 atm, 1 M concentration",
+      "Any temperature and pressure"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "1 calorie is equal to:",
+    "options": ["4.2 J", "4.18 J", "4.0 J", "5.0 J"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "If velocity is halved, kinetic energy becomes:",
+    "options": ["Half", "One-fourth", "Double", "Same"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Latent heat is defined as:",
+    "options": [
+      "Heat that changes temperature",
+      "Heat that changes state without temperature change",
+      "Heat stored in gases only",
+      "Heat that increases pressure"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "SI unit of latent heat is:",
+    "options": ["J", "J/kg", "kg/J", "Jkg"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The triple point temperature of water is:",
+    "options": ["0°C", "273 K", "273.16 K", "100°C"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "1 joule is equal to:",
+    "options": ["0.239 cal", "2.39 cal", "23.9 cal", "0.0239 cal"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of the following is not an intensive property?",
+    "options": ["Temperature", "Pressure", "Volume", "Density"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "First law of thermodynamics is the law of conservation of:",
+    "options": ["Mass", "Energy", "Entropy", "Temperature"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which quantity determines spontaneity of a process?",
+    "options": ["Enthalpy", "Entropy", "Gibbs free energy", "Internal energy"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which variable is not a state function?",
+    "options": ["Work", "Enthalpy", "Internal energy", "Entropy"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which of the following is not a thermodynamic system?",
+    "options": ["Open", "Closed", "Isolated", "Condensed"],
+    "correctAnswer": 3
+  },
+  {
+    "question": "In an isothermal process, the change in internal energy is:",
+    "options": [
+      "Equal to heat supplied",
+      "Zero",
+      "Equal to work done",
+      "Infinite"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following is true for an ideal gas undergoing an isothermal expansion?",
+    "options": [
+      "Its internal energy remains constant",
+      "Its temperature increases",
+      "Its volume decreases",
+      "Work done by the gas is zero"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "In thermodynamics, work done by the system is considered:",
+    "options": [
+      "Positive when the system expands",
+      "Positive when the system contracts",
+      "Negative when the system expands",
+      "Negative when the system contracts"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the primary goal of a refrigerator, in thermodynamic terms?",
+    "options": [
+      "To transfer heat from a low-temperature region to a high-temperature region.",
+      "To perform work by expanding the refrigerant.",
+      "To transfer heat from a high-temperature region to a low-temperature region.",
+      "To increase the temperature of the system"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "In which process heat energy given to system is equal to change in internal energy.",
+    "options": ["Isothermal", "Isochoric", "Isobaric", "Adiabatic"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "In which process heat energy given to system is equal to work done.",
+    "options": ["Isothermal", "Isochoric", "Isobaric", "Adiabatic"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "In thermodynamic work done in closed path or cyclic path is?",
+    "options": [
+      "Zero",
+      "Non-zero",
+      "Both depend upon conditions",
+      "Equal to internal energy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which formula converts Celsius to Fahrenheit?",
+    "options": [
+      "F = (C × 5/9) + 32",
+      "F = (C × 9/5) + 32",
+      "F = (C – 32) × 5/9",
+      "F = (C – 32) × 9/5"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "What is 0 K in Celsius?",
+    "options": ["-273.15°C", "0°C", "100°C", "-100°C"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which type of heat transfer occurs when the Sun heats the Earth?",
+    "options": ["Conduction", "Convection", "Radiation", "Absorption"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Transfer of heat depends upon",
+    "options": ["Temperature", "Temperature difference", "Energy", "Enthalpy"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "If volume is constant, work done in system will be",
+    "options": ["Constant", "Zero", "Maximum", "Minimum"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Internal energy depends upon",
+    "options": ["Volume", "Temperature", "Pressure", "All of these"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Change in internal energy (ΔU) in the first law of thermodynamics is given by:",
+    "options": ["ΔU = Q + W", "ΔU = Q – W", "ΔU = W – Q", "ΔU = Q × W"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which law is used to calculate ΔH for a reaction using known values?",
+    "options": ["Charles’s Law", "Boyle’s Law", "Hess’s Law", "Newton’s Law"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which law obeys Charles law",
+    "options": ["Isothermal", "Isochoric", "Isobaric", "Adiabatic"],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which law obeys Boyles law",
+    "options": ["Isothermal", "Isochoric", "Isobaric", "Adiabatic"],
+    "correctAnswer": 0
+  },
+  {
+    "question": "What is the value of Boltzmann constant (k)?",
+    "options": [
+      "6.63 × 10⁻³⁴ J·s",
+      "9.81 m/s²",
+      "1.38 × 10⁻²³ J/K",
+      "3.00 × 10⁸ m/s"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The SI unit of Boltzmann constant is:",
+    "options": ["J", "J/K", "J/mol·K", "N·m"],
+    "correctAnswer": 1
+  },
+  {
+    "question": "According to Boltzmann distribution curve at high temperature particles are.",
+    "options": [
+      "More populated",
+      "Less populated",
+      "No of particles remain constant",
+      "None of these"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "According to Boltzmann distribution curve higher energy states are.",
+    "options": [
+      "More populated",
+      "Less populated",
+      "No of particles remain constant",
+      "None of these"
+    ],
+    "correctAnswer": 1
   }
 ]

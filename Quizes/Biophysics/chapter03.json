@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Viscosity of a fluid is best described as a measure of its:",
+    "options": [
+      "Resistance to deformation under pressure",
+      "Resistance to flow between adjacent fluid layers",
+      "Resistance to changes in density",
+      "Resistance to surface-area expansion"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "When the temperature of a liquid increases, its viscosity generally:",
+    "options": [
+      "Increases because molecular motion increases",
+      "Decreases because intermolecular cohesion becomes less effective",
+      "Remains constant because viscosity is independent of temperature",
+      "Increases because the density always increases"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Viscosity most directly affects the:",
+    "options": [
+      "Resistance encountered during fluid flow",
+      "Gravitational force acting on the fluid",
+      "Chemical composition of the fluid",
+      "Color and optical properties of the fluid"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which change would most likely reduce the viscosity of a typical liquid?",
+    "options": [
+      "Decreasing temperature",
+      "Increasing intermolecular attraction",
+      "Increasing temperature",
+      "Increasing the concentration of dissolved polymers"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "If the viscosity of blood increases while other factors remain constant, blood flow will generally:",
+    "options": [
+      "Increase because the fluid becomes more concentrated",
+      "Decrease because resistance to flow increases",
+      "Remain unchanged because viscosity does not affect flow rate",
+      "Become turbulent in every vessel"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The SI unit of dynamic viscosity is:",
+    "options": [
+      "N·s/m²",
+      "N/m²",
+      "m²/s",
+      "N/m"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The microscopic origin of viscosity is primarily related to:",
+    "options": [
+      "Gravitational attraction between the fluid and container",
+      "Momentum transfer and intermolecular interactions between fluid layers",
+      "Expansion of the fluid due to pressure",
+      "The electrical charge of the fluid as a whole"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which fluid would generally have the greatest resistance to flow at room temperature?",
+    "options": [
+      "Water",
+      "Honey",
+      "Ethanol",
+      "Air"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "In fluid mechanics, viscosity primarily represents a fluid's:",
+    "options": [
+      "Resistance to relative motion between its layers",
+      "Resistance to compression",
+      "Ability to exert pressure on container walls",
+      "Tendency to form a curved surface"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Compared with a low-viscosity fluid, a highly viscous fluid generally:",
+    "options": [
+      "Flows more rapidly under the same pressure gradient",
+      "Requires greater force to maintain the same flow rate",
+      "Has no internal friction",
+      "Always behaves as a solid"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The fundamental principle of chromatography is the:",
+    "options": [
+      "Separation of substances by differential migration",
+      "Separation of substances only according to molecular mass",
+      "Conversion of solutes into gases",
+      "Separation of substances by gravitational settling"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The stationary phase in chromatography is the phase that:",
+    "options": [
+      "Moves continuously through the system",
+      "Remains fixed while the mobile phase moves relative to it",
+      "Is always a liquid",
+      "Is always composed of a gas"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "In paper chromatography, the mobile phase is usually the:",
+    "options": [
+      "Cellulose fibers of the paper",
+      "Solvent moving through the paper",
+      "Sample spot applied to the paper",
+      "Air surrounding the paper"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Chromatographic separation occurs primarily because different components have different:",
+    "options": [
+      "Colors and molecular shapes only",
+      "Affinities for the stationary and mobile phases",
+      "Melting points only",
+      "Electrical charges in all cases"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "In paper chromatography, the upward movement of the solvent is mainly due to:",
+    "options": [
+      "Gravity acting on the solvent",
+      "Capillary action within the paper",
+      "Diffusion of the paper fibers",
+      "Centrifugal force"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "In gas chromatography, the mobile phase is a:",
+    "options": [
+      "Solid adsorbent",
+      "Liquid solvent",
+      "Carrier gas",
+      "Paper matrix"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The migration of a compound in chromatography is most directly influenced by its:",
+    "options": [
+      "Color and molecular mass alone",
+      "Solubility in the mobile phase and affinity for the stationary phase",
+      "Position on the chromatographic plate only",
+      "Density of the container"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The Rf value in paper chromatography is calculated as the:",
+    "options": [
+      "Distance traveled by the solvent divided by the distance traveled by the solute",
+      "Distance traveled by the solute divided by the distance traveled by the solvent front",
+      "Time taken by the solute divided by the solvent volume",
+      "Mass of solute divided by solvent mass"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Chromatography is commonly used for:",
+    "options": [
+      "Separating, identifying, and sometimes purifying components of mixtures",
+      "Increasing the temperature of a sample",
+      "Measuring the total pressure of a fluid",
+      "Determining the volume of a container"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Laminar flow is characterized by:",
+    "options": [
+      "Random eddies and fluctuating velocity",
+      "Smooth, orderly movement in approximately parallel layers",
+      "Maximum possible fluid velocity",
+      "Complete absence of friction"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Turbulent flow is best described as:",
+    "options": [
+      "Smooth and highly ordered",
+      "Flow occurring only at low Reynolds numbers",
+      "Irregular flow with eddies and fluctuating velocity",
+      "Flow that occurs only in stationary fluids"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "As the Reynolds number increases, fluid flow is more likely to:",
+    "options": [
+      "Remain permanently laminar",
+      "Transition from laminar toward turbulent behavior",
+      "Become completely motionless",
+      "Become independent of velocity"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A pipe carrying fluid at a very high flow rate is more likely to exhibit:",
+    "options": [
+      "Laminar flow",
+      "Turbulent flow",
+      "No flow",
+      "Purely diffusive motion"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A Newtonian fluid is one in which:",
+    "options": [
+      "Viscosity changes significantly with shear rate",
+      "Shear stress is proportional to shear rate and viscosity remains constant under given conditions",
+      "The fluid becomes solid when force is applied",
+      "The fluid can flow only under gravitational force"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following is a common example of a non-Newtonian fluid?",
+    "options": [
+      "Water",
+      "Air",
+      "Blood",
+      "Pure ethanol"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "In a non-Newtonian fluid, apparent viscosity may:",
+    "options": [
+      "Remain constant regardless of shear rate",
+      "Change with the applied shear rate or shear stress",
+      "Depend only on the color of the fluid",
+      "Be completely independent of temperature and composition"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following behaves most nearly as a Newtonian fluid under ordinary conditions?",
+    "options": [
+      "Toothpaste",
+      "Ketchup",
+      "Glycerin",
+      "Cornstarch suspension"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The basic principle of electrophoresis is the:",
+    "options": [
+      "Movement of charged particles through a medium under an electric field",
+      "Separation of particles solely by gravitational force",
+      "Movement of neutral molecules through a solvent by osmosis",
+      "Separation of substances only according to boiling point"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "In gel electrophoresis, separation is primarily influenced by differences in:",
+    "options": [
+      "Color and temperature",
+      "Charge, size, and molecular structure",
+      "Density alone",
+      "Solubility in water only"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Because DNA has an overall negative charge, it migrates toward the:",
+    "options": [
+      "Positive electrode, or anode",
+      "Negative electrode, or cathode",
+      "Electrode with the lower voltage",
+      "Center of the gel"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which gel is most commonly associated with high-resolution separation of proteins in SDS-PAGE?",
+    "options": [
+      "Agarose",
+      "Polyacrylamide",
+      "Cellulose acetate",
+      "Silica gel"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Under comparable electrophoretic conditions, a molecule is generally expected to migrate faster when it has:",
+    "options": [
+      "Smaller size and a favorable charge-to-mass ratio",
+      "Larger size and greater frictional resistance",
+      "Lower charge and greater molecular mass",
+      "Higher viscosity surrounding it"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The buffer in electrophoresis is important because it:",
+    "options": [
+      "Provides color to the sample and prevents diffusion",
+      "Conducts current and helps maintain a relatively stable pH",
+      "Dissolves the gel matrix",
+      "Prevents all heat production during electrophoresis"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Electrophoresis is generally least suitable for separating:",
+    "options": [
+      "DNA",
+      "RNA",
+      "Proteins",
+      "Small neutral sugars without additional modification"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The primary role of SDS in SDS-PAGE is to:",
+    "options": [
+      "Give DNA a positive charge",
+      "Denature proteins and provide them with a relatively uniform negative charge-to-mass ratio",
+      "Increase the size of proteins",
+      "Prevent proteins from entering the gel"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "In gel electrophoresis, the gel matrix separates molecules mainly because:",
+    "options": [
+      "Its pores provide greater resistance to larger molecules",
+      "It chemically destroys larger molecules",
+      "It attracts all molecules equally toward the cathode",
+      "It converts electrical energy into molecular mass"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Sedimentation refers to the:",
+    "options": [
+      "Suspension of particles by Brownian motion",
+      "Settling of particles under gravity or another applied force",
+      "Conversion of particles into a gaseous state",
+      "Mixing of particles throughout a solution"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A centrifuge accelerates sedimentation by:",
+    "options": [
+      "Increasing the temperature of the sample",
+      "Applying an effective centrifugal field much greater than gravity",
+      "Reducing the density of the particles",
+      "Eliminating molecular motion completely"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which factor is least directly relevant to the sedimentation rate of a particle?",
+    "options": [
+      "Particle size",
+      "Particle density",
+      "Viscosity of the surrounding medium",
+      "Color of the particle"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Centrifugation separates particles primarily because they differ in:",
+    "options": [
+      "Density, size, and sedimentation behavior",
+      "Color and electrical conductivity only",
+      "pH alone",
+      "Temperature alone"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The rotational speed of a centrifuge is commonly expressed in:",
+    "options": [
+      "RPM",
+      "Pa",
+      "kg/m³",
+      "mL/s"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Sedimentation equilibrium occurs when:",
+    "options": [
+      "All particles have settled permanently at the bottom",
+      "The tendency of particles to sediment is balanced by diffusion",
+      "The centrifuge reaches its maximum RPM",
+      "The sample reaches its freezing point"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Under comparable conditions, larger particles generally sediment:",
+    "options": [
+      "More slowly because they experience greater friction only",
+      "Faster because their sedimentation tendency is generally greater",
+      "At exactly the same rate as smaller particles",
+      "Randomly, independent of size"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The primary function of a centrifuge is to:",
+    "options": [
+      "Separate components by applying rotational force",
+      "Boil samples rapidly",
+      "Measure the pH of a solution",
+      "Break all molecules into smaller units"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The sedimentation coefficient is commonly expressed in:",
+    "options": [
+      "Newtons",
+      "Grams",
+      "Svedberg units",
+      "Pascals"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Ultracentrifugation is particularly useful for separating:",
+    "options": [
+      "Simple ions based only on their color",
+      "Macromolecules, viruses, ribosomes, and cellular organelles",
+      "Gases based only on boiling point",
+      "Water from dissolved salts by evaporation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which instrument is specifically designed to measure viscosity?",
+    "options": [
+      "Barometer",
+      "Viscometer",
+      "Manometer",
+      "Spectrophotometer"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The Svedberg unit is primarily a measure of a particle's:",
+    "options": [
+      "Sedimentation behavior or sedimentation coefficient",
+      "Electrical charge",
+      "Dynamic viscosity",
+      "Density alone"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which cellular structure is commonly described using Svedberg sedimentation units?",
+    "options": [
+      "Ribosome",
+      "Nucleus",
+      "Golgi apparatus",
+      "Cell membrane"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The sedimentation coefficient of a typical eukaryotic ribosome is approximately:",
+    "options": [
+      "30S",
+      "50S",
+      "70S",
+      "80S"
+    ],
+    "correctAnswer": 3
+  }
+]

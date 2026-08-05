@@ -1,0 +1,452 @@
+[
+  {
+    "question": "The primary driving force responsible for diffusion is:",
+    "options": [
+      "Difference in membrane permeability",
+      "Difference in concentration across a distance",
+      "Hydrolysis of ATP",
+      "Activity of membrane transport proteins"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The rate of diffusion across a membrane is increased by:",
+    "options": [
+      "Decreased temperature",
+      "Increased molecular size",
+      "Increased membrane surface area",
+      "Decreased concentration gradient"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which of the following represents simple diffusion most effectively?",
+    "options": [
+      "Glucose entering a cell through a carrier protein",
+      "Oxygen moving from alveoli into blood",
+      "Water moving through aquaporins",
+      "Sodium moving through ion channels"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Small nonpolar molecules diffuse more readily through the lipid bilayer because they:",
+    "options": [
+      "Have a high affinity for water",
+      "Are actively transported by membrane proteins",
+      "Dissolve readily in the hydrophobic lipid core",
+      "Have a greater molecular mass"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Facilitated diffusion differs from simple diffusion because it:",
+    "options": [
+      "Requires ATP hydrolysis",
+      "Occurs against the concentration gradient",
+      "Requires specific membrane proteins",
+      "Occurs only in electrically excitable cells"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which molecule is most likely to cross a membrane by facilitated diffusion?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Glucose",
+      "Nitrogen"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Facilitated diffusion is classified as passive transport because it:",
+    "options": [
+      "Uses ATP indirectly",
+      "Always transports ions",
+      "Does not require metabolic energy",
+      "Moves substances against their concentration gradient"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Osmosis is best defined as:",
+    "options": [
+      "Movement of solute from high to low concentration",
+      "Active movement of water through a membrane",
+      "Movement of water from lower to higher solute concentration",
+      "Movement of water from higher to lower solute concentration"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A plant cell placed in a hypertonic solution will most likely:",
+    "options": [
+      "Become turgid",
+      "Undergo lysis",
+      "Undergo plasmolysis",
+      "Increase its internal water content"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which structure helps certain animal cells regulate excess water and prevent swelling?",
+    "options": [
+      "Cell wall",
+      "Contractile vacuole",
+      "Central vacuole",
+      "Chloroplast"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Osmosis is considered a special form of:",
+    "options": [
+      "Primary active transport",
+      "Facilitated transport",
+      "Simple diffusion",
+      "Endocytosis"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Water will enter a cell by osmosis when:",
+    "options": [
+      "The intracellular solute concentration is lower than extracellular concentration",
+      "The intracellular and extracellular solute concentrations are equal",
+      "The extracellular solute concentration is lower than intracellular concentration",
+      "The membrane is completely impermeable to water"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A red blood cell is most likely to undergo lysis when placed in:",
+    "options": [
+      "A hypertonic solution",
+      "An isotonic solution",
+      "A hypotonic solution",
+      "A solution with equal osmotic pressure"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Osmosis is important for plant cell turgidity because it:",
+    "options": [
+      "Prevents water from entering the cell",
+      "Causes separation of the plasma membrane from the cell wall",
+      "Produces internal pressure against the cell wall",
+      "Causes destruction of the cell wall"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The main structure that prevents a plant cell from bursting in a hypotonic solution is the:",
+    "options": [
+      "Plasma membrane",
+      "Nucleus",
+      "Rigid cell wall",
+      "Central vacuole"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A red blood cell placed in a hypertonic solution will:",
+    "options": [
+      "Swell and lyse",
+      "Remain unchanged",
+      "Shrink due to water loss",
+      "Take up solutes by endocytosis"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A plant cell becomes turgid when placed in a:",
+    "options": [
+      "Hypertonic solution",
+      "Hypotonic solution",
+      "Strongly isotonic solution",
+      "Solution with higher external solute concentration"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Fick’s First Law primarily relates:",
+    "options": [
+      "Diffusion time to temperature",
+      "Diffusion flux to concentration gradient",
+      "Membrane thickness to ATP consumption",
+      "Osmotic pressure to cell volume"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Fick’s First Law is mainly applicable to:",
+    "options": [
+      "Non-steady-state diffusion",
+      "Steady-state diffusion",
+      "Active transport only",
+      "Equilibrium without concentration gradients"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which factor does not directly appear as a major variable in Fick’s First Law?",
+    "options": [
+      "Diffusion coefficient",
+      "Concentration gradient",
+      "Surface area",
+      "Total cell volume"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Fick’s Second Law is primarily used to describe:",
+    "options": [
+      "Steady-state diffusion",
+      "Non-steady-state diffusion",
+      "Movement of water only",
+      "Transport requiring ATP"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which variable is specifically introduced in Fick’s Second Law?",
+    "options": [
+      "Diffusion coefficient",
+      "Concentration",
+      "Time",
+      "Surface area"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which situation requires application of Fick’s Second Law?",
+    "options": [
+      "Oxygen crossing a membrane at a constant steady rate",
+      "Sodium moving across a membrane under steady-state conditions",
+      "A drug concentration spreading through tissue over time",
+      "A solute already at equilibrium"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Fick’s Second Law describes diffusion in which concentration:",
+    "options": [
+      "Remains constant with time and position",
+      "Changes only with temperature",
+      "Changes with both time and position",
+      "Is independent of distance"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A defining feature of active transport is:",
+    "options": [
+      "Movement exclusively down a concentration gradient",
+      "Absence of energy requirement",
+      "Movement of water molecules only",
+      "Energy-dependent movement, often against an electrochemical gradient"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The most commonly used immediate energy source for active transport is:",
+    "options": [
+      "Glucose",
+      "NADPH",
+      "ATP",
+      "Oxygen"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Primary active transport differs from secondary active transport because primary active transport:",
+    "options": [
+      "Uses an electrochemical gradient as its immediate energy source",
+      "Directly utilizes ATP at the transport protein",
+      "Never transports ions",
+      "Is always coupled to glucose transport"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The sodium-potassium pump is classified as:",
+    "options": [
+      "Facilitated diffusion",
+      "Secondary active transport",
+      "Primary active transport",
+      "Simple diffusion"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A sodium-glucose symporter represents:",
+    "options": [
+      "Primary active transport",
+      "Simple diffusion",
+      "Facilitated diffusion",
+      "Secondary active transport"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "ATP is not directly hydrolyzed at the transport protein during:",
+    "options": [
+      "Primary active transport",
+      "Secondary active transport",
+      "ATP-dependent pumping",
+      "Direct phosphorylation transport"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The typical resting membrane potential of a neuron is approximately:",
+    "options": [
+      "+70 mV",
+      "0 mV",
+      "–70 mV",
+      "–30 mV"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The resting membrane potential is primarily maintained by:",
+    "options": [
+      "Calcium influx through voltage-gated channels",
+      "Sodium-potassium pump and selective ion permeability",
+      "Endocytosis of sodium ions",
+      "Continuous opening of voltage-gated sodium channels"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which ion has the greatest permeability through the resting neuronal membrane?",
+    "options": [
+      "Na⁺",
+      "Cl⁻",
+      "K⁺",
+      "Ca²⁺"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The negative interior of a resting cell is mainly due to:",
+    "options": [
+      "Accumulation of Na⁺ inside the cell",
+      "Equal movement of positive ions in both directions",
+      "K⁺ efflux and intracellular impermeant negative charges",
+      "Active pumping of chloride into the cell"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "An action potential is initiated when:",
+    "options": [
+      "The membrane reaches the threshold potential",
+      "Potassium concentration inside the cell increases suddenly",
+      "Water enters the neuron",
+      "Sodium channels remain permanently closed"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The depolarization phase of an action potential is mainly caused by:",
+    "options": [
+      "Efflux of K⁺",
+      "Influx of Na⁺",
+      "Influx of Cl⁻",
+      "Efflux of Ca²⁺"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Repolarization is mainly caused by:",
+    "options": [
+      "Opening of potassium channels and K⁺ efflux",
+      "Continued rapid influx of Na⁺",
+      "Closure of all potassium channels",
+      "Increased ATP production"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "During hyperpolarization, the membrane potential becomes:",
+    "options": [
+      "More positive than the resting potential",
+      "Equal to zero",
+      "Less negative than the threshold potential",
+      "More negative than the normal resting potential"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Random molecular motion is most commonly observed in:",
+    "options": [
+      "Solids only",
+      "Liquids only",
+      "Gases only",
+      "Liquids and gases"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which lipoprotein is primarily taken up by receptor-mediated endocytosis for cellular cholesterol uptake?",
+    "options": [
+      "HDL",
+      "LDL",
+      "VLDL",
+      "IDL"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The primary mechanism of receptor-mediated endocytosis commonly involves:",
+    "options": [
+      "Formation of phagocytic pseudopodia",
+      "Formation of clathrin-coated pits",
+      "Direct diffusion through the lipid bilayer",
+      "Fusion of lysosomes with the plasma membrane"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The relationship between viscosity and Brownian motion is that:",
+    "options": [
+      "Increased viscosity increases particle movement",
+      "Decreased viscosity generally increases Brownian motion",
+      "Viscosity has no effect on particle movement",
+      "Viscosity determines the direction of movement"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which statement about Brownian motion is correct?",
+    "options": [
+      "It occurs only in gases",
+      "It follows a predictable linear path",
+      "It is caused primarily by gravity",
+      "It can be observed microscopically in sufficiently small particles"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The velocity of a particle undergoing Brownian motion:",
+    "options": [
+      "Remains constant",
+      "Increases at a constant rate",
+      "Decreases at a constant rate",
+      "Changes randomly with time"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Brownian motion of microscopic particles in a fluid is mainly opposed by:",
+    "options": [
+      "Static friction",
+      "Viscous friction",
+      "Rolling friction",
+      "Dry kinetic friction"
+    ],
+    "correctAnswer": 1
+  }
+]

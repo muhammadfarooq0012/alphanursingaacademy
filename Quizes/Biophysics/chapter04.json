@@ -1,0 +1,352 @@
+[
+  {
+    "question": "Which type of force primarily acts between separate molecules and influences their physical behavior?",
+    "options": [
+      "Intramolecular force",
+      "Intermolecular force",
+      "Nuclear force",
+      "Gravitational force"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The chemical properties of a substance are primarily determined by:",
+    "options": [
+      "The forces acting between separate molecules",
+      "The bonds and forces holding atoms together within molecules",
+      "The density and viscosity of the substance",
+      "The surface tension between the substance and its surroundings"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which interaction is most characteristic of two molecules possessing permanent dipoles?",
+    "options": [
+      "London dispersion force",
+      "Dipole–dipole interaction",
+      "Ion–dipole interaction",
+      "Metallic bonding"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The strength of a dipole–dipole interaction is most directly influenced by molecular polarity and:",
+    "options": [
+      "The number of covalent bonds only",
+      "The distance and relative orientation between the dipoles",
+      "The boiling point of the substance only",
+      "The total molecular mass regardless of structure"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "CO₂ contains polar C=O bonds but has no permanent molecular dipole because:",
+    "options": [
+      "Carbon and oxygen have identical electronegativities",
+      "The linear molecular geometry causes the bond dipoles to cancel",
+      "CO₂ contains only nonpolar covalent bonds",
+      "The molecule forms strong hydrogen bonds with itself"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "An ion–dipole interaction occurs between:",
+    "options": [
+      "Two oppositely charged ions",
+      "A permanent dipole and an induced dipole",
+      "A charged ion and a polar molecule",
+      "Two molecules with temporary dipoles"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "When NaCl dissolves in water, the strongest interaction directly stabilizing the separated ions is:",
+    "options": [
+      "Ion–dipole attraction between the ions and water molecules",
+      "Dipole–dipole attraction between Na⁺ and Cl⁻",
+      "London dispersion forces between NaCl and water",
+      "Hydrogen bonding directly between Na⁺ and Cl⁻"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A Debye interaction is best described as an attraction between:",
+    "options": [
+      "Two permanent dipoles",
+      "A permanent dipole and an induced dipole",
+      "Two oppositely charged ions",
+      "Two nonpolar molecules with only permanent dipoles"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which molecular characteristic most directly increases polarizability?",
+    "options": [
+      "Smaller electron cloud with fewer electrons",
+      "Larger electron cloud with more easily displaced electrons",
+      "Greater electronegativity difference between bonded atoms",
+      "Greater number of permanent molecular dipoles"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "In a sample of a noble gas, the dominant attractive intermolecular force is:",
+    "options": [
+      "Permanent dipole–dipole interaction",
+      "Ion–dipole interaction",
+      "London dispersion force",
+      "Hydrogen bonding"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "London dispersion forces generally become stronger as:",
+    "options": [
+      "Molecular size and electron count increase",
+      "Molecular size decreases and polarizability decreases",
+      "Electronegativity difference increases only",
+      "The number of hydrogen bonds decreases"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which interaction is generally the weakest among the following when comparing molecules of similar size and conditions?",
+    "options": [
+      "Hydrogen bonding",
+      "Dipole–dipole interaction",
+      "Ion–dipole interaction",
+      "London dispersion force"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A hydrogen bond is most likely to form when hydrogen is covalently bonded to:",
+    "options": [
+      "A highly electronegative, small atom such as F, O, or N",
+      "Any atom with a lone pair of electrons",
+      "A metal atom with a positive charge",
+      "A large nonpolar atom such as carbon"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which molecule generally forms the strongest individual hydrogen bonds?",
+    "options": [
+      "NH₃",
+      "H₂O",
+      "HF",
+      "HCl"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The commonly accepted order of the strength of individual hydrogen bonds is:",
+    "options": [
+      "NH₃ > H₂O > HF",
+      "H₂O > NH₃ > HF",
+      "HF > H₂O > NH₃",
+      "HF > NH₃ > H₂O"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The two strands of the DNA double helix are primarily stabilized by:",
+    "options": [
+      "Covalent bonds between complementary bases",
+      "Hydrogen bonds between complementary nitrogenous bases",
+      "Ionic bonds between the sugar-phosphate backbones",
+      "Metallic bonds between phosphate groups"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which molecule has polar bonds but a net dipole moment of zero because of its symmetrical geometry?",
+    "options": [
+      "H₂O",
+      "NH₃",
+      "CO₂",
+      "HCl"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A double covalent bond contains:",
+    "options": [
+      "One shared electron",
+      "One shared pair of electrons",
+      "Two shared pairs of electrons",
+      "Three shared pairs of electrons"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which molecule contains a triple covalent bond between its atoms?",
+    "options": [
+      "H₂",
+      "O₂",
+      "N₂",
+      "Cl₂"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A polar covalent bond is produced when:",
+    "options": [
+      "Electrons are transferred completely from one atom to another",
+      "Bonding electrons are shared equally",
+      "Bonding electrons are shared unequally because of differences in electronegativity",
+      "Electrons become completely free to move throughout a solid"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which electronegativity difference is most commonly associated with a polar covalent bond?",
+    "options": [
+      "Approximately 0–0.2",
+      "Approximately 0.4–1.7",
+      "Greater than approximately 2.0",
+      "Exactly 0"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A coordinate covalent bond differs from an ordinary covalent bond because:",
+    "options": [
+      "The bonding pair is donated entirely by one atom",
+      "The bonding pair is transferred completely to another atom",
+      "Both atoms contribute exactly two electrons each",
+      "No electrons are involved in bond formation"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "During the reaction NH₃ + H⁺ → NH₄⁺, which species donates the electron pair?",
+    "options": [
+      "H⁺",
+      "NH₃",
+      "NH₄⁺",
+      "The hydrogen atom already bonded to nitrogen"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "During the formation of NH₄⁺ from NH₃ and H⁺, the electron-pair acceptor is:",
+    "options": [
+      "The nitrogen atom of NH₃",
+      "NH₃ as a complete molecule",
+      "H⁺",
+      "The newly formed NH₄⁺ ion"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which interaction is generally strongest among the following?",
+    "options": [
+      "London dispersion force",
+      "Hydrogen bond",
+      "Ion–dipole interaction",
+      "Covalent bond"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Metallic bonding is best explained by:",
+    "options": [
+      "Localized electron pairs shared between specific metal atoms",
+      "Attraction between positive metal ions and delocalized valence electrons",
+      "Attraction between metal ions and permanent molecular dipoles",
+      "Complete transfer of all valence electrons to neighboring atoms"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The acid dissociation constant, Ka, primarily reflects the:",
+    "options": [
+      "Solubility of an acid in water",
+      "Extent to which an acid ionizes and donates a proton in solution",
+      "Ability of an acid to accept an electron pair",
+      "Molecular mass of the acid"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A larger Ka value generally indicates:",
+    "options": [
+      "A smaller degree of acid ionization",
+      "A weaker proton-donating ability",
+      "A greater tendency to donate protons and therefore a stronger acid",
+      "A greater tendency to accept protons and therefore a stronger base"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The base dissociation constant, Kb, primarily measures the:",
+    "options": [
+      "Ability of a base to donate a proton",
+      "Extent to which a base reacts with water to accept a proton",
+      "Ability of a base to accept an electron pair only",
+      "Solubility of a base in a nonpolar solvent"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "According to the Brønsted–Lowry theory, a base is a species that:",
+    "options": [
+      "Donates an electron pair",
+      "Accepts an electron pair",
+      "Donates a proton",
+      "Accepts a proton"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Dipole moment is a measure of the:",
+    "options": [
+      "Magnitude of charge separation between the positive and negative centers in a molecule",
+      "Total number of positive and negative charges present in a molecule",
+      "Difference between the number of positive and negative charges in a molecule",
+      "Strength of attraction between positive and negative charges in a molecule"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "One Debye (D) is non-SI unit of dipole moment which is approximately equal to:",
+    "options": [
+      "3.336 × 10⁻³⁰ C·m",
+      "3.336 × 10⁻¹⁹ C·m",
+      "9.0 × 10⁹ C·m",
+      "1.602 × 10⁻¹⁹ C·m"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The SI unit of electric dipole moment is:",
+    "options": [
+      "Coulomb per meter (C/m)",
+      "Coulomb meter (C·m)",
+      "Newton per coulomb (N/C)",
+      "Joule per coulomb (J/C)"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "For a simple dipole, the magnitude of dipole moment is given by:",
+    "options": [
+      "μ = q/r",
+      "μ = q × r",
+      "μ = r/q",
+      "μ = q + r"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The dipole moment of a molecule depends primarily on the:",
+    "options": [
+      "Magnitude of separated charge and distance between the charge centers",
+      "Magnitude of total molecular charge and distance between the nuclei",
+      "Difference in atomic masses and distance between the bonded atoms",
+      "Magnitude of electronegativity difference and total molecular size"
+    ],
+    "correctAnswer": 0
+  }
+]
