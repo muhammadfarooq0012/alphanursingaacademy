@@ -47,7 +47,7 @@
       "icon": "fa-clipboard-list",
       "color": "#f39c12",
       "folder": "QR 1",
-      "chapters": []
+      "chapters": ["chapter01", "chapter02", "chapter03"]
     }
   ]
 }

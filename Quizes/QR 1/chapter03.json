@@ -1,0 +1,1267 @@
+[
+  {
+    "question": "Statistics is the science of:",
+    "options": [
+      "Solving algebraic equations",
+      "Drawing geometric figures",
+      "Collecting, organizing, analyzing, interpreting, and presenting data",
+      "Measuring angles only",
+      "Calculating areas"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which of the following is an application of statistics?",
+    "options": [
+      "Market research",
+      "Weather forecasting",
+      "Disease tracking",
+      "Investment analysis",
+      "All of the above"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "Statistics is mainly divided into how many types?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which branch of statistics summarizes and presents data?",
+    "options": [
+      "Probability",
+      "Inferential Statistics",
+      "Mathematical Statistics",
+      "Descriptive Statistics",
+      "Applied Statistics"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which branch of statistics is used to make predictions about a population from a sample?",
+    "options": [
+      "Descriptive Statistics",
+      "Mathematical Statistics",
+      "Business Statistics",
+      "Probability",
+      "Inferential Statistics"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "Which of the following is a measure of central tendency?",
+    "options": [
+      "Variance",
+      "Standard Deviation",
+      "Mean",
+      "Range",
+      "Quartile Deviation"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The value that occurs most frequently in a data set is called:",
+    "options": [
+      "Mean",
+      "Median",
+      "Range",
+      "Variance",
+      "Mode"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "The middle value of an ordered data set is called:",
+    "options": [
+      "Mean",
+      "Median",
+      "Mode",
+      "Range",
+      "Variance"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which measure of dispersion is obtained by subtracting the smallest value from the largest value?",
+    "options": [
+      "Standard Deviation",
+      "Mean Deviation",
+      "Quartile Deviation",
+      "Range",
+      "Variance"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The average of the values 8, 10, and 12 is:",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The range of the data 12, 18, 25, 30 is:",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "20",
+      "30"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Sampling means:",
+    "options": [
+      "Studying every member of the population",
+      "Selecting a subset of a population for study",
+      "Measuring only averages",
+      "Finding the range only",
+      "Drawing graphs"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A confidence interval is used to:",
+    "options": [
+      "Find the exact population value",
+      "Calculate the mode",
+      "Draw pie charts",
+      "Estimate the population parameter within a range",
+      "Arrange data"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Correlation measures:",
+    "options": [
+      "The average of data",
+      "The spread of data",
+      "The strength and direction of a relationship between two variables",
+      "Population size",
+      "Sample size"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Regression analysis is mainly used for:",
+    "options": [
+      "Finding the median",
+      "Measuring variation",
+      "Prediction and forecasting",
+      "Finding the mode",
+      "Classifying data"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which of the following belongs to inferential statistics?",
+    "options": [
+      "Mean",
+      "Median",
+      "Mode",
+      "Hypothesis Testing",
+      "Range"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which of the following is TRUE about descriptive statistics?",
+    "options": [
+      "It predicts future values.",
+      "It uses hypothesis testing.",
+      "It summarizes collected data.",
+      "It studies only populations.",
+      "It always requires probability."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The complete group under study is called the:",
+    "options": [
+      "Sample",
+      "Statistic",
+      "Parameter",
+      "Population",
+      "Variable"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which statement is correct?",
+    "options": [
+      "A sample always contains the whole population.",
+      "A sample is a subset of a population.",
+      "A population is always infinite.",
+      "Samples cannot be used for inference.",
+      "Parameters describe samples."
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A numerical value describing a population is called a:",
+    "options": [
+      "Statistic",
+      "Mean",
+      "Sample Size",
+      "Variable",
+      "Parameter"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "A method of collecting data from every member of a population is called:",
+    "options": [
+      "Sampling",
+      "Survey",
+      "Observation",
+      "Census",
+      "Estimation"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which of the following is an example of a finite population?",
+    "options": [
+      "Number of stars in the universe",
+      "Outcomes of tossing a coin forever",
+      "Students enrolled in a university",
+      "Real numbers",
+      "Sand particles on Earth"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which of the following is an example of an infinite population?",
+    "options": [
+      "Employees in a company",
+      "Students in a class",
+      "Houses in a city",
+      "Books in a library",
+      "Outcomes of tossing a coin endlessly"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "The number of observations selected from a population is called:",
+    "options": [
+      "Population Size",
+      "Parameter",
+      "Statistic",
+      "Sample Size",
+      "Sampling Error"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A numerical value calculated from a sample is called a:",
+    "options": [
+      "Parameter",
+      "Variable",
+      "Population",
+      "Mean",
+      "Statistic"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "A complete list of all members of a population from which a sample is selected is called the:",
+    "options": [
+      "Population",
+      "Sample",
+      "Census",
+      "Sampling Frame",
+      "Sampling Error"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The difference between a sample result and the true population value is called:",
+    "options": [
+      "Standard Error",
+      "Random Error",
+      "Sampling Error",
+      "Experimental Error",
+      "Measurement Error"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "In probability sampling, every member of the population has:",
+    "options": [
+      "No chance of selection",
+      "A fixed position",
+      "A different probability only",
+      "A known and non-zero chance of selection",
+      "An unknown chance of selection"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which sampling method gives every member an equal chance of being selected?",
+    "options": [
+      "Cluster Sampling",
+      "Convenience Sampling",
+      "Quota Sampling",
+      "Snowball Sampling",
+      "Simple Random Sampling"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "Dividing a population into groups (strata) and selecting random samples from each group is called:",
+    "options": [
+      "Cluster Sampling",
+      "Stratified Sampling",
+      "Systematic Sampling",
+      "Convenience Sampling",
+      "Snowball Sampling"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Selecting every 10th student from a list is an example of:",
+    "options": [
+      "Cluster Sampling",
+      "Stratified Sampling",
+      "Systematic Sampling",
+      "Quota Sampling",
+      "Judgmental Sampling"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "In cluster sampling, the population is first divided into:",
+    "options": [
+      "Variables",
+      "Samples",
+      "Parameters",
+      "Clusters",
+      "Categories"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Choosing samples in two or more stages is called:",
+    "options": [
+      "Simple Random Sampling",
+      "Cluster Sampling",
+      "Systematic Sampling",
+      "Multistage Sampling",
+      "Quota Sampling"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Selecting participants because they are easy to reach is known as:",
+    "options": [
+      "Stratified Sampling",
+      "Systematic Sampling",
+      "Convenience Sampling",
+      "Cluster Sampling",
+      "Random Sampling"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Choosing participants based on the researcher's judgment is called:",
+    "options": [
+      "Quota Sampling",
+      "Snowball Sampling",
+      "Cluster Sampling",
+      "Judgmental (Purposive) Sampling",
+      "Simple Random Sampling"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A researcher studying refugees asks each participant to refer others. Which sampling method is being used?",
+    "options": [
+      "Cluster Sampling",
+      "Convenience Sampling",
+      "Stratified Sampling",
+      "Snowball Sampling",
+      "Systematic Sampling"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Selecting people until a fixed number is reached in each category is called:",
+    "options": [
+      "Cluster Sampling",
+      "Stratified Sampling",
+      "Quota Sampling",
+      "Systematic Sampling",
+      "Multistage Sampling"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The square root of variance is called:",
+    "options": [
+      "Mean Deviation",
+      "Range",
+      "Quartile Deviation",
+      "Variance",
+      "Standard Deviation"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "The average of the absolute deviations from the mean is called:",
+    "options": [
+      "Variance",
+      "Standard Deviation",
+      "Range",
+      "Mean Deviation",
+      "Coefficient of Variation"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "If the first quartile Q1=20and the third quartile Q3=40, then the quartile deviation is:",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20",
+      "30"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Find the mean of the data: 20, 24, 28, 32, 36",
+    "options": [
+      "26",
+      "27",
+      "28",
+      "30",
+      "32"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Find the median of the data: 4, 6, 8, 10, 12, 14, 16",
+    "options": [
+      "6",
+      "7",
+      "9",
+      "10",
+      "12"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Find the mode of the data: 7, 8, 8, 9, 9, 9, 10",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "No mode"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Find the range of the data: 52, 35, 48, 61, 40",
+    "options": [
+      "22",
+      "26",
+      "28",
+      "30",
+      "35"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The variance of the data {5, 7, 9} is:",
+    "options": [
+      "2.00",
+      "2.67",
+      "3.00",
+      "4.00",
+      "5.33"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The standard deviation of the data {5, 7, 9} is approximately:",
+    "options": [
+      "1.25",
+      "1.63",
+      "2.00",
+      "2.45",
+      "3.00"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Find the mean deviation about the mean for the data {6, 9, 12}.",
+    "options": [
+      "1.50",
+      "2.00",
+      "2.00",
+      "2.67",
+      "3.00"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Find the quartile deviation of the data: 6, 8, 10, 12, 14, 16, 18, 20",
+    "options": [
+      "3",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Find the mean of the data: 18, 20, 22, 24, 26",
+    "options": [
+      "20",
+      "22",
+      "23",
+      "24",
+      "25"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Find the median of the data: 9, 11, 13, 15, 17, 19",
+    "options": [
+      "12",
+      "13",
+      "14",
+      "15",
+      "16"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Find the mode of the data: 12, 14, 14, 14, 18, 20",
+    "options": [
+      "12",
+      "14",
+      "18",
+      "20",
+      "No mode"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Find the range of the data: 72, 65, 84, 91, 60",
+    "options": [
+      "25",
+      "28",
+      "31",
+      "35",
+      "40"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The variance of the data {7, 9, 11} is:",
+    "options": [
+      "2.00",
+      "2.67",
+      "3.33",
+      "4.00",
+      "5.33"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The standard deviation of the data {7, 9, 11} is approximately:",
+    "options": [
+      "1.25",
+      "1.63",
+      "2.00",
+      "2.45",
+      "2.67"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Find the mean deviation about the mean for the data {8, 10, 12}.",
+    "options": [
+      "1.33",
+      "1.33",
+      "2.00",
+      "2.67",
+      "3.33"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Find the quartile deviation of the data: 10, 12, 14, 16, 18, 20, 22, 24",
+    "options": [
+      "3",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Find the mean of the data: 30, 35, 40, 45, 50",
+    "options": [
+      "35",
+      "38",
+      "40",
+      "42",
+      "45"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Find the median of the data: 21, 23, 25, 27, 29",
+    "options": [
+      "23",
+      "24",
+      "25",
+      "26",
+      "27"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The variance of the data {8, 10, 12} is:",
+    "options": [
+      "2.67",
+      "3.00",
+      "4.00",
+      "5.33",
+      "6.00"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The standard deviation of the data {8, 10, 12} is approximately:",
+    "options": [
+      "1.41",
+      "1.63",
+      "2.00",
+      "2.45",
+      "2.67"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The ratio of the difference between the largest and smallest values to their sum is known as:",
+    "options": [
+      "Coefficient of Variation",
+      "Coefficient of Range",
+      "Coefficient of Mean Deviation",
+      "Standard Deviation",
+      "Variance"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The formula for the coefficient of range is:",
+    "options": [
+      "L+SL-S",
+      "L-S2",
+      "L-SL+S",
+      "LS",
+      "SL"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "If the largest value is 80 and the smallest value is 20, then the coefficient of range is:",
+    "options": [
+      "0.40",
+      "0.60",
+      "0.50",
+      "0.75",
+      "0.80"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which relative measure is expressed as a percentage?",
+    "options": [
+      "Coefficient of Range",
+      "Coefficient of Mean Deviation",
+      "Coefficient of Variation",
+      "Quartile Deviation",
+      "Variance"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "If the mean is 25 and the standard deviation is 5, then the coefficient of variation is:",
+    "options": [
+      "10%",
+      "15%",
+      "20%",
+      "25%",
+      "30%"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The coefficient of mean deviation is calculated by:",
+    "options": [
+      "Mean ÷ Mean Deviation",
+      "Mean Deviation ÷ Mean",
+      "Standard Deviation ÷ Mean",
+      "Mean × Mean Deviation",
+      "Mean − Mean Deviation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "If the mean deviation is 4 and the mean is 20, then the coefficient of mean deviation is:",
+    "options": [
+      "0.10",
+      "0.20",
+      "0.25",
+      "0.40",
+      "0.50"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "If Q1=30and Q3=50, then the coefficient of quartile deviation is:",
+    "options": [
+      "0.20",
+      "0.25",
+      "0.33",
+      "0.40",
+      "0.50"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following is a relative measure of dispersion?",
+    "options": [
+      "Variance",
+      "Standard Deviation",
+      "Mean Deviation",
+      "Coefficient of Quartile Deviation",
+      "Range"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which measure is independent of the units of measurement?",
+    "options": [
+      "Variance",
+      "Range",
+      "Standard Deviation",
+      "Mean Deviation",
+      "Coefficient of Variation"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "Data interpretation mainly involves:",
+    "options": [
+      "Collecting data only",
+      "Drawing graphs only",
+      "Analyzing data and drawing conclusions",
+      "Calculating the mean only",
+      "Arranging data alphabetically"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which is the first step in data interpretation?",
+    "options": [
+      "Data Analysis",
+      "Data Organization",
+      "Data Collection",
+      "Data Cleaning",
+      "Reporting Findings"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Removing incorrect or duplicate values from collected data is called:",
+    "options": [
+      "Data Organization",
+      "Data Cleaning",
+      "Data Visualization",
+      "Data Analysis",
+      "Reporting Findings"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Showing information through charts and graphs is known as:",
+    "options": [
+      "Comparative Interpretation",
+      "Data Collection",
+      "Data Cleaning",
+      "Data Visualization",
+      "Inferential Interpretation"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Using historical data to estimate future results is called:",
+    "options": [
+      "Descriptive Interpretation",
+      "Comparative Interpretation",
+      "Correlational Interpretation",
+      "Predictive Interpretation",
+      "Exploratory Interpretation"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The rules used to determine how many ways an event can occur are called:",
+    "options": [
+      "Probability Rules",
+      "Algebraic Rules",
+      "Counting Rules",
+      "Statistical Rules",
+      "Distribution Rules"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which counting rule is used when two events cannot happen at the same time?",
+    "options": [
+      "Multiplication Rule",
+      "Factorial Rule",
+      "Permutation Rule",
+      "Combination Rule",
+      "Addition Rule"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "If Event A can occur in 6 ways and Event B can occur in 4 ways, and the events are mutually exclusive, the total number of ways is:",
+    "options": [
+      "10",
+      "12",
+      "24",
+      "2",
+      "20"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Which counting rule is used when events occur one after another?",
+    "options": [
+      "Addition Rule",
+      "Multiplication Rule",
+      "Combination Rule",
+      "Factorial Rule",
+      "Complement Rule"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "If one task can be done in 5 ways and another in 7 ways, the total number of ways is:",
+    "options": [
+      "12",
+      "30",
+      "35",
+      "2",
+      "42"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The value of 5!is:",
+    "options": [
+      "20",
+      "60",
+      "120",
+      "125",
+      "720"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which formula is used to calculate permutations?",
+    "options": [
+      "n!r!",
+      "n!n-r!",
+      "n!r!n-r!",
+      "n+r",
+      "n-r"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which formula is used to calculate combinations?",
+    "options": [
+      "n!n-r!",
+      "n!r!n-r!",
+      "n!",
+      "n+r",
+      "n-r"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Probability is defined as:",
+    "options": [
+      "The average of outcomes",
+      "The total number of outcomes",
+      "The chance that an event will occur",
+      "The difference between outcomes",
+      "The product of outcomes"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The probability of getting a head when tossing a fair coin is:",
+    "options": [
+      "0",
+      "1/4",
+      "1/3",
+      "1/2",
+      "1"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "An event that has only one outcome is called a:",
+    "options": [
+      "Compound Event",
+      "Joint Event",
+      "Simple Event",
+      "Complementary Event",
+      "Dependent Event"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Events that cannot occur at the same time are called:",
+    "options": [
+      "Independent Events",
+      "Dependent Events",
+      "Joint Events",
+      "Mutually Exclusive Events",
+      "Exhaustive Events"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The set of all possible outcomes of an experiment is called the:",
+    "options": [
+      "Event",
+      "Outcome",
+      "Experiment",
+      "Sample Space",
+      "Complement"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A variable that takes countable values such as 0, 1, 2, and 3 is called a:",
+    "options": [
+      "Continuous Random Variable",
+      "Discrete Random Variable",
+      "Independent Variable",
+      "Dependent Variable",
+      "Constant Variable"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following is an example of a continuous random variable?",
+    "options": [
+      "Number of books",
+      "Number of students",
+      "Number of cars",
+      "Number of heads in 5 tosses",
+      "Height of students"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "PMF is used for which type of random variable?",
+    "options": [
+      "Continuous",
+      "Both Continuous and Discrete",
+      "Normal",
+      "Discrete",
+      "Uniform"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "PDF is associated with:",
+    "options": [
+      "Discrete Random Variables",
+      "Binomial Distribution",
+      "Continuous Random Variables",
+      "Poisson Distribution",
+      "Geometric Distribution"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The Cumulative Distribution Function (CDF) gives:",
+    "options": [
+      "PX=x",
+      "PX>x",
+      "PX≤x",
+      "PX<xonly",
+      "PX≥x"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which probability distribution is used for a fixed number of independent trials with two possible outcomes?",
+    "options": [
+      "Poisson Distribution",
+      "Binomial Distribution",
+      "Gamma Distribution",
+      "Beta Distribution",
+      "Uniform Distribution"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which continuous distribution is bell-shaped and symmetric about the mean?",
+    "options": [
+      "Uniform Distribution",
+      "Exponential Distribution",
+      "Gamma Distribution",
+      "Beta Distribution",
+      "Normal Distribution"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "The probability of an impossible event is:",
+    "options": [
+      "1",
+      "1/2",
+      "2",
+      "0",
+      "–1"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The probability of a certain event is:",
+    "options": [
+      "0",
+      "1/2",
+      "1",
+      "2",
+      "–1"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A standard die is rolled. What is the probability of getting an even number?",
+    "options": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "2/3",
+      "5/6"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A card is drawn from a standard deck of 52 cards. What is the probability of drawing a King?",
+    "options": [
+      "1/26",
+      "1/13",
+      "1/4",
+      "4/13",
+      "1/52"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "How many ways can 4 different books be arranged on a shelf?",
+    "options": [
+      "12",
+      "16",
+      "24",
+      "32",
+      "64"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The value of 6!is:",
+    "options": [
+      "120",
+      "360",
+      "720",
+      "840",
+      "5040"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Evaluate 5P2.",
+    "options": [
+      "10",
+      "20",
+      "25",
+      "30",
+      "60"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Evaluate 6C2.",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "20",
+      "30"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which counting technique is used when the order of selection does NOT matter?",
+    "options": [
+      "Permutation",
+      "Factorial",
+      "Product Rule",
+      "Combination",
+      "Addition Rule"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which counting technique is used when the order of selection DOES matter?",
+    "options": [
+      "Combination",
+      "Permutation",
+      "Addition Rule",
+      "Probability Rule",
+      "Complement Rule"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "If two events are independent, then:",
+    "options": [
+      "One event changes the probability of the other.",
+      "They cannot occur together.",
+      "One event does not affect the other.",
+      "They are complementary.",
+      "They are exhaustive."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The complement of an event A is represented by:",
+    "options": [
+      "A + B",
+      "A ∩ B",
+      "A′",
+      "A × B",
+      "A/B"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which of the following is an example of a discrete random variable?",
+    "options": [
+      "Weight of a person",
+      "Time taken to complete a race",
+      "Temperature of a city",
+      "Number of defective bulbs in a box",
+      "Length of a wire"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which probability distribution models the number of events occurring in a fixed interval?",
+    "options": [
+      "Binomial Distribution",
+      "Geometric Distribution",
+      "Poisson Distribution",
+      "Uniform Distribution",
+      "Beta Distribution"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which distribution models the number of trials needed to get the first success?",
+    "options": [
+      "Binomial Distribution",
+      "Geometric Distribution",
+      "Poisson Distribution",
+      "Gamma Distribution",
+      "Normal Distribution"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which distribution is used when sampling is done without replacement from a finite population?",
+    "options": [
+      "Binomial Distribution",
+      "Poisson Distribution",
+      "Geometric Distribution",
+      "Hypergeometric Distribution",
+      "Uniform Distribution"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which distribution is commonly used to model waiting time between events?",
+    "options": [
+      "Normal Distribution",
+      "Exponential Distribution",
+      "Binomial Distribution",
+      "Hypergeometric Distribution",
+      "Beta Distribution"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "In a uniform distribution:",
+    "options": [
+      "Most values occur near the mean.",
+      "Events occur in fixed intervals.",
+      "All values in the interval are equally likely.",
+      "Outcomes are countable only.",
+      "Only two outcomes are possible."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which distribution is commonly used to model probabilities or proportions between 0 and 1?",
+    "options": [
+      "Normal Distribution",
+      "Gamma Distribution",
+      "Poisson Distribution",
+      "Beta Distribution",
+      "Binomial Distribution"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The total probability of all possible outcomes in a sample space is always:",
+    "options": [
+      "0",
+      "1/2",
+      "2",
+      "Infinite",
+      "1"
+    ],
+    "correctAnswer": 4
+  }
+]

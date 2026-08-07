@@ -1,0 +1,1201 @@
+[
+  {
+    "question": "Which of the following extends infinitely in both directions without bending?",
+    "options": [
+      "Ray",
+      "Line segment",
+      "Straight line",
+      "Curve",
+      "Arc"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which line is parallel to the x-axis?",
+    "options": [
+      "Vertical line",
+      "Slant line",
+      "Curved line",
+      "Horizontal line",
+      "Ray"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which line is parallel to the y-axis?",
+    "options": [
+      "Horizontal line",
+      "Straight line",
+      "Vertical line",
+      "Curved line",
+      "Diagonal line"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Two lines that meet at an angle of 90° are called:",
+    "options": [
+      "Parallel lines",
+      "Curved lines",
+      "Horizontal lines",
+      "Vertical lines",
+      "Perpendicular lines"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "Which statement is true about parallel lines?",
+    "options": [
+      "They always intersect.",
+      "They form a right angle.",
+      "They never intersect.",
+      "They have one common endpoint.",
+      "They form a circle."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which of the following is NOT a straight line?",
+    "options": [
+      "Horizontal line",
+      "Vertical line",
+      "Perpendicular line",
+      "Parallel line",
+      "Curved line"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "A flat surface that extends infinitely in all directions is called a:",
+    "options": [
+      "Line",
+      "Polygon",
+      "Ray",
+      "Plane",
+      "Circle"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The common endpoint of two rays forming an angle is called the:",
+    "options": [
+      "Radius",
+      "Chord",
+      "Vertex",
+      "Diameter",
+      "Arc"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which angle measures less than 90°?",
+    "options": [
+      "Right angle",
+      "Obtuse angle",
+      "Straight angle",
+      "Reflex angle",
+      "Acute angle"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "An angle measuring exactly 90° is called a:",
+    "options": [
+      "Acute angle",
+      "Obtuse angle",
+      "Straight angle",
+      "Right angle",
+      "Reflex angle"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which angle is greater than 90° but less than 180°?",
+    "options": [
+      "Acute angle",
+      "Right angle",
+      "Obtuse angle",
+      "Reflex angle",
+      "Full angle"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "An angle measuring exactly 180° is known as a:",
+    "options": [
+      "Acute angle",
+      "Right angle",
+      "Obtuse angle",
+      "Reflex angle",
+      "Straight angle"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "Which angle measures more than 180° but less than 360°?",
+    "options": [
+      "Acute angle",
+      "Right angle",
+      "Obtuse angle",
+      "Reflex angle",
+      "Straight angle"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Two adjacent angles whose sum is 90° are called:",
+    "options": [
+      "Supplementary angles",
+      "Vertical angles",
+      "Interior angles",
+      "Exterior angles",
+      "Complementary angles"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "Two angles whose sum is 180° are called:",
+    "options": [
+      "Complementary angles",
+      "Adjacent angles",
+      "Vertical angles",
+      "Supplementary angles",
+      "Reflex angles"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Angles opposite each other when two lines intersect are called:",
+    "options": [
+      "Adjacent angles",
+      "Interior angles",
+      "Exterior angles",
+      "Acute angles",
+      "Vertical angles"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "A polygon must have at least:",
+    "options": [
+      "One side",
+      "Two sides",
+      "Three sides",
+      "Four sides",
+      "Five sides"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which figure is NOT a polygon?",
+    "options": [
+      "Triangle",
+      "Square",
+      "Pentagon",
+      "Hexagon",
+      "Circle"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "The fixed point inside a circle is called the:",
+    "options": [
+      "Radius",
+      "Arc",
+      "Diameter",
+      "Center",
+      "Chord"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A line segment from the center to any point on the circle is the:",
+    "options": [
+      "Diameter",
+      "Chord",
+      "Tangent",
+      "Secant",
+      "Radius"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "Which statement about the diameter is correct?",
+    "options": [
+      "It touches the circle at one point.",
+      "It is shorter than the radius.",
+      "It lies outside the circle.",
+      "It passes through the center.",
+      "It is an arc."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A line that touches a circle at exactly one point is called a:",
+    "options": [
+      "Radius",
+      "Diameter",
+      "Chord",
+      "Tangent",
+      "Secant"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A line that cuts a circle at two points is called a:",
+    "options": [
+      "Radius",
+      "Tangent",
+      "Arc",
+      "Sector",
+      "Secant"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "The distance around a circle is known as its:",
+    "options": [
+      "Area",
+      "Radius",
+      "Diameter",
+      "Chord",
+      "Circumference"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "Which of the following represents a well-defined collection of objects?",
+    "options": [
+      "Circle",
+      "Plane",
+      "Polygon",
+      "Set",
+      "Angle"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The union of two sets contains:",
+    "options": [
+      "Only common elements",
+      "Only different elements",
+      "No elements",
+      "Only elements of the first set",
+      "All elements from both sets without repetition"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "The intersection of two sets contains:",
+    "options": [
+      "All elements of both sets",
+      "Elements outside both sets",
+      "Only common elements",
+      "Only elements of the first set",
+      "Only elements of the second set"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The difference A-Bcontains:",
+    "options": [
+      "Elements common to A and B",
+      "Elements in A but not in B",
+      "Elements in B but not in A",
+      "All elements of A and B",
+      "No elements"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The complement of a set contains:",
+    "options": [
+      "Only common elements",
+      "Only repeated elements",
+      "Elements inside the set only",
+      "Elements not in the set but in the universal set",
+      "Only empty elements"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which of the following is TRUE?",
+    "options": [
+      "Every tangent passes through the center.",
+      "Every chord is a diameter.",
+      "A circle has four sides.",
+      "Parallel lines meet at one point.",
+      "Every diameter is also a chord."
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "A well-defined collection of distinct objects is called a:",
+    "options": [
+      "Relation",
+      "Set",
+      "Function",
+      "Variable",
+      "Equation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which symbol represents the union of two sets?",
+    "options": [
+      "∩",
+      "⊂",
+      "⊆",
+      "−",
+      "∪"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "If A = {1, 2, 3} and B = {3, 4, 5}, then A∩Bis:",
+    "options": [
+      "{1,2,3,4,5}",
+      "{1,2}",
+      "{3}",
+      "{4,5}",
+      "∅"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "If A = {2,4,6} and B = {4,6,8}, then A∪Bis:",
+    "options": [
+      "{4,6}",
+      "{2,8}",
+      "{2,4,6}",
+      "{2,4,6,8}",
+      "{2,6,8}"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which operation gives the elements in A but not in B?",
+    "options": [
+      "Union",
+      "Intersection",
+      "Complement",
+      "Symmetric Difference",
+      "Difference"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "If U=12345and A=24, then A'is:",
+    "options": [
+      "{2,4}",
+      "{1,2,3}",
+      "{1,3,5}",
+      "{1,5}",
+      "∅"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which law states that A∪B=B∪A?",
+    "options": [
+      "Identity Law",
+      "Commutative Law",
+      "Associative Law",
+      "Distributive Law",
+      "Complement Law"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which law is represented by A∪B∪C=A∪B∪C?",
+    "options": [
+      "Complement Law",
+      "Identity Law",
+      "Associative Law",
+      "Idempotent Law",
+      "Domination Law"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "If A = {1,2,3} and B = {3,4,5}, then A-Bequals:",
+    "options": [
+      "{3}",
+      "{4,5}",
+      "{1,2,3}",
+      "{1,2}",
+      "∅"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which expression is always equal to the universal set?",
+    "options": [
+      "A∩A",
+      "A∪∅",
+      "A∩U",
+      "A''",
+      "A∪A'"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "Which law states A∩U=A?",
+    "options": [
+      "Domination Law",
+      "Complement Law",
+      "Identity Law",
+      "Associative Law",
+      "Double Complement Law"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "If A=1234and B=246, then A∩Bcontains:",
+    "options": [
+      "One element",
+      "Two elements",
+      "Three elements",
+      "Four elements",
+      "No elements"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which statement is TRUE?",
+    "options": [
+      "A∪U=A",
+      "A∩∅=A",
+      "A''=U",
+      "A∪A=∅",
+      "A∩A=A"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "Which law is represented by A''=A?",
+    "options": [
+      "Complement Law",
+      "Identity Law",
+      "Double Complement Law",
+      "Domination Law",
+      "Distributive Law"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "If A = {1,3,5,7} and B = {2,3,5,8}, then A∪Bcontains how many elements?",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which of the following is De Morgan's Law?",
+    "options": [
+      "A∪A=A",
+      "A∩A=A",
+      "A∪U=U",
+      "A∪B'=A'∩B'",
+      "A∩U=U"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "If A=246, then A∩Aequals:",
+    "options": [
+      "∅",
+      "U",
+      "{2,4}",
+      "{4,6}",
+      "{2,4,6}"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "If U=123456, A=246, and B=125, then A∩Bis:",
+    "options": [
+      "{1,5}",
+      "{2,4}",
+      "{2}",
+      "{4,6}",
+      "∅"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "If A=abcdand B=cde, then A-Bequals:",
+    "options": [
+      "{c,d}",
+      "{a,b,c}",
+      "{e}",
+      "{a,b}",
+      "{a,b,e}"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "If U=12345678and A=2468, then the number of elements in A'is:",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "8"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "In the relation R=a1b2c3, the domain is:",
+    "options": [
+      "{1,2,3}",
+      "{a,1,b}",
+      "{(a,1),(b,2),(c,3)}",
+      "{a,b,c}",
+      "{a,c,3}"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "In the relation R=a1b2c3, the range is:",
+    "options": [
+      "{a,b,c}",
+      "{1,2,3}",
+      "{(1,a),(2,b),(3,c)}",
+      "{a,1,b}",
+      "∅"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "The set containing all possible output values of a relation is called the:",
+    "options": [
+      "Domain",
+      "Range",
+      "Relation",
+      "Mapping Rule",
+      "Codomain"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "The inverse of the relation R=a1b2is:",
+    "options": [
+      "{(a,2),(b,1)}",
+      "{(1,2),(a,b)}",
+      "{(1,a),(2,b)}",
+      "{(a,1),(2,b)}",
+      "{(1,b),(2,a)}"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which type of relation allows one domain element to be related to several codomain elements?",
+    "options": [
+      "One-to-One",
+      "Many-to-One",
+      "Many-to-Many",
+      "One-to-Many",
+      "Identity"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which type of relation allows many domain elements to have the same image?",
+    "options": [
+      "Many-to-One",
+      "One-to-One",
+      "One-to-Many",
+      "Identity",
+      "Universal"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A relation in which every element is related only to itself is called:",
+    "options": [
+      "Universal Relation",
+      "Empty Relation",
+      "Reflexive Relation",
+      "Symmetric Relation",
+      "Identity Relation"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "A relation having no ordered pairs is called:",
+    "options": [
+      "Identity Relation",
+      "Universal Relation",
+      "Reflexive Relation",
+      "Empty Relation",
+      "Symmetric Relation"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A relation in which every element is related to every element is called:",
+    "options": [
+      "Empty Relation",
+      "Identity Relation",
+      "Symmetric Relation",
+      "Transitive Relation",
+      "Universal Relation"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "A relation is reflexive if:",
+    "options": [
+      "No element is related to itself.",
+      "Every pair is reversed.",
+      "Every element is related to itself.",
+      "Every element has two images.",
+      "It is one-to-one."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "If ab∈Ralways implies ba∈R, then R is:",
+    "options": [
+      "Reflexive",
+      "Irreflexive",
+      "Transitive",
+      "Symmetric",
+      "Asymmetric"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A relation that is reflexive, symmetric, and transitive is called:",
+    "options": [
+      "Identity Relation",
+      "Universal Relation",
+      "Equivalence Relation",
+      "Empty Relation",
+      "Inverse Relation"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A function is a relation in which:",
+    "options": [
+      "One output has many inputs only.",
+      "Every output has one input.",
+      "Each input has exactly one output.",
+      "Every input has many outputs.",
+      "Inputs are optional."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The rule that assigns each input exactly one output is called the:",
+    "options": [
+      "Domain",
+      "Relation",
+      "Codomain",
+      "Range",
+      "Mapping Rule"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "Which function has the graph of a parabola?",
+    "options": [
+      "Linear Function",
+      "Logarithmic Function",
+      "Exponential Function",
+      "Quadratic Function",
+      "Rational Function"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which function has the graph of a straight line?",
+    "options": [
+      "Quadratic Function",
+      "Trigonometric Function",
+      "Linear Function",
+      "Rational Function",
+      "Logarithmic Function"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which function grows or decays rapidly?",
+    "options": [
+      "Polynomial Function",
+      "Rational Function",
+      "Linear Function",
+      "Piecewise Function",
+      "Exponential Function"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "Which graph is symmetric about the y-axis?",
+    "options": [
+      "Odd Function",
+      "Increasing Function",
+      "Decreasing Function",
+      "Even Function",
+      "Bijective Function"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which of the following is a bijective function?",
+    "options": [
+      "fx=x2(all real numbers)",
+      "fx=∣x∣",
+      "fx=sinx",
+      "fx=x2+1",
+      "fx=2x+1"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "What is the value of 23×25?",
+    "options": [
+      "28",
+      "22",
+      "215",
+      "25",
+      "21"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "According to the quotient rule, 5753equals:",
+    "options": [
+      "521",
+      "510",
+      "53",
+      "54",
+      "51"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Simplify 324.",
+    "options": [
+      "36",
+      "38",
+      "34",
+      "32",
+      "316"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which expression is equal to 2×53?",
+    "options": [
+      "23+53",
+      "25×52",
+      "23×53",
+      "106",
+      "28"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The value of 1232is:",
+    "options": [
+      "8",
+      "12",
+      "9",
+      "4",
+      "16"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "What is the value of 150?",
+    "options": [
+      "15",
+      "0",
+      "-1",
+      "1",
+      "Undefined"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Simplify 4-2.",
+    "options": [
+      "16",
+      "12",
+      "14",
+      "4",
+      "116"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "Which statement is always true?",
+    "options": [
+      "a1=1",
+      "a0=0",
+      "a1=a",
+      "1n=0",
+      "00=1"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "What is the value of 1250?",
+    "options": [
+      "0",
+      "250",
+      "Undefined",
+      "1",
+      "-1"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "What is the value of 06?",
+    "options": [
+      "1",
+      "6",
+      "Undefined",
+      "0",
+      "Infinity"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which method is commonly used when every term has a common factor?",
+    "options": [
+      "Difference of Squares",
+      "Completing the Square",
+      "Quadratic Formula",
+      "Common Factor Method",
+      "Cross Multiplication"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which identity is correct?",
+    "options": [
+      "a+b2=a2+b2",
+      "a+b2=a2+2ab+b2",
+      "a+b2=a2-2ab+b2",
+      "a+b2=a2+ab+b2",
+      "a+b2=2a2+2b2"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which identity represents the square of a difference?",
+    "options": [
+      "a2-b2=a+b2",
+      "a-b2=a2+2ab+b2",
+      "a-b2=a2-2ab+b2",
+      "a-b2=a2-b2",
+      "a-b2=a2+ab+b2"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The factorization of a2-b2is:",
+    "options": [
+      "a-b2",
+      "a+b2",
+      "a-ba-b",
+      "a-ba+b",
+      "a+ba+b"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which identity is correct for the sum of cubes?",
+    "options": [
+      "a3+b3=a+b3",
+      "a3+b3=a-ba2+ab+b2",
+      "a3+b3=a+ba2+ab+b2",
+      "a3+b3=a+ba2-ab+b2",
+      "a3+b3=a+ba2-ab+b2"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "Factorize x2-25.",
+    "options": [
+      "x-25x+1",
+      "x-52",
+      "x-5x+5",
+      "x+25x-1",
+      "Prime expression"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Expand x+42.",
+    "options": [
+      "x2+16",
+      "x2+4x+16",
+      "x2+8x+16",
+      "x2+6x+16",
+      "x2-8x+16"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Solve 2x+5=11.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A linear equation has the highest power of the variable equal to:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A graph of a linear equation is always a:",
+    "options": [
+      "Circle",
+      "Parabola",
+      "Hyperbola",
+      "Ellipse",
+      "Straight line"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "A linear system of equations contains:",
+    "options": [
+      "Only one equation",
+      "Only quadratic equations",
+      "Two or more linear equations with the same variables",
+      "Only one variable",
+      "Only exponential equations"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which of the following is NOT a method for solving a system of linear equations?",
+    "options": [
+      "Substitution Method",
+      "Elimination Method",
+      "Graphical Method",
+      "Long Division Method",
+      "Cramer's Rule"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Solve the system:\nx+y=7, x-y=3",
+    "options": [
+      "x=4, y=3",
+      "x=3, y=4",
+      "x=5, y=2",
+      "x=6, y=1",
+      "x=2, y=5"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A quadratic equation has the highest power of the variable equal to:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Which of the following is a quadratic equation?",
+    "options": [
+      "2x+5=0",
+      "x3-4=0",
+      "5=0",
+      "x=4",
+      "x2+5x+6=0"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "Which method can be used to solve a quadratic equation?",
+    "options": [
+      "Factorization only",
+      "Graphical Method only",
+      "Matrix Method only",
+      "Quadratic Formula",
+      "Chain Rule"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Solve x2-9=0.",
+    "options": [
+      "x=±9",
+      "x=3only",
+      "x=-3only",
+      "x=±3",
+      "No real solution"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Factorize x2+7x+10.",
+    "options": [
+      "x+1x+10",
+      "x+2x+3",
+      "x+10x-1",
+      "Prime expression",
+      "x+5x+2"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "Which method is based on the formula\nx=-b±b2-4ac2a?",
+    "options": [
+      "Completing the Square",
+      "Graphical Method",
+      "Factorization",
+      "Quadratic Formula Method",
+      "Matrix Method"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which method solves a quadratic equation by making one side a perfect square?",
+    "options": [
+      "Elimination Method",
+      "Substitution Method",
+      "Factorization",
+      "Cross Multiplication",
+      "Completing the Square Method"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "The radian measure of 180∘is:",
+    "options": [
+      "π4",
+      "π2",
+      "π",
+      "2π",
+      "3π2"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "The degree measure of π2radians is:",
+    "options": [
+      "30°",
+      "45°",
+      "60°",
+      "90°",
+      "180°"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Convert 60∘into radians.",
+    "options": [
+      "π2",
+      "π3",
+      "π4",
+      "π",
+      "2π3"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Convert 3π4radians into degrees.",
+    "options": [
+      "60°",
+      "90°",
+      "120°",
+      "135°",
+      "150°"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which of the following is equal to 2πradians?",
+    "options": [
+      "90°",
+      "180°",
+      "270°",
+      "300°",
+      "360°"
+    ],
+    "correctAnswer": 4
+  },
+  {
+    "question": "Convert 225∘into radians.",
+    "options": [
+      "3π4",
+      "π",
+      "5π4",
+      "7π6",
+      "3π2"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Convert 5π6radians into degrees.",
+    "options": [
+      "150°",
+      "120°",
+      "135°",
+      "180°",
+      "210°"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "The radian measure of 315∘is:",
+    "options": [
+      "3π2",
+      "5π4",
+      "7π4",
+      "2π",
+      "11π6"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Which formula is used to convert degrees into radians?",
+    "options": [
+      "Degrees × 180π",
+      "Degrees ÷ π",
+      "Radians × π180",
+      "Degrees × π180",
+      "Radians × 180"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Convert 11π6radians into degrees.",
+    "options": [
+      "300°",
+      "315°",
+      "330°",
+      "360°",
+      "270°"
+    ],
+    "correctAnswer": 2
+  }
+]
