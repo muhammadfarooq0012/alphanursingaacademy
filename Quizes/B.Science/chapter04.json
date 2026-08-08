@@ -1,0 +1,502 @@
+[
+  {
+    "question": "A physician evaluates a patient's family relationships, social support, occupation, and education before planning treatment. Which discipline primarily studies these factors in relation to health?",
+    "options": [
+      "Psychology",
+      "Medical anthropology",
+      "Behavioral science",
+      "Sociology"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A patient repeatedly misses follow-up visits because of financial problems, poor family support, and unemployment. These are best classified as:",
+    "options": [
+      "Psychosocial factors",
+      "Cultural determinants",
+      "Behavioral factors",
+      "Social determinants of health"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A physician asks about a patient's family structure because it can directly influence treatment decisions and coping with illness. Which sociological institution is MOST responsible?",
+    "options": [
+      "Social class",
+      "Social support",
+      "Social group",
+      "Family"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A patient lives with grandparents, parents, married uncles, aunts, cousins, and siblings in one household. Which family type BEST describes this arrangement?",
+    "options": [
+      "Extended family",
+      "Nuclear family",
+      "Blended family",
+      "Joint family"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A married couple lives with their children and grandparents, but no married uncles, aunts, or cousins. Which family type is MOST appropriate?",
+    "options": [
+      "Joint family",
+      "Nuclear family",
+      "Three-generation family",
+      "Extended family"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A physician visits a household consisting only of parents and their two children. Which family structure is MOST likely?",
+    "options": [
+      "Single-parent family",
+      "Extended family",
+      "Modified extended family",
+      "Nuclear family"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A widowed father lives alone with his two children and is responsible for all parental duties. Which family type is MOST appropriate?",
+    "options": [
+      "Nuclear family",
+      "Extended family",
+      "Joint family",
+      "Single-parent family"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A physician notices that family members rarely interact with neighbors, avoid outside relationships, and are excessively dependent on each other emotionally. Which family boundary is MOST likely present?",
+    "options": [
+      "Diffuse boundary",
+      "Rigid boundary",
+      "Open boundary",
+      "Closed boundary"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A family communicates freely with relatives, seeks help when needed, and encourages emotional independence among its members. This pattern is MOST consistent with:",
+    "options": [
+      "Flexible family system",
+      "Healthy family structure",
+      "Balanced family relationship",
+      "Open boundaries"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A physician prepares a three-generation diagram showing marriages, illnesses, and relationships before counselling a patient with breast cancer. Which tool is MOST appropriate?",
+    "options": [
+      "Family pedigree",
+      "Family history chart",
+      "Sociogram",
+      "Genogram"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A doctor constructs a genogram before evaluating a patient with recurrent depression. The PRIMARY purpose is to assess:",
+    "options": [
+      "Family support only",
+      "Genetic inheritance only",
+      "Household income only",
+      "Family relationships and disease patterns"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A patient recovering from stroke improves significantly because his family supervises medications, accompanies him to hospital visits, and provides emotional support. Which concept BEST explains this improvement?",
+    "options": [
+      "Social role",
+      "Social class",
+      "Primary group influence",
+      "Family's role in health"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A physician conducts a health education session for close friends who regularly meet, share personal experiences, and provide emotional support. This gathering is BEST classified as:",
+    "options": [
+      "Informal social network",
+      "Community organization",
+      "Secondary social group",
+      "Primary social group"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A physician notices that two patients with the same disease have different health outcomes because one has a higher income, better education, and a professional occupation. Which sociological factor BEST explains this difference?",
+    "options": [
+      "Social support",
+      "Social role",
+      "Socioeconomic status",
+      "Social class"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A patient chooses a private tertiary-care hospital because of greater financial resources and higher educational status. Which factor has MOST influenced this decision?",
+    "options": [
+      "Social support",
+      "Gender role",
+      "Family structure",
+      "Social class"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A physician observes that one patient delays seeking treatment despite severe symptoms, while another seeks medical advice early for minor complaints. According to sociology, this difference is MOST likely influenced by:",
+    "options": [
+      "Parenting style",
+      "Social class alone",
+      "Gender",
+      "Religion"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A 48-year-old man ignores persistent chest pain for several days because he believes seeking medical help is a sign of weakness. Which sociological factor BEST explains his behavior?",
+    "options": [
+      "Social class",
+      "Family support",
+      "Religion",
+      "Gender"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Parents enforce strict rules, expect complete obedience, and frequently punish their child for minor mistakes. Which parenting style is MOST consistent with this behavior?",
+    "options": [
+      "Permissive parenting",
+      "Authoritative parenting",
+      "Democratic parenting",
+      "Authoritarian parenting"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A 6-year-old child decides bedtime, meals, and screen time because the parents rarely set limits or discipline. Which parenting style is MOST likely?",
+    "options": [
+      "Authoritarian parenting",
+      "Authoritative parenting",
+      "Neglectful parenting",
+      "Permissive parenting"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Parents establish clear household rules but explain the reasons behind them, encourage discussion, and support independent decision-making. Which parenting style is BEST demonstrated?",
+    "options": [
+      "Authoritarian parenting",
+      "Permissive parenting",
+      "Protective parenting",
+      "Authoritative parenting"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A physician advises parents not to rely entirely on domestic servants to raise their child because this may impair emotional bonding and increase the risk of abuse. Which aspect of sociology is MOST relevant?",
+    "options": [
+      "Parenting style",
+      "Family boundaries",
+      "Child-rearing practices",
+      "Problems in child-rearing"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A female physician struggles to balance her responsibilities as a doctor, wife, and mother, leading to significant stress. Which sociological concept BEST explains this situation?",
+    "options": [
+      "Sick role",
+      "Social support",
+      "Role strain",
+      "Role conflict"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A patient recovering from myocardial infarction receives encouragement from family, colleagues, and close friends, resulting in reduced stress and improved adherence to medication. Which sociological factor has MOST contributed to this recovery?",
+    "options": [
+      "Family structure",
+      "Primary group",
+      "Religion",
+      "Social support"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A patient with advanced cancer reports that regular religious practices help reduce anxiety and provide hope during treatment. Which benefit of religion is BEST illustrated?",
+    "options": [
+      "Improved financial support",
+      "Better treatment adherence only",
+      "Reduced disease severity",
+      "Better coping with illness"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A young woman with epilepsy avoids telling others about her condition because she fears discrimination and social rejection. Which sociological concept BEST explains her behaviour?",
+    "options": [
+      "Illness behavior",
+      "Sick role",
+      "Social isolation",
+      "Stigma"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A 42-year-old man continues to behave like a patient even three months after complete recovery from viral hepatitis. He frequently requests medical leave and avoids returning to work despite normal clinical findings. Which sociological concept BEST explains this behavior?",
+    "options": [
+      "Illness behavior",
+      "Malingering",
+      "Treatment non-compliance",
+      "Sick role"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A woman repeatedly visits different hospitals complaining of persistent illness despite complete recovery. Her family gives her extra attention whenever she behaves like a patient, reinforcing this behavior. Which factor MOST likely maintains her condition?",
+    "options": [
+      "Chronic disease",
+      "Drug dependence",
+      "Poor doctor-patient communication",
+      "Family reinforcement"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A physician suspects that a patient has remained in the sick role long after recovery. Which initial management strategy is MOST appropriate?",
+    "options": [
+      "Order repeated laboratory investigations",
+      "Start empirical long-term medication",
+      "Refer immediately for surgery",
+      "Provide reassurance and remove reinforcement"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A recovered patient continues to complain of illness despite repeated normal investigations. According to the notes, which approach should be AVOIDED because it may reinforce the behavior?",
+    "options": [
+      "Reassurance",
+      "Psychiatric assessment when indicated",
+      "Early identification of the problem",
+      "Unnecessary diagnostic tests"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A patient with hypertension frequently misses clinic visits because he cannot understand the physician's instructions. Which factor is the MOST likely cause of poor treatment adherence?",
+    "options": [
+      "Chronic illness",
+      "Drug side effects",
+      "Multiple medications",
+      "Poor communication"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A patient with diabetes stops taking medication because he cannot afford the prescribed drugs. Which factor is MOST directly responsible for non-compliance?",
+    "options": [
+      "Depression",
+      "Multiple medicines",
+      "Poor communication",
+      "Drug cost"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "An elderly patient with heart failure forgets to take several prescribed medicines because the treatment regimen is complicated. Which factor is MOST likely contributing to poor compliance?",
+    "options": [
+      "Advanced age alone",
+      "Poor social support",
+      "Depression",
+      "Multiple medicines"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A physician notices that a patient with chronic kidney disease has become withdrawn, hopeless, and no longer follows medical advice. Which underlying factor should be recognized to improve treatment adherence?",
+    "options": [
+      "Financial burden",
+      "Side effects of medication",
+      "Poor communication",
+      "Depression"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A patient refuses antihypertensive medication because he believes herbal remedies alone can cure his illness. According to the notes, which intervention is MOST likely to improve adherence?",
+    "options": [
+      "Increase the drug dosage",
+      "Order additional investigations",
+      "Change to injectable medication",
+      "Understand the patient's beliefs and use shared decision-making"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A physician simplifies a patient's medication schedule from four daily doses to a single daily dose. Which strategy to improve treatment adherence is being applied?",
+    "options": [
+      "Increasing family supervision",
+      "Recognizing depression",
+      "Improving health literacy",
+      "Providing a simple treatment plan"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "The relatives of a terminally ill patient are updated regularly regarding the patient's worsening condition throughout hospitalization. Which outcome is MOST likely?",
+    "options": [
+      "Increased denial by the family",
+      "Delayed grief reaction",
+      "Increased conflict with healthcare staff",
+      "Better acceptance and reduced violence after death"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A patient's family believes that death occurred according to God's will. According to the physician's professional responsibility, what should be done NEXT?",
+    "options": [
+      "Accept the family's explanation without investigation",
+      "Avoid discussing the cause of death",
+      "Leave the diagnosis to religious leaders",
+      "Scientifically investigate the medical cause of death"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Following the death of a patient, the physician spends time explaining the events leading to death, answers questions honestly, and offers emotional support to the relatives. Which principle of sociological care is BEST demonstrated?",
+    "options": [
+      "Public health promotion",
+      "Treatment adherence",
+      "Social role management",
+      "Support for the grieving family through honest communication"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A physician treats a patient from a different ethnic background and first explores the patient's cultural beliefs before discussing treatment. Which behavioral science is MOST directly applied?",
+    "options": [
+      "Sociology",
+      "Psychology",
+      "Behavioral medicine",
+      "Anthropology"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A patient believes that hypertension developed because of the \"evil eye (Nazar)\" and requests a Taweez before starting medicines. Which concept BEST explains this belief?",
+    "options": [
+      "Social norm",
+      "Religious practice",
+      "Health literacy",
+      "Culture"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A physician explains that culture consists of learned beliefs, customs, values, and behaviors that are shared by members of a society and passed from one generation to another. Which characteristic of culture is MOST emphasized?",
+    "options": [
+      "Culture is inherited genetically.",
+      "Culture is biologically determined.",
+      "Culture is fixed throughout life.",
+      "Culture is learned and shared."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A newly graduated doctor adopts the traditions, communication style, dress code, and professional behavior commonly followed within the medical profession. This is BEST described as:",
+    "options": [
+      "Mainstream culture",
+      "Folkway",
+      "Social norm",
+      "Subculture"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Q43-A patient says, \"Allah gives health, and illness occurs only by His will.\" According to anthropology, this statement is an example of:",
+    "options": [
+      "Value",
+      "Norm",
+      "Folkway",
+      "Belief"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A daughter sacrifices her career to care for her elderly parents because she believes caring for family members is extremely important. This illustrates which element of culture?",
+    "options": [
+      "Belief",
+      "Folkway",
+      "Norm",
+      "Value"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A physician maintains patient confidentiality because it is an accepted professional standard of behavior. This is BEST classified as:",
+    "options": [
+      "Folkway",
+      "Belief",
+      "Value",
+      "Norm"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Patients in a rural community routinely address physicians as \"Doctor Sahib\" as a sign of respect. Which cultural element is illustrated?",
+    "options": [
+      "Law",
+      "Value",
+      "More",
+      "Folkway"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A physician refuses to disclose confidential patient information because violating confidentiality would be considered morally unacceptable. Which cultural element BEST explains this behavior?",
+    "options": [
+      "Folkway",
+      "Value",
+      "Law",
+      "More"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A physician follows PMDC regulations while practicing medicine because these are legally enforceable rules. Which cultural element is represented?",
+    "options": [
+      "Folkway",
+      "More",
+      "Norm",
+      "Law"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A patient believes that herbal remedies are safer than prescribed medicines. Before recommending treatment, the physician first asks, \"What do you think caused your illness?\" According to the LEARN approach, which step is being practiced?",
+    "options": [
+      "Explain",
+      "Acknowledge",
+      "Recommend",
+      "Listen"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A physician carefully listens to a patient's cultural beliefs, explains the disease scientifically, respects the patient's viewpoint, recommends appropriate therapy, and develops a mutually acceptable management plan. Which principle of culturally sensitive care is MOST completely demonstrated?",
+    "options": [
+      "Patient-centered communication",
+      "Shared decision-making alone",
+      "Cultural competence only",
+      "LEARN approach"
+    ],
+    "correctAnswer": 3
+  }
+]

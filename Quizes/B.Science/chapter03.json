@@ -1,0 +1,802 @@
+[
+  {
+    "question": "A medical student begins answering more questions during tutorials because the professor praises every correct response. According to Skinner, which learning principle BEST explains this change?",
+    "options": [
+      "Classical conditioning through repeated association",
+      "Positive reinforcement by adding a rewarding stimulus",
+      "Negative reinforcement by removing an unpleasant stimulus",
+      "Extinction due to withdrawal of reinforcement"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A driver immediately fastens the seat belt because the irritating alarm stops as soon as the belt is secured. Which learning principle is MOST accurately illustrated?",
+    "options": [
+      "Positive reinforcement because a pleasant stimulus is added",
+      "Punishment because discomfort follows the behaviour",
+      "Negative reinforcement because an unpleasant stimulus is removed",
+      "Extinction because the conditioned response disappears"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A child touches a hot iron, experiences pain, and thereafter avoids touching it again. Which behavioral principle BEST explains this learning?",
+    "options": [
+      "Positive reinforcement",
+      "Negative reinforcement",
+      "Punishment",
+      "Modelling"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A surgical resident is rewarded after successfully performing each small component of wound suturing until the complete procedure is mastered independently. Which learning technique is MOST appropriate?",
+    "options": [
+      "Extinction",
+      "Modelling",
+      "Shaping",
+      "Classical conditioning"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A first-year medical student develops excellent bedside manners after carefully observing an experienced consultant interact with patients. Which learning method BEST explains this?",
+    "options": [
+      "Negative reinforcement",
+      "Modelling",
+      "Extinction",
+      "Maintenance rehearsal"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A child salivates whenever he hears the school lunch bell because it has repeatedly been paired with food. Which learning process is MOST responsible?",
+    "options": [
+      "Operant conditioning through reinforcement",
+      "Classical conditioning through association",
+      "Insight learning through problem-solving",
+      "Shaping through gradual reinforcement"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "During Pavlov's experiment, food naturally caused salivation before any training occurred. Food is BEST classified as:",
+    "options": [
+      "Conditioned stimulus",
+      "Neutral stimulus",
+      "Unconditioned stimulus",
+      "Conditioned response"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "After repeated pairing of a bell with food, a dog begins salivating when only the bell is presented. The salivation produced by the bell alone is the:",
+    "options": [
+      "Unconditioned response",
+      "Conditioned response",
+      "Unconditioned stimulus",
+      "Neutral response"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A psychologist repeatedly rings the conditioned bell without presenting food. After several trials, the dog no longer salivates. Which process has MOST likely occurred?",
+    "options": [
+      "Generalization",
+      "Punishment",
+      "Extinction",
+      "Shaping"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A smoker successfully quits after identifying situations that trigger smoking and intentionally avoiding them. Which method for breaking bad habits is MOST directly applied?",
+    "options": [
+      "Elaborative rehearsal",
+      "Avoiding triggers (cues)",
+      "Positive punishment",
+      "Functional fixedness"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A medical student reviews the learning objectives before opening a textbook, decides which chapters require more attention, and prepares a timetable for revision. Which phase of metacognition is BEST demonstrated?",
+    "options": [
+      "Monitoring ongoing performance during study",
+      "Planning before beginning the learning task",
+      "Evaluating learning after completing revision",
+      "Retrieving previously stored information"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "While studying physiology, a student repeatedly pauses and asks himself, \"Do I really understand this concept, or am I only memorizing it?\" Which phase of metacognition is MOST accurately illustrated?",
+    "options": [
+      "Planning",
+      "Monitoring",
+      "Evaluation",
+      "Encoding"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "After completing an anatomy examination, a student analyzes mistakes, identifies weak topics, and modifies the study strategy for future tests. Which metacognitive phase is MOST appropriate?",
+    "options": [
+      "Retrieval",
+      "Monitoring",
+      "Evaluation",
+      "Organization"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient remembers the smell of perfume for only a brief moment after leaving the clinic, but the memory disappears almost immediately. Which type of memory BEST explains this phenomenon?",
+    "options": [
+      "Long-term memory",
+      "Working memory",
+      "Sensory memory",
+      "Episodic memory"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A medical student temporarily remembers a patient's phone number just long enough to dial it, but forgets it immediately afterward. Which type of memory is MOST involved?",
+    "options": [
+      "Sensory memory",
+      "Short-term (working) memory",
+      "Long-term memory",
+      "Procedural memory"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A physician recalls detailed information learned during medical school many years earlier while managing a complex patient. Which type of memory is PRIMARILY responsible?",
+    "options": [
+      "Sensory memory",
+      "Short-term memory",
+      "Long-term memory",
+      "Iconic memory"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A student repeatedly reads a list of drug names aloud without trying to understand their mechanisms of action. Which type of rehearsal is being used?",
+    "options": [
+      "Elaborative rehearsal",
+      "Maintenance rehearsal",
+      "Chunking",
+      "Visual imagery"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A student learns antihypertensive drugs by relating each class to its mechanism of action and clinical uses instead of simply memorizing names. Which memory technique is MOST effective?",
+    "options": [
+      "Maintenance rehearsal",
+      "Elaborative rehearsal",
+      "Negative practice",
+      "Functional fixedness"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient cannot recall the name of a familiar medication during the consultation but remembers it immediately after reaching home. Which cause of forgetting BEST explains this situation?",
+    "options": [
+      "Motivated forgetting (repression)",
+      "Retrieval failure",
+      "Permanent amnestic disorder",
+      "Sensory memory decay"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "Two medical students study similar subjects on the same day. During the examination, one confuses information from pharmacology with microbiology. Which cause of forgetting is MOST likely?",
+    "options": [
+      "Repression due to emotional stress",
+      "Retrieval failure caused by dementia",
+      "Interference between similar information",
+      "Loss of sensory memory"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A physician needs to open a sealed medicine bottle but ignores a nearby metal ruler that could easily be used for the task because he only thinks of it as a measuring instrument. Which obstacle to creative thinking is demonstrated?",
+    "options": [
+      "Mental set",
+      "Functional fixedness",
+      "Negative transfer",
+      "Misleading information"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A student remembers the order of cranial nerves by using a memorable phrase instead of rote memorization. Which memory-enhancing method is MOST likely being used?",
+    "options": [
+      "Overlearning",
+      "Visual imagery",
+      "Mnemonics",
+      "Maintenance rehearsal"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Despite already mastering cardiac physiology, a student continues practicing the same concepts several more times before the examination. Which learning strategy BEST explains this approach?",
+    "options": [
+      "Retrieval failure",
+      "Spaced practice",
+      "Overlearning",
+      "Negative practice"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Instead of studying for eight continuous hours in one day, a student reviews the same material over several days with regular intervals. Which technique is MOST effective?",
+    "options": [
+      "Massed practice",
+      "Whole learning",
+      "Spaced practice",
+      "Maintenance rehearsal"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A 72-year-old man with progressive memory loss also develops impaired judgment, language difficulties, and declining daily functioning. Which diagnosis is MOST likely?",
+    "options": [
+      "Dissociative disorder",
+      "Pseudodementia",
+      "Dementia",
+      "Retrieval failure"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A depressed patient repeatedly complains of poor memory. However, neurological examination and brain imaging are normal, and the physician suspects that poor attention and motivation are contributing to the symptoms. Which condition is MOST likely?",
+    "options": [
+      "Amnestic disorder",
+      "Dementia",
+      "Pseudodementia",
+      "Dissociative disorder"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A researcher develops a completely new, practical method for diagnosing a disease after carefully testing and confirming that it works consistently. According to the stages of creativity, this final stage is:",
+    "options": [
+      "Incubation",
+      "Illumination",
+      "Preparation",
+      "Verification"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A medical student spends several days studying a difficult clinical case without finding the diagnosis. While relaxing during a walk, the correct diagnosis suddenly comes to mind unexpectedly. According to the stages of creativity, this represents:",
+    "options": [
+      "Preparation",
+      "Orientation",
+      "Illumination (\"Aha!\" moment)",
+      "Verification"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Following a severe road traffic accident, a patient cannot recall important personal information despite having no structural brain injury. The memory disturbance is most consistent with:",
+    "options": [
+      "Alzheimer's dementia",
+      "Dissociative disorder",
+      "Sensory memory failure",
+      "Working memory deficit"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A surgeon repeatedly attempts to solve an operative problem using the same technique that worked in previous cases, despite obvious differences in the current patient. As a result, the procedure is unsuccessful. Which obstacle to problem-solving is BEST illustrated?",
+    "options": [
+      "Functional fixedness",
+      "Mental set",
+      "Heuristic bias",
+      "Retrieval failure"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "While walking at night, a man mistakes a coiled rope for a poisonous snake until someone shines a flashlight on it. Which perceptual abnormality is demonstrated?",
+    "options": [
+      "Hallucination",
+      "Illusion",
+      "Delusion",
+      "Confabulation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient with schizophrenia reports hearing voices discussing him despite nobody being present in the room. Which perceptual disturbance is MOST likely?",
+    "options": [
+      "Illusion",
+      "Hallucination",
+      "Depersonalization",
+      "Derealization"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A hospitalized patient with alcohol withdrawal repeatedly reports seeing insects crawling on the walls, but staff members cannot see them. Which type of hallucination is MOST characteristic of this condition?",
+    "options": [
+      "Auditory hallucination",
+      "Gustatory hallucination",
+      "Visual hallucination",
+      "Tactile illusion"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A medical student solves a dosage calculation by following a fixed sequence of mathematical steps that always produces the correct answer. Which problem-solving strategy is being used?",
+    "options": [
+      "Heuristic approach",
+      "Functional fixedness",
+      "Mental set",
+      "Algorithm"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "An experienced physician rapidly diagnoses a common illness using previous clinical experience without performing a detailed analytical process. Although usually effective, this method may occasionally lead to errors. Which thinking strategy is illustrated?",
+    "options": [
+      "Algorithmic reasoning",
+      "Heuristic reasoning",
+      "Elaborative rehearsal",
+      "Metacognitive evaluation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A 10-month-old infant suddenly cries and clings to her mother when approached by an unfamiliar person. According to Robert Plutchik, which type of emotion is MOST likely being expressed?",
+    "options": [
+      "Secondary acquired emotion",
+      "Primary (innate) emotion",
+      "Learned social emotion",
+      "Self-conscious emotion"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient smiles warmly and embraces his wife after recovering from a serious illness. According to Plutchik's theory, the emotion of love is BEST explained as a combination of:",
+    "options": [
+      "Joy + Acceptance",
+      "Fear + Surprise",
+      "Anger + Disgust",
+      "Sadness + Acceptance"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "After making a serious medical error, a doctor feels guilty and deeply regrets his actions. According to Plutchik, remorse results from the combination of:",
+    "options": [
+      "Joy + Fear",
+      "Anger + Acceptance",
+      "Sadness + Disgust",
+      "Surprise + Anticipation"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A medical student becomes upset whenever classmates perform better than him and fears losing academic recognition. Which secondary emotion BEST explains this reaction?",
+    "options": [
+      "Love",
+      "Jealousy",
+      "Acceptance",
+      "Surprise"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "During an outpatient consultation, the physician notices that the patient's facial expression contradicts his spoken words. Which mode of emotional expression is generally considered the MOST universal across cultures?",
+    "options": [
+      "Verbal communication",
+      "Facial expressions",
+      "Voice tone",
+      "Body posture"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A man becomes extremely angry after being insulted. Examination reveals tachycardia and markedly elevated blood pressure. Which emotion is MOST consistent with these physiological changes?",
+    "options": [
+      "Fear",
+      "Disgust",
+      "Anger",
+      "Sadness"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient suddenly encounters a venomous snake and immediately develops cool, pale skin with a rapid heartbeat. Which emotion BEST explains these findings?",
+    "options": [
+      "Disgust",
+      "Sadness",
+      "Fear",
+      "Anger"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient becomes tearful after learning about the loss of a close family member. Which physiological response is MOST commonly associated with this emotion?",
+    "options": [
+      "Reduced heart rate without crying",
+      "Increased heart rate with crying",
+      "Cool skin and reduced limb perfusion",
+      "Elevated blood pressure without tears"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "While cleaning a wound containing foul-smelling infected tissue, a medical student suddenly feels nauseated and his pulse slows. Which emotion is MOST likely responsible?",
+    "options": [
+      "Fear",
+      "Anger",
+      "Disgust",
+      "Surprise"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A physician remains calm while managing a critically ill patient, recognizes his own anxiety, understands the family's emotions, and communicates effectively throughout treatment. Which ability is MOST clearly demonstrated?",
+    "options": [
+      "High Intelligence Quotient (IQ)",
+      "High Emotional Intelligence (EQ)",
+      "High Mental Age",
+      "High Cognitive Flexibility"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A resident doctor recognizes that he is becoming frustrated during a busy emergency shift and consciously takes a moment to calm himself before speaking to patients. Which component of Emotional Intelligence is MOST clearly demonstrated?",
+    "options": [
+      "Self-awareness",
+      "Managing emotions",
+      "Empathy",
+      "Handling relationships"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A physician realizes that he is becoming emotionally exhausted after several consecutive night duties and acknowledges these feelings before they affect patient care. Which component of Emotional Intelligence is BEST illustrated?",
+    "options": [
+      "Self-awareness",
+      "Self-motivation",
+      "Empathy",
+      "Relationship management"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "Despite repeatedly failing postgraduate entrance examinations, a student continues studying with optimism and determination. Which component of Emotional Intelligence BEST explains this behavior?",
+    "options": [
+      "Empathy",
+      "Managing relationships",
+      "Self-motivation",
+      "Emotional awareness"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A physician notices that a patient appears calm while speaking, but subtle facial expressions and body language suggest significant anxiety. The doctor addresses these hidden emotions before discussing treatment. Which Emotional Intelligence component is MOST responsible?",
+    "options": [
+      "Self-awareness",
+      "Empathy",
+      "Self-motivation",
+      "Emotional regulation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A department head successfully resolves conflict between two healthcare workers by encouraging open communication and mutual respect. Which component of Emotional Intelligence is MOST evident?",
+    "options": [
+      "Handling relationships",
+      "Self-awareness",
+      "Self-motivation",
+      "Emotional expression"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A medical student consistently achieves outstanding examination scores but frequently argues with colleagues and struggles to understand patients' emotions. Which statement BEST explains this situation?",
+    "options": [
+      "High EQ usually guarantees excellent academic performance.",
+      "IQ measures emotional control better than EQ.",
+      "A person may have a high IQ but relatively poor Emotional Intelligence.",
+      "Emotional Intelligence remains fixed throughout life."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A physician communicates exceptionally well with patients and colleagues despite having average academic performance. Which characteristic BEST reflects Emotional Intelligence rather than Intelligence Quotient?",
+    "options": [
+      "Solving mathematical equations rapidly",
+      "Memorizing complex scientific facts",
+      "Managing emotions and interpersonal relationships effectively",
+      "Performing exceptionally on standardized intelligence tests"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A 16-year-old has an IQ of 65 and has experienced significant difficulties in adaptive functioning since early childhood. According to the classification provided, this finding is MOST consistent with:",
+    "options": [
+      "Gifted intelligence",
+      "Average intelligence",
+      "Intellectual disability",
+      "Savant syndrome"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A healthy individual suddenly feels intense thirst after spending several hours in the sun without drinking water. Which type of motivation is PRIMARILY responsible for this behavior?",
+    "options": [
+      "Social motivation",
+      "Self-actualization motivation",
+      "Biological motivation",
+      "Achievement motivation"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A marathon runner immediately searches for water after completing a race in hot weather. This behavior primarily serves which physiological purpose?",
+    "options": [
+      "Improving self-esteem",
+      "Achieving self-actualization",
+      "Maintaining homeostasis through biological motivation",
+      "Satisfying social approval"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A hospital administrator is primarily motivated by gaining authority, influencing decisions, and directing the work of others rather than by financial rewards alone. Which type of motivation BEST explains this behavior?",
+    "options": [
+      "Biological motivation",
+      "Self-actualization motivation",
+      "Social motivation",
+      "Safety motivation"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A senior executive frequently manipulates coworkers, withholds information, and deceives colleagues to obtain promotions and authority. Which concept BEST describes this personality characteristic?",
+    "options": [
+      "Self-actualization",
+      "Empathy",
+      "Machiavellianism",
+      "Self-awareness"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A physician continues working in underserved rural communities despite receiving better financial offers elsewhere because he believes he is fulfilling his life's purpose. According to Maslow, this behavior BEST reflects:",
+    "options": [
+      "Esteem needs",
+      "Love and belonging needs",
+      "Safety needs",
+      "Self-actualization"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A homeless patient arrives in the emergency department after several days without food or sleep. According to Maslow's hierarchy, which need should be addressed FIRST?",
+    "options": [
+      "Esteem needs",
+      "Love and belonging needs",
+      "Physiological needs",
+      "Self-actualization"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient recovering from major surgery is anxious because he fears someone may steal his belongings while he is hospitalized. According to Maslow's hierarchy, this concern primarily represents:",
+    "options": [
+      "Love and belonging needs",
+      "Esteem needs",
+      "Safety needs",
+      "Self-actualization"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A newly admitted elderly patient becomes emotionally distressed because no family member is allowed to visit him. According to Maslow, which unmet need is MOST responsible?",
+    "options": [
+      "Physiological needs",
+      "Safety needs",
+      "Love and belonging needs",
+      "Esteem needs"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A physician always introduces himself politely, obtains informed consent, addresses patients by their preferred names, and respects their dignity during every consultation. According to Maslow's hierarchy in healthcare, the physician is primarily fulfilling the patient's:",
+    "options": [
+      "Physiological needs",
+      "Safety needs",
+      "Esteem needs",
+      "Self-actualization needs"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Following successful rehabilitation after a spinal injury, a patient resumes teaching, mentors younger students, and pursues lifelong personal goals. According to Maslow's hospital hierarchy, rehabilitation mainly promotes:",
+    "options": [
+      "Physiological needs",
+      "Safety needs",
+      "Love and belonging needs",
+      "Self-actualization"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A physician consistently demonstrates creativity, independence, realistic thinking, humor, and genuine concern for humanity. According to Maslow, these characteristics are MOST typical of:",
+    "options": [
+      "Individuals seeking social approval",
+      "Self-actualized individuals",
+      "Individuals motivated by safety needs",
+      "People with exceptionally high IQ only"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A successful surgeon enjoys financial security, strong family relationships, professional respect, and eventually dedicates his career to advancing medical education for future generations. Which Maslow level is MOST consistent with his current motivation?",
+    "options": [
+      "Love and belonging",
+      "Esteem needs",
+      "Safety needs",
+      "Self-actualization"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A 10-year-old child has a Mental Age (MA) of 12 years. According to the IQ formula, what is the child's Intelligence Quotient (IQ)?",
+    "options": [
+      "100 (Average intelligence)",
+      "110 (Above average intelligence)",
+      "120 (Above average intelligence)",
+      "130 (Gifted intelligence)"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A 14-year-old adolescent has a Mental Age of 14 years. Which IQ category is MOST appropriate?",
+    "options": [
+      "Intellectual disability",
+      "Average intelligence",
+      "Gifted intelligence",
+      "Highly gifted intelligence"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A 16-year-old student has a measured IQ of 145. Which interpretation is MOST accurate?",
+    "options": [
+      "Gifted intelligence",
+      "Average intelligence",
+      "Highly gifted intelligence",
+      "Savant syndrome"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A 20-year-old man has significant limitations in overall intellectual functioning since childhood. However, he can reproduce complex piano compositions after hearing them only once. Which condition BEST explains this presentation?",
+    "options": [
+      "Emotional intelligence",
+      "Alexithymia",
+      "Savant syndrome",
+      "Self-actualization"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "During a psychiatry clinic, a patient has difficulty recognizing his own emotions, cannot describe his feelings, and instead repeatedly complains of headaches and generalized body aches despite normal investigations. Which diagnosis is MOST likely?",
+    "options": [
+      "Somatic symptom disorder alone",
+      "Alexithymia",
+      "Emotional intelligence disorder",
+      "Intellectual disability"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A 35-year-old man suddenly encounters an aggressive dog while walking home. He immediately develops tachycardia, dilated pupils, dry mouth, and rapid breathing. According to Hans Selye's General Adaptation Syndrome (GAS), which stage is he experiencing?",
+    "options": [
+      "Resistance stage",
+      "Exhaustion stage",
+      "Alarm reaction stage",
+      "Recovery stage"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A resident doctor has been working long shifts for several months. Initially, he coped well, but now he has developed hypertension, chronic fatigue, and recurrent infections. According to the General Adaptation Syndrome (GAS), he has MOST likely reached:",
+    "options": [
+      "Alarm reaction",
+      "Resistance stage",
+      "Exhaustion stage",
+      "Adaptation stage"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A woman experiences severe emotional stress after losing her job. However, her friend in a similar situation remains calm because he views the event as an opportunity rather than a threat. Which psychologist emphasized that stress depends on an individual's perception of an event?",
+    "options": [
+      "Hans Selye",
+      "Abraham Maslow",
+      "Richard Lazarus",
+      "Ivan Pavlov"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient develops stress because of prolonged exposure to excessive heat while working outdoors during summer. Which type of stress is MOST appropriate?",
+    "options": [
+      "Psychosocial stress",
+      "Physiological stress",
+      "Developmental stress",
+      "Situational crisis"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A businessman develops severe anxiety because of financial debt, marital conflict, and increasing workload. Which category of stress BEST explains his condition?",
+    "options": [
+      "Physiological stress",
+      "Occupational injury",
+      "Psychosocial stress",
+      "Biological stress"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Two nurses are assigned identical workloads. One manages stress effectively because she believes she has control over difficult situations, whereas the other feels completely helpless. Which psychological variable MOST influences their different responses?",
+    "options": [
+      "Need for stimulation",
+      "Locus of control",
+      "Self-actualization",
+      "Stimulus screening"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A physician remains calm during a medical emergency because he views challenges as opportunities, feels personally committed to his work, and believes he can influence outcomes. Which personality trait BEST explains his resilience?",
+    "options": [
+      "Emotional intelligence",
+      "Hardiness",
+      "Alexithymia",
+      "Functional fixedness"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A hospital consultant consistently experiences emotional exhaustion, feels ineffective despite working long hours, and reports reduced satisfaction with his achievements. Which job-related condition is MOST likely?",
+    "options": [
+      "Compassion fatigue",
+      "Job strain",
+      "Burnout",
+      "Depression"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient experiencing acute stress develops tachycardia, hypertension, dilated pupils, and increased muscle tone. Which nervous system is primarily responsible for these physiological changes?",
+    "options": [
+      "Parasympathetic nervous system",
+      "Enteric nervous system",
+      "Sympathetic nervous system",
+      "Somatic nervous system"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A woman exposed to prolonged workplace stress develops persistent constipation, increased appetite, excessive sweating, and disturbed sleep. These findings are MOST consistent with activation of the:",
+    "options": [
+      "Sympathetic nervous system during acute stress",
+      "Parasympathetic nervous system during chronic stress",
+      "Somatic nervous system after injury",
+      "Limbic system during emotional intelligence"
+    ],
+    "correctAnswer": 1
+  }
+]

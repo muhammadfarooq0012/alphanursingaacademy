@@ -1,0 +1,702 @@
+[
+  {
+    "question": "A physician begins the consultation by sitting at the patient's eye level, maintaining appropriate eye contact, and allowing the patient to explain the problem without interruption. Which communication skill is MOST appropriately demonstrated?",
+    "options": [
+      "Active listening",
+      "Informational care",
+      "Counselling",
+      "Attending and listening"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A patient describes severe chest pain. Instead of interrupting, the physician nods, maintains eye contact, and responds, \"Please continue.\" Which communication skill is MOST clearly demonstrated?",
+    "options": [
+      "Selective reflection",
+      "Funneling",
+      "Active listening",
+      "Checking for understanding"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A physician says, \"Can you describe how your headache started and how it has changed over time?\" Which verbal technique is MOST appropriately being used?",
+    "options": [
+      "Closed-ended questioning",
+      "Leading questioning",
+      "Open-ended questioning",
+      "Checking for understanding"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A doctor asks, \"Is the pain located in your chest?\" expecting only \"yes\" or \"no.\" Which questioning technique is MOST appropriate?",
+    "options": [
+      "Open-ended question",
+      "Leading question",
+      "Closed-ended question",
+      "Selective reflection"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A physician asks, \"The pain becomes worse after meals, doesn't it?\" before the patient has described the symptoms. Which communication technique is MOST likely being used?",
+    "options": [
+      "Open-ended questioning",
+      "Leading questioning",
+      "Paraphrasing",
+      "Funneling"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient initially describes multiple symptoms. The physician first allows a broad discussion and then gradually asks increasingly specific questions regarding the abdominal pain. Which communication technique BEST describes this approach?",
+    "options": [
+      "Paraphrasing",
+      "Selective reflection",
+      "Funneling",
+      "Checking for understanding"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient says, \"I'm constantly worried that this illness will destroy my life.\" The physician replies, \"You feel that this disease has taken away your sense of security.\" Which communication technique is MOST appropriately demonstrated?",
+    "options": [
+      "Leading question",
+      "Paraphrasing",
+      "Closed-ended questioning",
+      "Funneling"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient repeatedly says, \"I'm frightened about the future.\" Instead of discussing laboratory reports, the physician responds, \"You seem particularly worried about what lies ahead.\" Which verbal technique is MOST appropriate?",
+    "options": [
+      "Selective reflection",
+      "Leading question",
+      "Checking for understanding",
+      "Closed-ended questioning"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A physician says, \"I can understand how difficult this diagnosis must be for you,\" while allowing the patient to express emotions freely. Which communication objective is MOST directly achieved?",
+    "options": [
+      "Information gathering",
+      "Building empathy",
+      "Confirming diagnosis",
+      "Funneling symptoms"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "After explaining the diagnosis and treatment plan, the physician asks, \"Could you explain in your own words how you will take these medicines?\" Which communication technique is MOST appropriately demonstrated?",
+    "options": [
+      "Selective reflection",
+      "Open-ended questioning",
+      "Checking for understanding",
+      "Leading questioning"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A 45-year-old man newly diagnosed with hypertension is anxious and confused. Instead of simply prescribing medicines, the physician helps him understand his illness, explore his concerns, and make informed decisions regarding treatment. Which intervention is MOST appropriately being provided?",
+    "options": [
+      "Informational care",
+      "Active listening",
+      "Counselling",
+      "Crisis intervention"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A young woman admits that she frequently misses her diabetes medication because she feels guilty and embarrassed. The physician listens without criticism and accepts her feelings despite her poor adherence. Which quality of a good counsellor is MOST clearly demonstrated?",
+    "options": [
+      "Warmth and consideration",
+      "Here-and-now thinking",
+      "Unconditional positive regard",
+      "Clarity"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "During counselling, a physician says, \"I understand why receiving this diagnosis feels overwhelming for you.\" Which counselling trait is MOST accurately demonstrated?",
+    "options": [
+      "Clarity",
+      "Empathy",
+      "Warmth and consideration",
+      "Active listening"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient becomes emotional while discussing the recent death of his spouse. The physician remains calm, supportive, and respectful throughout the interview. Which counsellor characteristic is MOST evident?",
+    "options": [
+      "Unconditional positive regard",
+      "Here-and-now thinking",
+      "Warmth and consideration",
+      "Funneling"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient repeatedly worries about events that may occur years later. The counsellor gently redirects the discussion toward the patient's current feelings and present coping strategies. Which counselling principle is MOST appropriately applied?",
+    "options": [
+      "Selective reflection",
+      "Here-and-now thinking",
+      "Informational care",
+      "Crisis intervention"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A physician spends dedicated time explaining a patient's disease, medications, and follow-up plan in simple language before ending the consultation with reassurance. Which non-pharmacological intervention is MOST accurately illustrated?",
+    "options": [
+      "Counselling",
+      "Crisis intervention",
+      "Informational care",
+      "Active listening"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A physician explains the diagnosis, discusses prescribed medications, and tells the patient when to return for review. These three components are collectively known as:",
+    "options": [
+      "Three stages of counselling",
+      "Three Ds of Informational Care",
+      "Roberts' three principles",
+      "Three components of empathy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A physician begins by asking, \"What do you already know about diabetes?\" before explaining the disease in detail. Which essential component of Informational Care is MOST appropriately demonstrated?",
+    "options": [
+      "Correct myths immediately",
+      "Assess the patient's knowledge",
+      "Give evidence-based information first",
+      "End with reassurance"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient believes insulin always causes kidney failure. Instead of dismissing the concern, the physician carefully explains the scientific evidence and addresses the misconception. Which essential of Informational Care is MOST directly demonstrated?",
+    "options": [
+      "Use diagrams and avoid information overload",
+      "Assess patient's knowledge",
+      "Correct myths and misconceptions",
+      "Set aside sufficient time"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient with advanced cancer repeatedly interrupts the consultation, raises his voice, and refuses every treatment option. After excluding medical causes, the physician remains calm, listens actively, validates the patient's emotions, involves family members, and offers referral for additional support. Which management approach is MOST appropriate?",
+    "options": [
+      "End the consultation immediately",
+      "Begin pharmacological sedation first",
+      "Biopsychosocial approach with communication and counselling",
+      "Ignore emotional concerns and focus only on investigations"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A 62-year-old man is diagnosed with metastatic lung cancer. Before revealing the diagnosis, the physician arranges a quiet private room, ensures there are no interruptions, and sits facing the patient. Which step of the Biopsychosocial Model of breaking bad news is MOST appropriately demonstrated?",
+    "options": [
+      "Knowledge",
+      "Patient's perception",
+      "Seating and setting",
+      "Invitation"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Before discussing biopsy results, a physician asks, \"What have the previous doctors told you about your illness?\" Which step of the Biopsychosocial Model is MOST appropriately being performed?",
+    "options": [
+      "Invitation",
+      "Patient's perception",
+      "Knowledge",
+      "Summary"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient says, \"Doctor, I want to know everything about my condition, regardless of how serious it is.\" Which step of breaking bad news is MOST directly addressed?",
+    "options": [
+      "Knowledge",
+      "Empathy",
+      "Invitation",
+      "Plan of action"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "After confirming that a patient wishes to know the diagnosis, the physician clearly explains the biopsy findings using simple language without overwhelming the patient. Which step is MOST accurately demonstrated?",
+    "options": [
+      "Patient's perception",
+      "Knowledge",
+      "Summary",
+      "Empathy"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "After hearing the diagnosis of advanced cancer, the patient begins crying. Instead of continuing with treatment options immediately, the physician says, \"I can see this is extremely difficult for you.\" Which step is MOST appropriately demonstrated?",
+    "options": [
+      "Invitation",
+      "Knowledge",
+      "Summary",
+      "Empathy"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "After discussing a terminal diagnosis, the physician summarizes the discussion, outlines treatment options, schedules follow-up, and reassures the patient that support will continue. Which final step of the Biopsychosocial Model is MOST completely demonstrated?",
+    "options": [
+      "Knowledge only",
+      "Summary and Plan of Action",
+      "Patient's perception and Invitation",
+      "Seating and Setting"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A 22-year-old student develops severe emotional distress after failing a professional examination. Which type of crisis is MOST likely?",
+    "options": [
+      "Situational crisis",
+      "Developmental crisis",
+      "Disaster-related crisis",
+      "Psychotraumatic crisis"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A previously healthy man suddenly loses his home in a flood and becomes emotionally overwhelmed. According to crisis intervention, this is BEST classified as:",
+    "options": [
+      "Developmental crisis",
+      "Situational crisis",
+      "Identity crisis",
+      "Personality crisis"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A physician first evaluates whether a suicidal patient has immediate safety risks before beginning emotional support or problem-solving. According to Roberts' Seven-Stage Crisis Intervention Model, which stage is being performed?",
+    "options": [
+      "Rapport building",
+      "Identify the problem",
+      "Assessment",
+      "Generate alternatives"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Following a devastating earthquake, healthcare workers immediately establish psychological first aid, encourage community participation, identify vulnerable individuals, and use psychotropic medications only when absolutely necessary. Which disaster management principle is MOST appropriately demonstrated?",
+    "options": [
+      "Early psychosocial support with integrated care",
+      "Immediate long-term rehabilitation only",
+      "Pharmacological management as first-line treatment",
+      "Delayed community involvement until recovery"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A 58-year-old unconscious patient is brought to the emergency department after a road traffic accident. The physician immediately makes all treatment decisions because the patient is unable to participate. Which doctor\u2013patient relationship model is MOST appropriate?",
+    "options": [
+      "Teacher\u2013Student Model",
+      "Mutual Participation Model",
+      "Vertical (Paternalistic) Model",
+      "Informational Care Model"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient recovering after abdominal surgery asks the physician how to care for the wound at home. The doctor explains the instructions step by step, and the patient agrees to follow them. Which doctor\u2013patient relationship is MOST appropriately demonstrated?",
+    "options": [
+      "Mutual Participation Model",
+      "Teacher\u2013Student Model",
+      "Vertical (Paternalistic) Model",
+      "Biopsychosocial Model"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A 52-year-old man with diabetes discusses treatment options with his physician. Together they decide on diet modification, regular exercise, and medication. Which relationship model is MOST appropriate?",
+    "options": [
+      "Vertical Model",
+      "Teacher\u2013Student Model",
+      "Mutual Participation (Horizontal) Model",
+      "Informational Disclosure Model"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A physician treats every patient with equal respect regardless of religion, gender, social class, caste, or ethnicity. Which principle of the doctor\u2013patient relationship is MOST directly demonstrated?",
+    "options": [
+      "Professional boundaries",
+      "Fiduciary duty",
+      "Respect and professionalism",
+      "Mutual participation"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A doctor becomes emotionally attached to a patient, regularly meets outside the hospital, and accepts expensive gifts from the patient's family. Which aspect of professional practice has MOST clearly been violated?",
+    "options": [
+      "Fiduciary duty",
+      "Professional boundaries",
+      "Informed consent",
+      "Mutual participation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A physician begins believing that only he can solve every aspect of his patient's personal and medical problems, becoming overly involved in the patient's life. Which danger of an unprofessional relationship is MOST accurately illustrated?",
+    "options": [
+      "Counter-transference",
+      "Social bonding",
+      "Savior attitude",
+      "Dependence"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A competent adult patient refuses an experimental treatment after receiving complete information about its risks and benefits. According to patient rights, which principle is MOST applicable?",
+    "options": [
+      "Doctor's right to refuse treatment",
+      "Patient's right to withdraw consent",
+      "Doctor's fiduciary duty only",
+      "Professional autonomy of the physician"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient requests copies of his investigation reports and hospital records before seeking another physician's opinion. Which patient right is MOST directly involved?",
+    "options": [
+      "Right to informed consent only",
+      "Right to confidentiality only",
+      "Right to access medical records and obtain a second opinion",
+      "Right to refuse treatment only"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A physician carefully explains the diagnosis, available investigations, possible treatment options, expected benefits, and potential risks before obtaining consent for surgery. Which professional responsibility is MOST accurately demonstrated?",
+    "options": [
+      "Respecting patient confidentiality",
+      "Providing evidence-based information and obtaining informed consent",
+      "Exercising the Teacher\u2013Student Model",
+      "Maintaining social bonding"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A surgeon refuses to perform a non-emergency procedure because it conflicts with his sincerely held ethical beliefs and appropriately refers the patient to another qualified surgeon. Which doctor's right is MOST accurately illustrated?",
+    "options": [
+      "Right to refuse non-emergency treatment against ethical or religious beliefs",
+      "Right to withdraw patient consent",
+      "Right to withhold medical information",
+      "Right to limit patient autonomy"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "question": "A physician begins accepting invitations to family celebrations, shares personal problems with a patient, and communicates regularly through social media. Which psychological reaction has MOST likely developed?",
+    "options": [
+      "Positive transference",
+      "Counter-transference",
+      "Social bonding",
+      "Dependence"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient insists that only one physician can decide every aspect of his life, repeatedly telephones the doctor for minor issues, and becomes upset whenever another doctor is suggested. Which psychological reaction is MOST likely?",
+    "options": [
+      "Social bonding",
+      "Positive transference",
+      "Dependence",
+      "Resistance"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient frequently visits the outpatient clinic despite stable disease and becomes angry whenever the physician is unavailable. Which feature MOST strongly suggests pathological dependence?",
+    "options": [
+      "Increased treatment adherence",
+      "Excessive hospital visits with hostility when expectations are unmet",
+      "Strong therapeutic alliance",
+      "Mutual participation in decision-making"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A middle-aged woman repeatedly tells her physician, \"You remind me of my father. I trust only you,\" and requests the physician's personal phone number. Which psychological phenomenon is MOST likely responsible?",
+    "options": [
+      "Counter-transference",
+      "Social bonding",
+      "Positive transference",
+      "Dependence"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient becomes intensely angry with a physician immediately after meeting him, despite receiving appropriate care, because the physician unconsciously reminds the patient of an abusive parent. Which reaction is MOST likely?",
+    "options": [
+      "Counter-transference",
+      "Negative transference",
+      "Resistance",
+      "Dependence"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A physician spends significantly more time with one patient because the patient resembles his late father. Which psychological reaction is MOST accurately demonstrated?",
+    "options": [
+      "Positive transference",
+      "Social bonding",
+      "Counter-transference",
+      "Dependence"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A physician realizes he has become emotionally attached to a patient and worries that this attachment may affect clinical judgment. What is the MOST appropriate next step?",
+    "options": [
+      "Continue treatment because attachment improves trust",
+      "Encourage greater emotional closeness",
+      "Recognize the reaction, discuss with a senior, and transfer care if judgment is affected",
+      "Ignore the emotional response because it is common"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A physician tells a patient, \"You remind me exactly of my mother,\" and begins addressing the patient as \"Amma.\" According to professional guidelines, this behaviour is MOST inappropriate because it:",
+    "options": [
+      "Improves therapeutic alliance",
+      "Encages patient independence",
+      "Reinforces professional boundaries",
+      "Blurs professional boundaries and promotes counter-transference"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A patient with ischemic heart disease continues smoking despite repeated counselling. Whenever asked, he insists, \"Smoking keeps my stress under control,\" and refuses to discuss quitting. Which psychological reaction BEST explains this behaviour?",
+    "options": [
+      "Dependence",
+      "Resistance",
+      "Negative transference",
+      "Social bonding"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A physician has been working prolonged shifts for several months. He has become irritable, neglects family life, frequently changes jobs, performs poorly in clinical duties, and increasingly misuses painkillers. Which condition is MOST likely?",
+    "options": [
+      "Counter-transference",
+      "Compassion fatigue",
+      "Physician burnout",
+      "Professional dependence"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A 32-year-old man presents with severe pain immediately after sustaining a femoral fracture in a road traffic accident. He repeatedly describes the pain as \"terrifying\" and believes that \"something terrible is about to happen.\" Which psychological reaction is MOST commonly associated with this type of pain?",
+    "options": [
+      "Social withdrawal and low self-esteem",
+      "Anxiety with fear of impending disaster",
+      "Persistent depression and hopelessness",
+      "Emotional numbness with denial"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient describes postoperative pain as \"excruciating,\" \"throbbing,\" and \"killing.\" Which feature of pain is BEST represented by these descriptions?",
+    "options": [
+      "Cognitive interpretation of pain",
+      "Affective response to chronic illness",
+      "Emotional experience accompanying acute pain",
+      "Pain behavior due to secondary gain"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A physician treats a patient with acute renal colic by administering analgesics, reassuring the patient, and explaining the treatment plan to reduce anxiety. Which principle of pain management is BEST illustrated?",
+    "options": [
+      "Analgesics alone provide complete pain control",
+      "Reducing anxiety improves the experience of pain",
+      "Chronic pain requires immediate psychiatric referral",
+      "Emotional factors have no influence on pain perception"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A 48-year-old woman has experienced diffuse back pain for the past six months. She has undergone multiple normal investigations, frequently visits different hospitals, has become socially withdrawn, and reports poor sleep. Which diagnosis is MOST likely?",
+    "options": [
+      "Acute pain syndrome",
+      "Chronic pain syndrome",
+      "Psychotrauma",
+      "Situational crisis"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient with chronic low back pain reports persistent fatigue, constipation, anorexia, poor sleep, and irritability despite normal imaging studies. Which associated psychological disorder is MOST commonly seen?",
+    "options": [
+      "Mania",
+      "Depression",
+      "Delirium",
+      "Psychosis"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A 42-year-old woman with long-standing generalized body pain reports that emotional stress consistently worsens her symptoms. The pain responds poorly to analgesics alone and never wakes her from sleep. Which characteristic MOST strongly supports chronic pain?",
+    "options": [
+      "Pain disappears during waking hours",
+      "Pain improves completely with analgesics alone",
+      "Pain is aggravated by stress and emotions",
+      "Pain always indicates tissue injury"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient complains of severe pain for several months without any identifiable tissue injury, nerve damage, or psychiatric illness. The pain pattern does not follow normal anatomical pathways. Which diagnosis is MOST likely?",
+    "options": [
+      "Neuropathic pain",
+      "Psychogenic pain disorder",
+      "Fibromyalgia",
+      "Acute inflammatory pain"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient with chronic pain has stopped working, spends most of the day watching television, repeatedly requests stronger analgesics, and avoids exercise because of fear of worsening pain. Which concept BEST explains this behaviour?",
+    "options": [
+      "Pain threshold",
+      "Pain behavior (sick role)",
+      "Positive transference",
+      "Somatic delusion"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A psychologist managing a patient with chronic pain encourages the patient to describe emotions, explores personal beliefs about pain, and identifies factors that worsen and maintain symptoms. Which management approach is MOST appropriate?",
+    "options": [
+      "Focus only on laboratory investigations",
+      "Increase analgesics without discussion",
+      "Individualized psychological management of pain",
+      "Advise complete bed rest indefinitely"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient states, \"My pain is unbearable because it means my life is over,\" despite stable disease. Which factor influencing pain perception is MOST clearly demonstrated?",
+    "options": [
+      "Anatomical site of pain only",
+      "Meaning attached to the pain by the patient",
+      "Objective tissue damage alone",
+      "Duration of hospitalization"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A 30-year-old survivor of a major earthquake reports feeling frightened, irritable, and emotionally numb for several days after the disaster. He is still able to perform daily activities. Which interpretation is MOST appropriate?",
+    "options": [
+      "Acute psychosis requiring hospitalization",
+      "A normal psychological response to trauma",
+      "Chronic pain syndrome",
+      "Physician burnout"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A woman who narrowly escaped a building collapse experiences recurrent nightmares, vivid flashbacks, and avoids entering multistory buildings six months later. Which diagnosis is MOST likely?",
+    "options": [
+      "Adjustment disorder",
+      "Situational crisis",
+      "Post-Traumatic Stress Disorder (PTSD)",
+      "Acute stress reaction"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient becomes extremely anxious whenever he hears the sound of sirens after surviving a serious road traffic accident. Which PTSD symptom is BEST illustrated?",
+    "options": [
+      "Depression",
+      "Hyperarousal",
+      "Hallucination",
+      "Somatization"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A survivor of an armed robbery repeatedly relives the incident in vivid detail, even while awake, as though it is happening again. Which symptom is MOST characteristic of PTSD?",
+    "options": [
+      "Dissociation",
+      "Flashbacks",
+      "Rationalization",
+      "Conversion"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient refuses to drive through the street where he witnessed a fatal accident despite complete physical recovery. Which psychological response is MOST consistent with PTSD?",
+    "options": [
+      "Social bonding",
+      "Avoidance of trauma reminders",
+      "Counter-transference",
+      "Somatic preoccupation"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A 7-year-old child has experienced repeated physical abuse and neglect over several years. As an adult, he continues to struggle with fear, emotional instability, and difficulty trusting others. Which concept BEST explains this long-term effect?",
+    "options": [
+      "Situational crisis",
+      "Developmental trauma",
+      "Physician burnout",
+      "Pain behavior"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A physician evaluates two traumatic events. Which event is MOST likely to result in severe psychotrauma according to behavioral sciences?",
+    "options": [
+      "A planned elective surgery",
+      "An intentionally cruel act of violence",
+      "A routine vaccination visit",
+      "A scheduled medical check-up"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient continues to experience intrusive memories, severe anxiety, and difficulty functioning at work eight months after surviving a flood. What is the MOST appropriate next step?",
+    "options": [
+      "Reassure only because symptoms are expected indefinitely",
+      "Advise complete social isolation until recovery",
+      "Recommend professional psychological help",
+      "Ignore symptoms because physical injuries have healed"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Following recovery from a life-threatening illness, a patient reports a greater appreciation for life, stronger family relationships, and increased compassion for others. Which concept BEST describes this positive outcome?",
+    "options": [
+      "Emotional suppression",
+      "Post-Traumatic Growth (PTG)",
+      "Chronic adjustment failure",
+      "Maladaptive coping"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A survivor of a devastating earthquake is encouraged to reconnect with family, resume daily activities, and discuss traumatic memories during therapy. Which management strategy is MOST consistent with recommended trauma care?",
+    "options": [
+      "Encourage lifelong avoidance of reminders",
+      "Promote social isolation to reduce anxiety",
+      "Support recovery through social connection and psychological therapy",
+      "Prescribe psychotropic drugs as the primary long-term treatment"
+    ],
+    "correctAnswer": 2
+  }
+]

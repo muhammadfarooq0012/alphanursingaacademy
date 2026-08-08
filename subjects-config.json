@@ -19,7 +19,7 @@
       "icon": "fa-flask",
       "color": "#9b59b6",
       "folder": "B.Science",
-      "chapters": []
+      "chapters": ["chapter01", "chapter02", "chapter03","chapter04", "chapter05"]
     },
     {
       "name": "Biophysics",
@@ -47,7 +47,7 @@
       "icon": "fa-clipboard-list",
       "color": "#f39c12",
       "folder": "QR 1",
-      "chapters": ["chapter01", "chapter02", "chapter03"]
+      "chapters": []
     }
   ]
 }

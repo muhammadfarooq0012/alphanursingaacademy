@@ -1,0 +1,502 @@
+[
+  {
+    "question": "An 18-month-old child watches a toy roll beneath a sofa and immediately crawls under it to retrieve the toy. Which cognitive milestone has most likely developed?",
+    "options": [
+      "Egocentrism",
+      "Symbolic thinking",
+      "Object permanence",
+      "Conservation"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A 10-month-old infant laughs during a game of peekaboo because he believes hidden objects disappear when out of sight. According to Piaget, the child is in which stage of cognitive development?",
+    "options": [
+      "Preoperational stage",
+      "Concrete operational stage",
+      "Formal operational stage",
+      "Sensorimotor stage"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A 5-year-old child insists that everyone must see the world exactly as he does and cannot appreciate another person's viewpoint. Which feature of the preoperational stage best explains this behavior?",
+    "options": [
+      "Symbolic thinking",
+      "Object permanence",
+      "Egocentrism",
+      "Conservation"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A 9-year-old correctly explains that flattening a ball of clay does not change the amount of clay present. Which stage of Piaget's cognitive development has the child reached?",
+    "options": [
+      "Sensorimotor stage",
+      "Preoperational stage",
+      "Concrete operational stage",
+      "Formal operational stage"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A 15-year-old student successfully solves algebraic equations and discusses philosophical concepts such as justice and morality. According to Piaget, which stage best explains these abilities?",
+    "options": [
+      "Sensorimotor stage",
+      "Preoperational stage",
+      "Concrete operational stage",
+      "Formal operational stage"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A 4-year-old frequently pretends that a stick is a sword and a cardboard box is a racing car. According to Piaget, this behavior is most characteristic of which stage?",
+    "options": [
+      "Sensorimotor stage",
+      "Preoperational stage",
+      "Concrete operational stage",
+      "Formal operational stage"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A 6-month-old infant spends most of the day sucking, biting, and chewing objects placed in his mouth. According to Freud, which psychosexual stage is this child experiencing?",
+    "options": [
+      "Anal stage",
+      "Phallic stage",
+      "Latency stage",
+      "Oral stage"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A 35-year-old man has a long history of chain smoking, nail biting, and overeating during periods of stress. Freud would most likely attribute these behaviours to fixation during which stage?",
+    "options": [
+      "Anal stage",
+      "Phallic stage",
+      "Latency stage",
+      "Oral stage"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A toddler undergoes extremely strict toilet training. As an adult, he becomes excessively organized, perfectionistic, and obsessed with cleanliness. Fixation most likely occurred during which psychosexual stage?",
+    "options": [
+      "Oral stage",
+      "Anal stage",
+      "Phallic stage",
+      "Genital stage"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A 5-year-old boy becomes unusually possessive of his mother and views his father as a rival for her attention. Which Freudian concept best explains this behaviour?",
+    "options": [
+      "Oral fixation",
+      "Anal fixation",
+      "Electra complex",
+      "Oedipus complex"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A 5-year-old girl develops a strong emotional attachment to her father while identifying with her mother. Which Freudian concept best describes this behaviour?",
+    "options": [
+      "Oedipus complex",
+      "Oral fixation",
+      "Anal fixation",
+      "Electra complex"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "An 8-year-old child spends most of his time studying, playing sports, and developing friendships, while showing little interest in sexual matters. According to Freud, which psychosexual stage best explains this behavior?",
+    "options": [
+      "Phallic stage",
+      "Genital stage",
+      "Oral stage",
+      "Latency stage"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A 17-year-old adolescent develops emotional maturity, forms healthy romantic relationships, and begins establishing adult responsibilities. According to Freud, he has entered which psychosexual stage?",
+    "options": [
+      "Phallic stage",
+      "Anal stage",
+      "Latency stage",
+      "Genital stage"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A 9-month-old infant cries when separated from his mother but is easily comforted when she returns. Consistent and loving care has helped him develop confidence in caregivers. Which psychosocial conflict has been successfully resolved?",
+    "options": [
+      "Autonomy vs Shame and Doubt",
+      "Initiative vs Guilt",
+      "Industry vs Inferiority",
+      "Trust vs Mistrust"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A 2-year-old insists on feeding himself and choosing his own clothes. His parents encourage him to perform these activities independently. Which Erikson stage is being successfully resolved?",
+    "options": [
+      "Trust vs Mistrust",
+      "Initiative vs Guilt",
+      "Industry vs Inferiority",
+      "Autonomy vs Shame and Doubt"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Parents repeatedly criticize their 2-year-old whenever he tries to eat or dress independently. As a result, he becomes hesitant to perform simple tasks alone. Which psychosocial outcome is most likely?",
+    "options": [
+      "Guilt",
+      "Inferiority",
+      "Role confusion",
+      "Shame and doubt"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A 5-year-old enjoys organizing games, asking questions, and exploring new activities without fear of failure. Which Erikson conflict is being successfully resolved?",
+    "options": [
+      "Autonomy vs Shame and Doubt",
+      "Industry vs Inferiority",
+      "Identity vs Role Confusion",
+      "Initiative vs Guilt"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A 10-year-old repeatedly compares himself with classmates and begins believing he is incapable because he performs poorly in school. Which psychosocial conflict has failed to resolve successfully?",
+    "options": [
+      "Initiative vs Guilt",
+      "Identity vs Role Confusion",
+      "Intimacy vs Isolation",
+      "Industry vs Inferiority"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A 16-year-old is uncertain about his career, values, and future goals. He frequently changes his interests and feels unsure about who he wants to become. Which Erikson stage best explains this situation?",
+    "options": [
+      "Industry vs Inferiority",
+      "Initiative vs Guilt",
+      "Intimacy vs Isolation",
+      "Identity vs Role Confusion"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A 28-year-old avoids close friendships and finds it difficult to establish long-term romantic relationships despite having a stable career. Which psychosocial conflict remains unresolved?",
+    "options": [
+      "Identity vs Role Confusion",
+      "Industry vs Inferiority",
+      "Generativity vs Stagnation",
+      "Intimacy vs Isolation"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A 50-year-old physician enjoys mentoring junior doctors, teaching medical students, and participating in community welfare projects. Which Erikson stage has been successfully achieved?",
+    "options": [
+      "Intimacy vs Isolation",
+      "Identity vs Role Confusion",
+      "Integrity vs Despair",
+      "Generativity vs Stagnation"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A 72-year-old retired teacher reflects on her life with satisfaction, accepts both successes and failures, and expresses no major regrets. Which Erikson stage has been successfully resolved?",
+    "options": [
+      "Generativity vs Stagnation",
+      "Intimacy vs Isolation",
+      "Identity vs Role Confusion",
+      "Integrity vs Despair"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A 68-year-old man is diagnosed with metastatic carcinoma. He repeatedly tells his family, \"The laboratory reports must be wrong. I feel completely healthy.\" Which psychological reaction to dying is he demonstrating?",
+    "options": [
+      "Anger",
+      "Depression",
+      "Acceptance",
+      "Denial"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A terminally ill patient repeatedly blames doctors and nurses for his illness and becomes hostile toward everyone involved in his care. Which psychological reaction best explains this behavior?",
+    "options": [
+      "Denial",
+      "Depression",
+      "Acceptance",
+      "Anger"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A patient with end-stage heart failure becomes withdrawn, hopeless, cries frequently, and expresses sadness about leaving his family. Which reaction is MOST likely?",
+    "options": [
+      "Denial",
+      "Anger",
+      "Depression",
+      "Acceptance"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient with advanced cancer calmly discusses organ donation, writes a will, and shares his final wishes with family members. Which psychological reaction is illustrated?",
+    "options": [
+      "Denial",
+      "Anger",
+      "Depression",
+      "Acceptance"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Following the death of her husband, a widow observes Iddat according to her religious and cultural tradition. The primary purpose of this practice is to:",
+    "options": [
+      "Investigate the cause of death",
+      "Prevent emotional distress",
+      "Maintain family communication",
+      "Help the family cope with grief"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Relatives gather for Sog after the death of an elderly family member. According to behavioral sciences, this practice mainly helps by:",
+    "options": [
+      "Preparing the family before death",
+      "Respecting the patient's wishes",
+      "Providing medical information",
+      "Supporting the grieving process"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "Which of the following cultural grieving practices is specifically mentioned in your notes as helping families cope with loss?",
+    "options": [
+      "Iddat",
+      "Sog",
+      "Phuree",
+      "All of the above"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A physician provides regular updates regarding a patient's deteriorating condition, answers relatives' questions honestly, and involves them in important discussions. Which outcome is MOST likely?",
+    "options": [
+      "Reduced denial among relatives",
+      "Better acceptance of treatment decisions",
+      "Improved emotional support",
+      "Reduced risk of violence after death"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A dying patient requests that unnecessary painful procedures be avoided and that comfort should be prioritized during his final days. What should the physician do FIRST?",
+    "options": [
+      "Maintain honest communication",
+      "Support the family emotionally",
+      "Control pain effectively",
+      "Respect the patient's wishes"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A patient is informed that he has an incurable disease. Immediately after hearing the diagnosis, he repeatedly states, \"This cannot be true.\" Which reaction is MOST likely to occur first?",
+    "options": [
+      "Anger",
+      "Depression",
+      "Acceptance",
+      "Denial"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A physician explains that good end-of-life care requires attention to the patient's physical suffering, emotional needs, and family concerns rather than focusing only on disease treatment. This approach is MOST consistent with:",
+    "options": [
+      "Disease-oriented care",
+      "Curative care",
+      "Biomedical approach",
+      "Holistic patient care"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "During the final hours of a patient's life, the healthcare team encourages family members to remain present, answer the patient's concerns honestly, and provide reassurance. Which aspect of care is MOST emphasized?",
+    "options": [
+      "Respect for patient's wishes",
+      "Honest communication",
+      "Pain control",
+      "Support for the patient and family"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "In many cultures, death is regarded as the will of God. According to the behavioral sciences, which responsibility should still be fulfilled by the physician?",
+    "options": [
+      "Respect the family's cultural beliefs",
+      "Prepare relatives for possible death",
+      "Learn from the patient's illness",
+      "Investigate the medical cause of death"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A physician consistently controls pain, respects the patient's wishes, communicates honestly with relatives, and provides emotional support throughout terminal illness. Which outcome is MOST likely?",
+    "options": [
+      "Reduced denial among family members",
+      "Better grieving practices in society",
+      "Elimination of psychological reactions to death",
+      "Better coping and reduced conflict after death"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A final-year medical student fails an important examination but insists that the examiner was unfair rather than accepting his inadequate preparation. Which defense mechanism is demonstrated?",
+    "options": [
+      "Projection",
+      "Rationalization",
+      "Denial",
+      "Regression"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient with alcohol dependence repeatedly insists, \"I don't have any drinking problem,\" despite evidence of liver disease. Which defense mechanism is MOST likely?",
+    "options": [
+      "Projection",
+      "Regression",
+      "Denial",
+      "Displacement"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A man who is angry with his employer returns home and scolds his children for making noise. Which defense mechanism best explains this behavior?",
+    "options": [
+      "Projection",
+      "Sublimation",
+      "Displacement",
+      "Reaction formation"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A student who frequently cheats during examinations accuses his classmates of being dishonest. Which defense mechanism is illustrated?",
+    "options": [
+      "Rationalization",
+      "Projection",
+      "Regression",
+      "Suppression"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "After the birth of a new sibling, a 5-year-old child begins thumb sucking again despite having stopped months earlier. Which defense mechanism is MOST likely?",
+    "options": [
+      "Denial",
+      "Regression",
+      "Displacement",
+      "Projection"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A young man channels his aggressive impulses into becoming a successful boxer.Which defense mechanism is demonstrated?",
+    "options": [
+      "Reaction formation",
+      "Projection",
+      "Sublimation",
+      "Rationalization"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A woman who strongly dislikes her colleague behaves in an excessively polite and affectionate manner whenever they meet. Which defense mechanism is illustrated?",
+    "options": [
+      "Displacement",
+      "Denial",
+      "Reaction formation",
+      "Projection"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A medical student deliberately avoids thinking about family problems until after completing professional examinations. Which defense mechanism is MOST appropriate?",
+    "options": [
+      "Repression",
+      "Suppression",
+      "Regression",
+      "Rationalization"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "During a routine examination, a physician notes that a child has achieved expected motor, language, and social milestones for age. These observations mainly reflect normal:",
+    "options": [
+      "Growth only",
+      "Physical maturation only",
+      "Development",
+      "Nutritional status"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A child demonstrates increasing independence, frequently opposes parental requests, and prefers performing simple daily activities without assistance. These behaviors are MOST characteristic of:",
+    "options": [
+      "Infancy",
+      "Toddlerhood",
+      "Preschool age",
+      "School age"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A child demonstrates vivid imagination, symbolic play, curiosity, and a strong desire to explore the environment. These behavioral characteristics are MOST typical of which developmental stage?",
+    "options": [
+      "Toddlerhood",
+      "Preschool age",
+      "School age",
+      "Adolescence"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A high-school student becomes increasingly concerned about identity, peer relationships, physical appearance, and future educational goals. These behavioral changes are MOST typical of:",
+    "options": [
+      "School age",
+      "Adolescence",
+      "Young adulthood",
+      "Older adulthood"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A 28-year-old has successfully established intimate relationships, achieved financial independence, and assumed family responsibilities. These developmental achievements are MOST characteristic of:",
+    "options": [
+      "Identity formation",
+      "Young adulthood",
+      "Middle adulthood",
+      "Older adulthood"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A physician notices that a 48-year-old school principal is more concerned about contributing to society and nurturing younger individuals than pursuing personal success. This behavior is MOST typical of:",
+    "options": [
+      "Adolescence",
+      "Young adulthood",
+      "Middle adulthood",
+      "Older adulthood"
+    ],
+    "correctAnswer": 2
+  }
+]

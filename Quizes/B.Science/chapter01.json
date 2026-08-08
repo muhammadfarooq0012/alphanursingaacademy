@@ -1,27 +1,502 @@
 [
   {
-    "question": "What is the pH of pure water?",
-    "options": ["5", "6", "7", "8"],
+    "question": "A 45-year-old diabetic patient visits a physician. Before prescribing medication, the physician asks about his family relationships, work stress, financial status, eating habits, and emotional well-being. Which healthcare approach is the physician practicing?",
+    "options": [
+      "Traditional allopathic medicine",
+      "Holistic medicine",
+      "Bio-Psycho-Social model",
+      "Integrated healthcare model"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A physician advises a hypertensive patient to take medicines, exercise regularly, reduce stress, improve diet, and involve family members in treatment. Which healthcare model best explains this approach?",
+    "options": [
+      "Holistic medicine",
+      "Bio-Psycho-Social model",
+      "Integrated healthcare model",
+      "Traditional allopathic medicine"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "A patient refuses surgery because his cultural beliefs encourage treatment by a traditional healer before consulting a physician. Which behavioral science best explains this behavior?",
+    "options": [
+      "Psychology",
+      "Sociology",
+      "Medical anthropology",
+      "Neuroscience"
+    ],
     "correctAnswer": 2
   },
   {
-    "question": "Which element is most abundant in the human body?",
-    "options": ["Carbon", "Hydrogen", "Nitrogen", "Oxygen"],
+    "question": "A physician continues motivating a patient with terminal cancer despite poor prognosis. Which quality of a holistic physician is MOST clearly demonstrated?",
+    "options": [
+      "Respect for human dignity",
+      "Good listening skills",
+      "Belief in healing",
+      "Creative and scientific thinking"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A doctor allows a patient to explain all complaints without interruption before reaching a diagnosis. Which quality is MOST evident?",
+    "options": [
+      "Empathy",
+      "Respect for human dignity",
+      "Good listening skills",
+      "Tolerance"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient develops coronary artery disease because of obesity, smoking, chronic stress, and poor family support. According to Engel's model, this disease resulted from:",
+    "options": [
+      "Biological component only",
+      "Psychological component only",
+      "Social component only",
+      "Interaction of biological, psychological, and social factors"
+    ],
     "correctAnswer": 3
   },
   {
-    "question": "DNA stands for:",
-    "options": ["Deoxyribonucleic Acid", "Dinitro Acid", "Deoxyribose Nucleic Atom", "None of these"],
-    "correctAnswer": 0
-  },
-  {
-    "question": "The basic unit of life is:",
-    "options": ["Tissue", "Organ", "Cell", "Molecule"],
+    "question": "During a dengue outbreak, a physician identifies poor sanitation and stagnant water as major contributors to disease spread. According to the BPS model, these represent:",
+    "options": [
+      "Biological component",
+      "Psychological component",
+      "Social component",
+      "Behavioral component"
+    ],
     "correctAnswer": 2
   },
   {
-    "question": "Which vitamin is produced by sunlight?",
-    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "question": "A diabetic patient refuses insulin because he believes injections damage the kidneys. Which component of the BPS model mainly explains this behaviour?",
+    "options": [
+      "Biological component",
+      "Social component",
+      "Psychological component",
+      "Environmental component"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "Before treatment, a physician evaluates a patient's personality, motivation, and attitude toward illness. Which component is primarily being assessed?",
+    "options": [
+      "Biological component",
+      "Social component",
+      "Behavioral component",
+      "Psychological component"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A patient frequently misses follow-up appointments because no family member encourages treatment compliance. Which component of the BPS model is MOST responsible?",
+    "options": [
+      "Biological component",
+      "Social component",
+      "Psychological component",
+      "Behavioral component"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "question": "After completing a marathon, an athlete drinks water and oral rehydration solution to restore normal body balance. Which concept best explains this response?",
+    "options": [
+      "Allostasis",
+      "Eustress",
+      "Homeostasis",
+      "Distress"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A laborer begins work early in the morning during summer to avoid excessive afternoon heat. Which physiological process is illustrated?",
+    "options": [
+      "Homeostasis",
+      "Distress",
+      "Allostasis",
+      "Eustress"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A medical student feels motivated by examination pressure and performs better academically. Which type of stress is demonstrated?",
+    "options": [
+      "Distress",
+      "Homeostasis",
+      "Allostasis",
+      "Eustress"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A businessman develops headache, fatigue, dizziness, and poor sleep during a stressful project. Examination reveals no structural abnormality. Which condition best explains his symptoms?",
+    "options": [
+      "Disease",
+      "Illness",
+      "Sickness",
+      "Distress"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A woman experiences weakness and poor appetite after emotional stress but recovers completely within one week after rest and family support. Which feature best supports the diagnosis?",
+    "options": [
+      "Disease",
+      "Illness",
+      "Distress",
+      "Sickness"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient reports feeling unwell despite normal laboratory investigations and no confirmed pathology. Which concept best describes this condition?",
+    "options": [
+      "Illness",
+      "Disease",
+      "Sickness",
+      "Distress"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A patient with influenza is advised to remain off work temporarily, seek medical care, and complete prescribed treatment. Which behavioral concept is illustrated?",
+    "options": [
+      "Illness",
+      "Disease",
+      "Malingering",
+      "Sick role"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A healthy office worker pretends to have severe back pain to obtain paid leave from work. Which behavioral concept best describes this action?",
+    "options": [
+      "Illness",
+      "Sickness",
+      "Sick role",
+      "Malingering"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A physician suspects that a patient may be exaggerating symptoms to obtain financial compensation. According to behavioral sciences, the physician should:",
+    "options": [
+      "Diagnose disease immediately",
+      "Accept the complaint without assessment",
+      "Carefully evaluate for malingering",
+      "Ignore psychological factors"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A family believes epilepsy is caused by supernatural forces and therefore seeks treatment from a faith healer before consulting a physician. Which concept is MOST influenced by culture?",
+    "options": [
+      "Disease",
+      "Sickness",
+      "Distress",
+      "Illness"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A patient is diagnosed with enteric fever after laboratory confirmation of bacterial infection. Which concept best describes this condition?",
+    "options": [
+      "Illness",
+      "Sickness",
+      "Distress",
+      "Disease"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A child sustains a fractured humerus after falling from a bicycle. Which concept best describes this condition?",
+    "options": [
+      "Illness",
+      "Sickness",
+      "Distress",
+      "Disease"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A patient with Type 1 Diabetes Mellitus requires lifelong insulin therapy because the condition has a definite pathological cause. Which concept does this illustrate?",
+    "options": [
+      "Illness",
+      "Sickness",
+      "Distress",
+      "Disease"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A nationwide immunization campaign is organized to reduce childhood infectious diseases. This activity primarily belongs to:",
+    "options": [
+      "Traditional allopathic medicine",
+      "Bio-Psycho-Social model",
+      "Integrated healthcare model",
+      "Public health care model"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A pregnant woman regularly visits a Basic Health Unit (BHU) for antenatal care, immunization, and health education. Which healthcare service is she receiving?",
+    "options": [
+      "Secondary healthcare services",
+      "Tertiary healthcare services",
+      "Integrated healthcare services",
+      "Primary Health Care (PHC)"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A 2-year-old child is brought to a Rural Health Centre (RHC) for routine immunization. Which healthcare service is primarily being provided?",
+    "options": [
+      "Secondary Health Care",
+      "Tertiary Health Care",
+      "Integrated Health Care",
+      "Primary Health Care (PHC)"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A government campaign encourages motorcyclists to wear helmets to reduce head injuries. Which public health activity does this represent?",
+    "options": [
+      "Disease treatment",
+      "Community rehabilitation",
+      "Primary diagnosis",
+      "Health promotion"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A physician advises a smoker to quit smoking before he develops chronic lung disease. This recommendation is an example of:",
+    "options": [
+      "Disease management",
+      "Curative care",
+      "Crisis intervention",
+      "Health promotion"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A doctor explains that a balanced diet and regular exercise reduce the risk of diabetes and heart disease. Which public health objective is being emphasized?",
+    "options": [
+      "Disease diagnosis",
+      "Disease treatment",
+      "Family counselling",
+      "Disease prevention"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A patient becomes depressed after losing his job and experiencing financial difficulties. Which behavioral science best explains how employment influences health?",
+    "options": [
+      "Psychology",
+      "Neuroscience",
+      "Medical anthropology",
+      "Sociology"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A psychologist evaluates a student's emotions, intelligence, motivation, and personality before counseling. Which behavioral science is primarily involved?",
+    "options": [
+      "Sociology",
+      "Neuroscience",
+      "Psychology",
+      "Medical anthropology"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A researcher studies how cultural beliefs and stigma affect tuberculosis treatment in different communities. Which behavioral science is most appropriate?",
+    "options": [
+      "Sociology",
+      "Psychology",
+      "Neuroscience",
+      "Medical anthropology"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A physician explains that health depends on balance among biological, cognitive, behavioral, sociocultural, and environmental factors. Which healthcare model is being described?",
+    "options": [
+      "Holistic medicine",
+      "Bio-Psycho-Social model",
+      "Traditional allopathic medicine",
+      "Integrated healthcare model"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A physician involves a patient's spouse and children in the treatment plan to improve recovery. Which principle of the Bio-Psycho-Social model is demonstrated?",
+    "options": [
+      "Biological factors determine disease alone.",
+      "Psychological factors alone improve health.",
+      "Disease depends only on medicines.",
+      "Social relationships influence health outcomes."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A patient with depression receives antidepressants, counselling, and strong family support. Which healthcare model best explains this management?",
+    "options": [
+      "Traditional allopathic medicine",
+      "Integrated healthcare model",
+      "Holistic medicine",
+      "Bio-Psycho-Social model"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A physician treats hypertension using medication only and ignores the patient's stress, family problems, and lifestyle. Which approach is being followed?",
+    "options": [
+      "Holistic medicine",
+      "Bio-Psycho-Social model",
+      "Integrated healthcare model",
+      "Traditional allopathic medicine"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A physician understands a patient's emotional suffering and responds with kindness while discussing treatment options. Which quality of a holistic physician is best demonstrated?",
+    "options": [
+      "Good listening skills",
+      "Respect for human dignity",
+      "Empathy",
+      "Creative thinking"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A doctor treats every patient equally regardless of religion, gender, or socioeconomic status. Which quality of a holistic physician is illustrated?",
+    "options": [
+      "Empathy",
+      "Good listening skills",
+      "Tolerance",
+      "Respect for human dignity"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A physician accepts a patient's cultural beliefs without criticism while providing appropriate medical advice. Which quality is most evident?",
+    "options": [
+      "Respect for human dignity",
+      "Empathy",
+      "Tolerance",
+      "Belief in healing"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "question": "A physician combines scientific evidence with individualized treatment strategies to manage a complex patient. Which quality is being demonstrated?",
+    "options": [
+      "Belief in healing",
+      "Good listening skills",
+      "Empathy",
+      "Creative and scientific thinking"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A college student develops headache, fatigue, dizziness, poor appetite, and poor sleep during examination week. Physical examination shows no structural abnormality. Which condition best explains these findings?",
+    "options": [
+      "Disease",
+      "Illness",
+      "Sickness",
+      "Distress"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A patient with bacterial pneumonia requires antibiotics because the illness has an identifiable pathological cause. Which concept best describes this condition?",
+    "options": [
+      "Illness",
+      "Sickness",
+      "Distress",
+      "Disease"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A health department launches community awareness programs on HIV/AIDS prevention. Which public health activity is primarily being performed?",
+    "options": [
+      "Curative care",
+      "Rehabilitation services",
+      "Disease surveillance",
+      "Health promotion"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A nationwide campaign promotes healthy eating habits to reduce obesity and cardiovascular disease. Which public health strategy is being used?",
+    "options": [
+      "Disease management",
+      "Crisis intervention",
+      "Informational care",
+      "Health promotion"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A physician asks about a patient's childhood experiences because they may contribute to current depression. Which principle of the Bio-Psycho-Social model is being applied?",
+    "options": [
+      "Disease results only from biology.",
+      "Disease depends only on pathology.",
+      "Medicines alone determine recovery.",
+      "Psychological and social factors influence disease."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A patient's treatment compliance improves after his family reminds him to take medicines every day. Which component of the Bio-Psycho-Social model has contributed most?",
+    "options": [
+      "Biological component",
+      "Psychological component",
+      "Behavioral component",
+      "Social component"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A physician explains that stress, occupation, poor diet, childhood experiences, and culture all contributed to the development of diabetes. Which principle is best illustrated?",
+    "options": [
+      "Biological factors are the sole cause.",
+      "Psychological factors are the sole cause.",
+      "Social factors are the sole cause.",
+      "Disease results from multiple interacting factors."
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A patient believes that his illness is caused by the \"evil eye\" and chooses treatment based on this belief. Which concept is primarily influenced by culture?",
+    "options": [
+      "Disease",
+      "Distress",
+      "Sickness",
+      "Illness"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A physician manages diabetes using medication, lifestyle modification, psychological counselling, and family education. Which approach best describes this management?",
+    "options": [
+      "Traditional allopathic medicine",
+      "Integrated healthcare model",
+      "Public health care model",
+      "Bio-Psycho-Social model"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "question": "A physician believes that health depends on maintaining balance among biological, cognitive, behavioral, sociocultural, and environmental domains. Which healthcare model best reflects this belief?",
+    "options": [
+      "Holistic medicine",
+      "Traditional allopathic medicine",
+      "Bio-Psycho-Social model",
+      "Integrated healthcare model"
+    ],
     "correctAnswer": 3
   }
 ]
