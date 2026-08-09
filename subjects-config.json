@@ -19,14 +19,14 @@
       "icon": "fa-flask",
       "color": "#9b59b6",
       "folder": "B.Science",
-      "chapters": ["chapter01", "chapter02", "chapter03","chapter04", "chapter05"]
+      "chapters": []
     },
     {
       "name": "Biophysics",
       "icon": "fa-atom",
       "color": "#3498db",
       "folder": "Biophysics",
-      "chapters": []
+      "chapters": ["chapter01", "chapter02", "chapter03","chapter04", "chapter05","chapter06","chapter07", "chapter08"]
     },
     {
       "name": "English",
