@@ -26,7 +26,7 @@
       "icon": "fa-atom",
       "color": "#3498db",
       "folder": "Biophysics",
-      "chapters": ["chapter01", "chapter02", "chapter03","chapter04", "chapter05","chapter06","chapter07", "chapter08"]
+      "chapters": []
     },
     {
       "name": "English",
